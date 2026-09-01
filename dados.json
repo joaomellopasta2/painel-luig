@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-01T12:23-03:00",
- "gerado_em_label": "01/09/2026 12:23",
+ "gerado_em": "2026-09-01T12:30-03:00",
+ "gerado_em_label": "01/09/2026 12:30",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 296,
- "novidades_qtd": 8,
- "rodada_anterior": "2026-09-01T12:02-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-01T12:23-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -1550,7 +1550,7 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "",
-     "novo": true
+     "novo": false
     },
     {
      "id": 282725574,
@@ -1558,7 +1558,7 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052808410910500000481770052",
-     "novo": true
+     "novo": false
     },
     {
      "id": 372093305,
@@ -1566,7 +1566,7 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25090409225490200000495563696",
-     "novo": true
+     "novo": false
     },
     {
      "id": 585479044,
@@ -1574,7 +1574,7 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26041413392582100000527731880",
-     "novo": true
+     "novo": false
     },
     {
      "id": 616302241,
@@ -1582,7 +1582,7 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26052010293008700000533398268",
-     "novo": true
+     "novo": false
     },
     {
      "id": 706596490,
@@ -1590,19 +1590,12 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082413140754500000547812735",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    183770241,
-    282725574,
-    372093305,
-    585479044,
-    616302241,
-    706596490
-   ],
-   "novo": true,
-   "novos_qtd": 6
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8077012-65.2025.8.05.0000",
@@ -8989,14 +8982,12 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061114145468800000536887746",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    637825303
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8042477-76.2026.8.05.0000",
@@ -10144,7 +10135,7 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25070507302376400000486425510",
-     "novo": true
+     "novo": false
     },
     {
      "id": 441814620,
@@ -10152,7 +10143,7 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101315315381700000501783400",
-     "novo": true
+     "novo": false
     },
     {
      "id": 441816032,
@@ -10160,7 +10151,7 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101315315381700000501783400",
-     "novo": true
+     "novo": false
     },
     {
      "id": 613920149,
@@ -10168,17 +10159,12 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26051810333101400000532917651",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    318939457,
-    441814620,
-    441816032,
-    613920149
-   ],
-   "novo": true,
-   "novos_qtd": 4
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8076196-20.2024.8.05.0000",
@@ -11311,14 +11297,12 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26042214115127500000528778001",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    591315733
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8051112-82.2022.8.05.0001",
@@ -11430,14 +11414,12 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040915065193400000527035945",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    581673602
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8043027-08.2025.8.05.0000",
@@ -12091,14 +12073,12 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26030916420158600000521931837",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    554200294
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8116159-95.2025.8.05.0001",
@@ -12359,7 +12339,7 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25090814290510500000496114167",
-     "novo": true
+     "novo": false
     },
     {
      "id": 524850810,
@@ -12367,7 +12347,7 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26012910425974500000515671982",
-     "novo": true
+     "novo": false
     },
     {
      "id": 524851020,
@@ -12375,7 +12355,7 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26012910425974500000515671982",
-     "novo": true
+     "novo": false
     },
     {
      "id": 524857071,
@@ -12383,7 +12363,7 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26012910425974500000515671982",
-     "novo": true
+     "novo": false
     },
     {
      "id": 541390729,
@@ -12391,7 +12371,7 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26022314211706300000519256556",
-     "novo": true
+     "novo": false
     },
     {
      "id": 541392194,
@@ -12399,19 +12379,12 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26022314211706300000519256556",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    382371236,
-    524850810,
-    524851020,
-    524857071,
-    541390729,
-    541392194
-   ],
-   "novo": true,
-   "novos_qtd": 6
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8076452-26.2025.8.05.0000",
@@ -15268,14 +15241,12 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=25052203321818400000184393680",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    276887897
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8026736-30.2025.8.05.0000",
