@@ -109,16 +109,24 @@ function grafico(titulo,mapa,ordena=true){
 }
 function renderPainel(){
   const d=DADOS, P=d.processos;
+  const is1=p=>p.instancia&&p.instancia.startsWith('1º');
+  const is2=p=>p.instancia&&(p.instancia.startsWith('2º')||p.instancia.startsWith('Superior'));
+  const ehGanho=p=>(p.resultado||'').toLowerCase().startsWith('ganho');
+  const ehPerda=p=>p.resultado==='Perda';
   const trans=P.filter(p=>p.transito).length;
-  const ganhos=P.filter(p=>(p.resultado||'').toLowerCase().startsWith('ganho')).length;
-  const perdas=P.filter(p=>p.resultado==='Perda').length;
+  const ganho1=P.filter(p=>ehGanho(p)&&is1(p)).length;
+  const ganho2=P.filter(p=>ehGanho(p)&&is2(p)).length;
+  const perda1=P.filter(p=>ehPerda(p)&&is1(p)).length;
+  const perda2=P.filter(p=>ehPerda(p)&&is2(p)).length;
   $('#tiles').innerHTML=`
     <div class="tile"><div class="n">${d.total}</div><div class="l">Processos monitorados</div></div>
     <div class="tile acc"><div class="n">${d.novidades_qtd}</div><div class="l">Novidades nesta atualização</div></div>
     <div class="tile"><div class="n">${trans}</div><div class="l">Com trânsito em julgado</div></div>
-    <div class="tile ok"><div class="n">${ganhos}</div><div class="l">Sinais de ganho</div></div>
-    <div class="tile bad"><div class="n">${perdas}</div><div class="l">Sinais de perda</div></div>
-    <div class="tile"><div class="n">${P.filter(p=>p.instancia.startsWith('2º')||p.instancia.startsWith('Superior')).length}</div><div class="l">Em 2º grau / Superior</div></div>`;
+    <div class="tile"><div class="n">${P.filter(is2).length}</div><div class="l">Em 2º grau / Superior</div></div>
+    <div class="tile ok"><div class="n">${ganho1}</div><div class="l">Sinais de ganho · 1º grau</div></div>
+    <div class="tile ok"><div class="n">${ganho2}</div><div class="l">Sinais de ganho · 2º grau/Sup.</div></div>
+    <div class="tile bad"><div class="n">${perda1}</div><div class="l">Sinais de perda · 1º grau</div></div>
+    <div class="tile bad"><div class="n">${perda2}</div><div class="l">Sinais de perda · 2º grau/Sup.</div></div>`;
   const resMap={};
   P.forEach(p=>{ let k='Em curso'; const r=(p.resultado||'').toLowerCase();
     if(r.startsWith('ganho'))k='Ganho'; else if(r==='perda')k='Perda'; else if(r==='acordo')k='Acordo';
