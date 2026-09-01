@@ -1,0 +1,33 @@
+name: Atualizar dados (2x/dia)
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Coletar dados do DJEN/CNJ
+        run: python updater/collect.py
+
+      - name: Commitar dados.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados.json
+          git commit -m "Atualiza dados automaticamente" || echo "sem alteracoes"
+          git push || echo "nada a enviar"
