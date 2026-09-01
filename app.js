@@ -37,17 +37,19 @@ function cardHTML(p){
   const tags=[
     `<span class="tag t-trib">${esc(p.trib)}</span>`,
     `<span class="tag t-inst">${esc(p.instancia)}</span>`,
+    p.fonte&&p.fonte.indexOf('TJBA')===0?`<span class="tag t-warn">via TJBA</span>`:'',
     p.novo?`<span class="tag t-new">● ${p.novos_qtd} novo${p.novos_qtd>1?'s':''}</span>`:'',
     tagResultado(p)
   ].join('');
+  const rodape = p.qtd_coms>0
+    ? `<span class="mov"><span class="dot"></span> Última mov.: <b>${fmtData(p.ultima_data)}</b> (${diasAtras(p.ultima_data)})</span>
+       <span>· ${p.qtd_coms} publicações</span>`
+    : `<span class="mov"><span class="dot"></span> Registro via TJBA · sem publicação no DJEN</span>`;
   return `<article class="card" data-num="${esc(p.num)}">
     <div class="linha1">${tags}</div>
     <div class="cliente">${esc(p.cliente)}</div>
     <div class="objeto">${esc(p.objeto)} · nº ${esc(p.num)}</div>
-    <div class="rodape">
-      <span class="mov"><span class="dot"></span> Última mov.: <b>${fmtData(p.ultima_data)}</b> (${diasAtras(p.ultima_data)})</span>
-      <span>· ${p.qtd_coms} publicações</span>
-    </div>
+    <div class="rodape">${rodape}</div>
   </article>`;
 }
 
