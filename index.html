@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b3d68">
+<title>Processos Luig × Petrobras</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Processos Luig">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topo">
+  <div class="topo-in">
+    <div class="topo-titulo">
+      <h1>Processos <span>Luig × Petrobras</span></h1>
+      <p class="sub">Luig Almeida Mota · OAB/RJ 183.486 · Petrobras &amp; Transpetro</p>
+    </div>
+    <button id="btnAtualizar" class="btn-refresh" title="Recarregar dados">⟳</button>
+  </div>
+  <div id="barraStatus" class="barra-status">Carregando…</div>
+</header>
+
+<main id="app">
+  <!-- ABA NOVIDADES -->
+  <section id="tab-novidades" class="tab ativa">
+    <div id="novidadesResumo" class="resumo-novidades"></div>
+    <div id="listaNovidades" class="lista"></div>
+  </section>
+
+  <!-- ABA PROCESSOS -->
+  <section id="tab-processos" class="tab">
+    <div class="busca-wrap">
+      <input id="busca" class="busca" type="search" placeholder="Buscar por nº, cliente, objeto…" autocomplete="off">
+    </div>
+    <div id="filtros" class="filtros"></div>
+    <div id="contadorLista" class="contador-lista"></div>
+    <div id="listaProcessos" class="lista"></div>
+  </section>
+
+  <!-- ABA PAINEL -->
+  <section id="tab-painel" class="tab">
+    <div id="tiles" class="tiles"></div>
+    <div id="graficos" class="graficos"></div>
+    <div class="cartao-info">
+      <h3>Como ler este painel</h3>
+      <ul>
+        <li><b>Novidades</b>: publicações que surgiram desde a última atualização automática.</li>
+        <li><b>Resultado</b> só aparece em processos com <b>trânsito em julgado</b> e sinal claro na decisão — trate como estimativa e confirme no link da fonte.</li>
+        <li>Atualiza sozinho <b>2× ao dia</b> (00h e 12h). Toque em um processo para ver o histórico e abrir a decisão no tribunal.</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<!-- Detalhe do processo -->
+<div id="modal" class="modal" hidden>
+  <div class="modal-bg"></div>
+  <div class="modal-card" role="dialog" aria-modal="true">
+    <button id="modalFechar" class="modal-fechar" aria-label="Fechar">×</button>
+    <div id="modalConteudo"></div>
+  </div>
+</div>
+
+<!-- NAV -->
+<nav class="nav">
+  <button class="nav-btn ativo" data-tab="novidades"><span class="ic">🔔</span><span>Novidades</span><i id="badgeNav" class="badge" hidden></i></button>
+  <button class="nav-btn" data-tab="processos"><span class="ic">📁</span><span>Processos</span></button>
+  <button class="nav-btn" data-tab="painel"><span class="ic">📊</span><span>Painel</span></button>
+</nav>
+
+<script src="app.js"></script>
+</body>
+</html>
