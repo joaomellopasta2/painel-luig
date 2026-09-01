@@ -21,7 +21,19 @@ OUT = os.path.normpath(os.path.join(BASE, "..", "dados.json"))
 BR = timezone(timedelta(hours=-3))  # horario de Brasilia
 
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+    "Referer": "https://comunica.pje.jus.br/",
+    "Origin": "https://comunica.pje.jus.br",
+}
+
+
 def fetch(parte, pagina):
+    """Busca uma página. Levanta exceção se falhar em todas as tentativas
+    (para o coletor abortar sem sobrescrever dados bons)."""
     q = urllib.parse.urlencode({
         "nomeAdvogado": ADVOGADO,
         "nomeParte": parte,
@@ -29,15 +41,17 @@ def fetch(parte, pagina):
         "pagina": pagina,
     })
     url = f"{API}?{q}"
-    for tent in range(4):
+    ultimo_erro = None
+    for tent in range(6):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "painel-luig/1.0"})
-            with urllib.request.urlopen(req, timeout=45) as r:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=60) as r:
                 return json.load(r)
         except Exception as e:
-            print(f"  ! erro {parte} p{pagina} tent{tent+1}: {e}")
-            time.sleep(3 * (tent + 1))
-    return {"items": []}
+            ultimo_erro = e
+            print(f"  ! erro {parte} p{pagina} tent{tent+1}/6: {e}")
+            time.sleep(4 * (tent + 1))
+    raise RuntimeError(f"Falha ao buscar {parte} pagina {pagina}: {ultimo_erro}")
 
 
 def coletar():
@@ -183,8 +197,28 @@ def classificar(p):
 
 def main():
     print("Coletando DJEN...", datetime.now(BR).isoformat())
-    comps = coletar()
+    try:
+        comps = coletar()
+    except Exception as e:
+        print(f"ERRO na coleta: {e}")
+        print("Abortando SEM sobrescrever dados.json (mantém os dados anteriores).")
+        sys.exit(1)
     procs = [classificar(p) for p in comps.values()]
+
+    # ---- travas de segurança: nunca apagar dados bons ----
+    prev_total = 0
+    if os.path.exists(OUT):
+        try:
+            prev_total = json.load(open(OUT, encoding="utf-8")).get("total", 0)
+        except Exception:
+            prev_total = 0
+    if len(procs) == 0:
+        print("ERRO: 0 processos coletados. Abortando SEM sobrescrever dados.json.")
+        sys.exit(1)
+    if prev_total >= 20 and len(procs) < prev_total * 0.5:
+        print(f"ERRO: coleta caiu de {prev_total} para {len(procs)} (queda anormal). "
+              "Abortando SEM sobrescrever.")
+        sys.exit(1)
 
     # ---- diff de novidades vs rodada anterior ----
     ids_ant = set()
