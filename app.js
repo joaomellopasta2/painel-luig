@@ -35,6 +35,7 @@ function render(){
 
 function cardHTML(p){
   const tags=[
+    p.posse?`<span class="tag t-posse">🏛️ Posse adquirida</span>`:'',
     `<span class="tag t-trib">${esc(p.trib)}</span>`,
     `<span class="tag t-inst">${esc(p.instancia)}</span>`,
     p.fonte&&p.fonte.indexOf('TJBA')===0?`<span class="tag t-warn">via TJBA</span>`:'',
@@ -72,7 +73,7 @@ function renderNovidades(){
 function renderFiltros(){
   const objetos=['todos',...Array.from(new Set(DADOS.processos.map(p=>p.objeto)))];
   const tribs=['todos',...Array.from(new Set(DADOS.processos.map(p=>p.trib))).sort()];
-  const status=['todos','Novidades','Trânsito julgado','Ganho','Perda','1º grau','2º grau'];
+  const status=['todos','Posse adquirida','Novidades','Trânsito julgado','Ganho','Perda','1º grau','2º grau'];
   const mk=(arr,cur,tipo)=>arr.map(v=>`<button class="chip ${v===cur?'ativo':''}" data-tipo="${tipo}" data-v="${esc(v)}">${esc(v==='todos'?(tipo==='trib'?'Todos tribunais':tipo==='obj'?'Todos objetos':'Todos status'):v)}</button>`).join('');
   $('#filtros').innerHTML = mk(status,filtroStatus,'status')+mk(tribs,filtroTrib,'trib')+mk(objetos,filtroObjeto,'obj');
 }
@@ -82,6 +83,7 @@ function aplicaFiltros(lista){
   return lista.filter(p=>{
     if(filtroObjeto!=='todos' && p.objeto!==filtroObjeto) return false;
     if(filtroTrib!=='todos' && p.trib!==filtroTrib) return false;
+    if(filtroStatus==='Posse adquirida' && !p.posse) return false;
     if(filtroStatus==='Novidades' && !p.novo) return false;
     if(filtroStatus==='Trânsito julgado' && !p.transito) return false;
     if(filtroStatus==='Ganho' && !(p.resultado||'').toLowerCase().startsWith('ganho')) return false;
@@ -120,7 +122,17 @@ function renderPainel(){
   const ganho2=P.filter(p=>ehGanho(p)&&is2(p)).length;
   const perda1=P.filter(p=>ehPerda(p)&&is1(p)).length;
   const perda2=P.filter(p=>ehPerda(p)&&is2(p)).length;
+  const posseArr=P.filter(p=>p.posse);
+  const posseN=posseArr.length;
+  const posseTut=posseArr.filter(p=>(p.posse_tipo||'').indexOf('tutela')===0||(p.posse_tipo||'').indexOf('tutela')>-1).length;
+  const posseEmp=posseArr.filter(p=>(p.posse_tipo||'')==='empossado').length;
   $('#tiles').innerHTML=`
+    <div class="tile posse-hero" onclick="(function(){filtroStatus='Posse adquirida';trocarTab('processos');renderFiltros();renderLista();})()">
+      <div class="ph-ic">🏛️</div>
+      <div class="ph-body"><div class="n">${posseN}</div>
+      <div class="l">clientes já <b>na posse da vaga</b> (via liminar/tutela ou definitivo) — toque para ver a lista</div>
+      <div class="ph-sub">${posseEmp} empossado(s) · ${posseTut} por tutela/liminar</div></div>
+    </div>
     <div class="tile"><div class="n">${d.total}</div><div class="l">Processos monitorados</div></div>
     <div class="tile acc"><div class="n">${d.novidades_qtd}</div><div class="l">Novidades nesta atualização</div></div>
     <div class="tile"><div class="n">${trans}</div><div class="l">Com trânsito em julgado</div></div>
@@ -152,7 +164,8 @@ function abrirProcesso(num){
   $('#modalConteudo').innerHTML=`
     <div class="m-num">${esc(p.num)}</div>
     <div class="m-sub">${esc(p.trib)} · ${esc(p.classe)}</div>
-    <div class="linha1" style="gap:6px">${tagResultado(p)} <span class="tag t-inst">${esc(p.instancia)}</span> ${p.transito?'<span class="tag t-neutral">trânsito em julgado</span>':''}</div>
+    <div class="linha1" style="gap:6px">${p.posse?'<span class="tag t-posse">🏛️ Posse adquirida</span>':''} ${tagResultado(p)} <span class="tag t-inst">${esc(p.instancia)}</span> ${p.transito?'<span class="tag t-neutral">trânsito em julgado</span>':''}</div>
+    ${p.posse?`<div class="posse-box"><b>🏛️ Cliente já na posse da vaga</b> — ${esc(p.posse_tipo||'')}. ${p.posse_evid?`<div class="posse-evid">"…${esc(p.posse_evid)}…"</div>`:''}<div class="posse-nota">Estimativa por leitura da decisão — confirme no link abaixo.</div></div>`:''}
     <div class="m-grid">
       <div class="m-item"><div class="k">Cliente (autor)</div><div class="v">${esc(p.cliente)}</div></div>
       <div class="m-item"><div class="k">Objeto</div><div class="v">${esc(p.objeto)}</div></div>
