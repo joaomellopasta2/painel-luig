@@ -124,14 +124,15 @@ function renderPainel(){
   const perda2=P.filter(p=>ehPerda(p)&&is2(p)).length;
   const posseArr=P.filter(p=>p.posse);
   const posseN=posseArr.length;
-  const posseTut=posseArr.filter(p=>(p.posse_tipo||'').indexOf('tutela')===0||(p.posse_tipo||'').indexOf('tutela')>-1).length;
-  const posseEmp=posseArr.filter(p=>(p.posse_tipo||'')==='empossado').length;
+  const posseEmp=posseArr.filter(p=>/efetiv|empossad/i.test(p.posse_tipo||'')).length;
+  const posseDef=posseArr.filter(p=>/tr[âa]nsito/i.test(p.posse_tipo||'')).length;
+  const posseVig=posseN-posseEmp-posseDef;
   $('#tiles').innerHTML=`
     <div class="tile posse-hero" onclick="(function(){filtroStatus='Posse adquirida';trocarTab('processos');renderFiltros();renderLista();})()">
       <div class="ph-ic">🏛️</div>
       <div class="ph-body"><div class="n">${posseN}</div>
       <div class="l">clientes já <b>na posse da vaga</b> (via liminar/tutela ou definitivo) — toque para ver a lista</div>
-      <div class="ph-sub">${posseEmp} empossado(s) · ${posseTut} por tutela/liminar</div></div>
+      <div class="ph-sub">${posseEmp} empossado(s) · ${posseDef} definitiva(s) · ${posseVig} vigente(s)</div></div>
     </div>
     <div class="tile"><div class="n">${d.total}</div><div class="l">Processos monitorados</div></div>
     <div class="tile acc"><div class="n">${d.novidades_qtd}</div><div class="l">Novidades nesta atualização</div></div>
