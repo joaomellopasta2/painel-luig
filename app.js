@@ -124,15 +124,14 @@ function renderPainel(){
   const perda2=P.filter(p=>ehPerda(p)&&is2(p)).length;
   const posseArr=P.filter(p=>p.posse);
   const posseN=posseArr.length;
-  const posseEmp=posseArr.filter(p=>/efetiv|empossad/i.test(p.posse_tipo||'')).length;
-  const posseDef=posseArr.filter(p=>/tr[âa]nsito/i.test(p.posse_tipo||'')).length;
-  const posseVig=posseN-posseEmp-posseDef;
+  const posseDef=posseArr.filter(p=>/definitiv|tr[âa]nsito/i.test(p.posse_tipo||'')).length;
+  const posseVig=posseN-posseDef;
   $('#tiles').innerHTML=`
     <div class="tile posse-hero" onclick="(function(){filtroStatus='Posse adquirida';trocarTab('processos');renderFiltros();renderLista();})()">
       <div class="ph-ic">🏛️</div>
       <div class="ph-body"><div class="n">${posseN}</div>
       <div class="l">clientes já <b>na posse da vaga</b> (via liminar/tutela ou definitivo) — toque para ver a lista</div>
-      <div class="ph-sub">${posseEmp} empossado(s) · ${posseDef} definitiva(s) · ${posseVig} vigente(s)</div></div>
+      <div class="ph-sub">${posseDef} definitiva(s) · ${posseVig} por liminar/tutela (vigente)</div></div>
     </div>
     <div class="tile"><div class="n">${d.total}</div><div class="l">Processos monitorados</div></div>
     <div class="tile acc"><div class="n">${d.novidades_qtd}</div><div class="l">Novidades nesta atualização</div></div>
@@ -167,6 +166,7 @@ function abrirProcesso(num){
     <div class="m-sub">${esc(p.trib)} · ${esc(p.classe)}</div>
     <div class="linha1" style="gap:6px">${p.posse?'<span class="tag t-posse">🏛️ Posse adquirida</span>':''} ${tagResultado(p)} <span class="tag t-inst">${esc(p.instancia)}</span> ${p.transito?'<span class="tag t-neutral">trânsito em julgado</span>':''}</div>
     ${p.posse?`<div class="posse-box"><b>🏛️ Cliente já na posse da vaga</b> — ${esc(p.posse_tipo||'')}. ${p.posse_evid?`<div class="posse-evid">"…${esc(p.posse_evid)}…"</div>`:''}<div class="posse-nota">Estimativa por leitura da decisão — confirme no link abaixo.</div></div>`:''}
+    ${p.resultado&&p.resultado_evid?`<div class="cartao-info" style="margin-top:10px"><h3 style="text-transform:none">Resultado (estimativa): ${esc(p.resultado)}</h3><div style="color:var(--tx2);font-size:12px;margin-bottom:6px">Motivo: ${esc(p.sinal||'')}</div><div class="posse-evid">"…${esc(p.resultado_evid)}…"</div><div class="posse-nota">Leitura automática da decisão — confirme no link abaixo.</div></div>`:''}
     <div class="m-grid">
       <div class="m-item"><div class="k">Cliente (autor)</div><div class="v">${esc(p.cliente)}</div></div>
       <div class="m-item"><div class="k">Objeto</div><div class="v">${esc(p.objeto)}</div></div>
