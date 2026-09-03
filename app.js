@@ -182,22 +182,27 @@ function contratoCard(c){
   const tipo = c.tipo==='concluido'
     ? `<span class="tag t-ok">✅ Concluída / homologada</span>`
     : `<span class="tag t-open">🟢 Licitação aberta</span>`;
-  const polos=(c.polos&&c.polos.length)
-    ? c.polos.map(p=>`<span class="tag t-polo">📍 ${esc(p)}</span>`).join('')
+  const polosArr=(c.polos||[]);
+  const polos=polosArr.length
+    ? polosArr.map(p=>p==='Nacional'
+        ? `<span class="tag t-nac">🌐 Nacional</span>`
+        : `<span class="tag t-polo">📍 ${esc(p)}</span>`).join('')
     : `<span class="tag t-neutral">📍 polo a identificar</span>`;
   const enf=(c.enfase_nomes||[]).map(n=>`<span class="tag t-enf">${esc(n)}</span>`).join('');
   const prof = c.profissionais
     ? `<span class="tag t-prof">👷 ${c.profissionais} profissional(is)</span>` : '';
-  const empresa = c.empresa ? `<span class="tag t-emp">🏢 ${esc(c.empresa)}</span>` : '';
+  const nomeEmp = c.fornecedor || c.empresa || '';
+  const empresa = nomeEmp ? `<span class="tag t-emp">🏢 ${esc(nomeEmp)}</span>` : '';
+  const posH = c.pos_homologacao ? `<span class="tag t-pos">⚡ pós-homologação</span>` : '';
   const dataRef = c.data_publicacao||c.data_fim||c.data_inicio;
   const obj = melhorObjeto(c);
   return `<article class="card card-contrato" data-num="${esc(c.num)}">
-    <div class="linha1">${tipo}${empresa}${prof}${polos}</div>
+    <div class="linha1">${tipo}${empresa}${posH}${prof}${polos}</div>
     <div class="objeto-c">${esc(obj)}</div>
     <div class="enf-linha">${enf}</div>
     <div class="rodape">
       <span class="mov"><span class="dot"></span> nº ${esc(c.num)} · ${dataRef?('publ. '+fmtData(dataRef)):'—'}</span>
-      ${c.status_desc?`<span>· ${esc(c.status_desc)}</span>`:''}
+      ${c.fonte?`<span>· ${esc(c.fonte)}</span>`:''}
     </div>
   </article>`;
 }
@@ -205,7 +210,8 @@ function filtraContratos(){
   const L=(CONTRATOS&&CONTRATOS.contratos)||[];
   return L.filter(c=>{
     if(provEnfase!=='todas' && !(c.enfases||[]).includes(+provEnfase)) return false;
-    if(provPolo!=='todos' && !(c.polos||[]).includes(provPolo)) return false;
+    // contratos de abrangência Nacional cobrem todos os polos → aparecem em qualquer filtro
+    if(provPolo!=='todos' && !(c.polos||[]).includes(provPolo) && !(c.polos||[]).includes('Nacional')) return false;
     return true;
   });
 }
@@ -230,24 +236,30 @@ function abrirContrato(num){
   const prof = c.profissionais
     ? `<div class="cartao-info" style="margin-top:10px"><h3 style="text-transform:none">👷 Nº de profissionais no contrato: ${c.profissionais}</h3>${c.profissionais_evid?`<div class="posse-evid">"…${esc(c.profissionais_evid)}…"</div>`:''}<div class="posse-nota">Extraído do edital — confirme na fonte.</div></div>`
     : `<div class="posse-nota" style="margin-top:8px">Nº de profissionais: <b>não informado</b> no edital (contratos por demanda/homem-hora costumam não fixar efetivo).</div>`;
+  const polosM=(c.polos||[]).map(p=>p==='Nacional'?`<span class="tag t-nac">🌐 Nacional</span>`:`<span class="tag t-polo">📍 ${esc(p)}</span>`).join('');
+  const valorFmt = c.valor ? ('R$ '+Number(c.valor).toLocaleString('pt-BR')) : '';
+  const vig = (c.vig_inicio||c.vig_fim) ? `${fmtData(c.vig_inicio)} — ${fmtData(c.vig_fim)}` : '';
+  const transp = c.fonte && c.fonte.indexOf('Transpar')>=0;
+  const linkLabel = transp ? 'Ver no Portal da Transparência ↗' : 'Ver contrato/edital na fonte (Petronect) ↗';
   $('#modalConteudo').innerHTML=`
-    <div class="m-num">Contrato ${esc(c.num)}</div>
-    <div class="m-sub">${c.tipo==='concluido'?'Concluída / homologada':'Licitação aberta'} · Petrobras</div>
-    <div class="linha1" style="gap:6px">${(c.enfase_nomes||[]).map(n=>`<span class="tag t-enf">${esc(n)}</span>`).join('')} ${(c.polos||[]).map(p=>`<span class="tag t-polo">📍 ${esc(p)}</span>`).join('')}</div>
+    <div class="m-num">Contrato ${esc(c.contrato||c.num)}</div>
+    <div class="m-sub">${esc(c.fonte||'Petronect')} · ${esc(c.situacao||(c.tipo==='concluido'?'Concluída / homologada':'Licitação aberta'))}</div>
+    <div class="linha1" style="gap:6px">${(c.enfase_nomes||[]).map(n=>`<span class="tag t-enf">${esc(n)}</span>`).join('')} ${polosM} ${c.pos_homologacao?'<span class="tag t-pos">⚡ pós-homologação</span>':''}</div>
+    ${c.fornecedor?`<div class="posse-box"><b>🏢 Empresa contratada:</b> ${esc(c.fornecedor)}${c.icj?` · <span style="color:var(--tx2)">ICJ ${esc(c.icj)}</span>`:''}</div>`:''}
     <div class="cartao-info" style="margin-top:10px"><h3 style="text-transform:none">Objeto do contrato</h3><div class="v">${esc(melhorObjeto(c))}</div></div>
     ${prof}
-    ${c.empresa?`<div class="posse-box"><b>🏢 Empresa:</b> ${esc(c.empresa)}. ${c.obs?esc(c.obs):''}</div>`:''}
+    ${c.pos_homologacao?`<div class="posse-nota" style="margin-top:8px">⚡ Contratação/vigência <b>posterior à homologação</b> do concurso (18/06/2024) — especialmente relevante para a tese.</div>`:''}
     <div class="m-grid">
-      <div class="m-item"><div class="k">Situação</div><div class="v">${esc(c.status_desc||'—')}</div></div>
+      <div class="m-item"><div class="k">Situação</div><div class="v">${esc(c.situacao||c.status_desc||'—')}</div></div>
+      <div class="m-item"><div class="k">Vigência</div><div class="v">${vig||'—'}</div></div>
+      <div class="m-item"><div class="k">Valor</div><div class="v">${valorFmt||'—'}</div></div>
       <div class="m-item"><div class="k">Publicação</div><div class="v">${fmtData(c.data_publicacao)}</div></div>
-      <div class="m-item"><div class="k">Início</div><div class="v">${fmtData(c.data_inicio)}</div></div>
-      <div class="m-item"><div class="k">Fim</div><div class="v">${fmtData(c.data_fim)}</div></div>
       <div class="m-item"><div class="k">Região (UF)</div><div class="v">${esc((c.ufs||[]).join(', ')||'—')}</div></div>
-      <div class="m-item"><div class="k">Família</div><div class="v" style="font-size:12px">${esc((c.familias||[]).join(' · ')||'—')}</div></div>
+      <div class="m-item"><div class="k">Nº processo</div><div class="v">${esc(c.num||'—')}</div></div>
     </div>
     ${sug.length?`<div class="cartao-info" style="margin-top:10px"><h3 style="text-transform:none">Empresas conhecidas nesta área</h3><div class="v" style="font-size:13px">${sug.map(esc).join(' · ')}</div><div class="posse-nota">Lista de referência (não confirma que uma delas venceu este contrato específico).</div></div>`:''}
-    ${c.edital_link?`<a class="m-btn" href="${esc(c.edital_link)}" target="_blank" rel="noopener">Ver contrato/edital na fonte (Petronect) ↗</a>`:''}
-    <div class="posse-nota" style="margin-top:10px">Classificação automática por leitura do objeto — estimativa, confirme no edital.</div>`;
+    ${c.edital_link?`<a class="m-btn" href="${esc(c.edital_link)}" target="_blank" rel="noopener">${linkLabel}</a>`:''}
+    <div class="posse-nota" style="margin-top:10px">Classificação automática por leitura do objeto — estimativa, confirme na fonte.</div>`;
   const m=$('#modal'); m.hidden=false; document.body.style.overflow='hidden';
 }
 

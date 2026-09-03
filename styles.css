@@ -280,4 +280,6 @@ a{color:var(--cy);text-decoration:none}
 .t-polo{background:rgba(56,225,255,.12);color:var(--cy);border-color:rgba(56,225,255,.30);text-transform:none}
 .t-enf{background:rgba(155,107,255,.13);color:#c3a6ff;border-color:rgba(155,107,255,.30);text-transform:none;letter-spacing:0}
 .t-prof{background:var(--warnbg);color:var(--warn);border-color:var(--warnbd);text-transform:none}
-.t-emp{background:rgba(79,123,255,.14);color:#9fb6ff;border-color:rgba(79,123,255,.28);text-transform:none}
+.t-emp{background:rgba(79,123,255,.14);color:#9fb6ff;border-color:rgba(79,123,255,.28);text-transform:none;max-width:220px;overflow:hidden;text-overflow:ellipsis}
+.t-nac{background:rgba(56,225,255,.12);color:var(--cy);border-color:rgba(56,225,255,.30);text-transform:none}
+.t-pos{background:var(--goldbg,rgba(255,194,77,.12));color:var(--gold,#ffc24d);border-color:var(--goldbd,rgba(255,194,77,.30));text-transform:none}
