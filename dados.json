@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-03T00:04-03:00",
- "gerado_em_label": "03/09/2026 00:04",
+ "gerado_em": "2026-09-03T08:27-03:00",
+ "gerado_em_label": "03/09/2026 08:27",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 332,
- "novidades_qtd": 2,
- "rodada_anterior": "2026-09-02T18:46-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-03T00:04-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -59,14 +59,12 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26083022412435400000548738312",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    716245474
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8184300-35.2026.8.05.0001",
@@ -209,14 +207,12 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082614554478100000548329946",
-     "novo": true
+     "novo": false
     }
    ],
-   "novos_ids": [
-    717135559
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8184590-50.2026.8.05.0001",
