@@ -1,6 +1,7 @@
 'use strict';
 let DADOS = null;
 let filtroObjeto = 'todos', filtroTrib = 'todos', filtroStatus = 'todos';
+let CONTRATOS = null, provEnfase = 'todas', provPolo = 'todos';
 
 const $ = s => document.querySelector(s);
 const $$ = s => Array.from(document.querySelectorAll(s));
@@ -152,6 +153,104 @@ function renderPainel(){
     + grafico('Situação / resultado',resMap);
 }
 
+/* =================== PROVAS (terceirização) =================== */
+function limpaObjeto(s){ return (s==null?'':String(s)).replace(/^\s*(d[oa]\s+(contrato|objeto|procedimento|edital|servi[çc]o)|objeto)\b[:\-–\s]*/i,'').trim(); }
+// usa o objeto do edital só quando começa como um objeto de verdade; senão o objeto curto do feed (mais confiável)
+function melhorObjeto(c){
+  const full=limpaObjeto(c.objeto_completo||'');
+  if(full && /^(presta|servi|contrata|execu|fornec|gest|gerenc|manuten|opera|obra|constru|montagem|realiza|elabora|multiservi|apoio|inspe|sv\.|serv\.)/i.test(full)) return full;
+  return c.objeto||full;
+}
+async function carregarContratos(){
+  if(CONTRATOS) { renderProvas(); return; }
+  try{
+    const r=await fetch('contratos.json?t='+Date.now(),{cache:'default'});
+    CONTRATOS=await r.json();
+  }catch(err){ CONTRATOS={contratos:[],total:0,enfases:{}}; }
+  montaSelectEnfase();
+  renderProvas();
+}
+function montaSelectEnfase(){
+  const sel=$('#selEnfase'); if(!sel||sel.dataset.pronto) return;
+  const en=CONTRATOS.enfases||{};
+  const keys=Object.keys(en).sort((a,b)=>(+a)-(+b));
+  sel.innerHTML='<option value="todas">Todas as ênfases</option>'+
+    keys.map(k=>`<option value="${k}">${esc('Ênfase '+k+': '+en[k])}</option>`).join('');
+  sel.dataset.pronto='1';
+}
+function contratoCard(c){
+  const tipo = c.tipo==='concluido'
+    ? `<span class="tag t-ok">✅ Concluída / homologada</span>`
+    : `<span class="tag t-open">🟢 Licitação aberta</span>`;
+  const polos=(c.polos&&c.polos.length)
+    ? c.polos.map(p=>`<span class="tag t-polo">📍 ${esc(p)}</span>`).join('')
+    : `<span class="tag t-neutral">📍 polo a identificar</span>`;
+  const enf=(c.enfase_nomes||[]).map(n=>`<span class="tag t-enf">${esc(n)}</span>`).join('');
+  const prof = c.profissionais
+    ? `<span class="tag t-prof">👷 ${c.profissionais} profissional(is)</span>` : '';
+  const empresa = c.empresa ? `<span class="tag t-emp">🏢 ${esc(c.empresa)}</span>` : '';
+  const dataRef = c.data_publicacao||c.data_fim||c.data_inicio;
+  const obj = melhorObjeto(c);
+  return `<article class="card card-contrato" data-num="${esc(c.num)}">
+    <div class="linha1">${tipo}${empresa}${prof}${polos}</div>
+    <div class="objeto-c">${esc(obj)}</div>
+    <div class="enf-linha">${enf}</div>
+    <div class="rodape">
+      <span class="mov"><span class="dot"></span> nº ${esc(c.num)} · ${dataRef?('publ. '+fmtData(dataRef)):'—'}</span>
+      ${c.status_desc?`<span>· ${esc(c.status_desc)}</span>`:''}
+    </div>
+  </article>`;
+}
+function filtraContratos(){
+  const L=(CONTRATOS&&CONTRATOS.contratos)||[];
+  return L.filter(c=>{
+    if(provEnfase!=='todas' && !(c.enfases||[]).includes(+provEnfase)) return false;
+    if(provPolo!=='todos' && !(c.polos||[]).includes(provPolo)) return false;
+    return true;
+  });
+}
+function renderProvas(){
+  if(!CONTRATOS){ return; }
+  const res=filtraContratos();
+  const ab=res.filter(c=>c.tipo!=='concluido').length, cc=res.length-ab;
+  const wrap=$('#provasResumo');
+  if(!CONTRATOS.total){
+    wrap.innerHTML=`<div class="rn-vazio"><div class="emo">⏳</div><p>Ainda não há contratos coletados.<br><small>Rode o atualizador no PC para gerar o <b>contratos.json</b>.</small></p></div>`;
+    $('#contadorProvas').textContent=''; $('#listaContratos').innerHTML=''; return;
+  }
+  wrap.innerHTML=`<div class="rn-card"><div class="n">${res.length}</div><div class="l">contrato(s) de serviço da Petrobras nesta seleção — <b>${cc}</b> concluído(s)/homologado(s) · <b>${ab}</b> em licitação aberta. Base desde ${esc(CONTRATOS.desde||'jan/2024')}.</div></div>`;
+  $('#contadorProvas').textContent=`${res.length} contrato(s)`;
+  $('#listaContratos').innerHTML = res.length
+    ? res.map(contratoCard).join('')
+    : `<div class="rn-vazio">Nenhum contrato para esta ênfase/polo. Isso também é informação: pode não haver terceirização registrada nesse recorte (ou o objeto não casou). A base cresce a cada atualização.</div>`;
+}
+function abrirContrato(num){
+  const c=(CONTRATOS.contratos||[]).find(x=>x.num===num); if(!c) return;
+  const sug=(c.empresas_sugeridas||[]);
+  const prof = c.profissionais
+    ? `<div class="cartao-info" style="margin-top:10px"><h3 style="text-transform:none">👷 Nº de profissionais no contrato: ${c.profissionais}</h3>${c.profissionais_evid?`<div class="posse-evid">"…${esc(c.profissionais_evid)}…"</div>`:''}<div class="posse-nota">Extraído do edital — confirme na fonte.</div></div>`
+    : `<div class="posse-nota" style="margin-top:8px">Nº de profissionais: <b>não informado</b> no edital (contratos por demanda/homem-hora costumam não fixar efetivo).</div>`;
+  $('#modalConteudo').innerHTML=`
+    <div class="m-num">Contrato ${esc(c.num)}</div>
+    <div class="m-sub">${c.tipo==='concluido'?'Concluída / homologada':'Licitação aberta'} · Petrobras</div>
+    <div class="linha1" style="gap:6px">${(c.enfase_nomes||[]).map(n=>`<span class="tag t-enf">${esc(n)}</span>`).join('')} ${(c.polos||[]).map(p=>`<span class="tag t-polo">📍 ${esc(p)}</span>`).join('')}</div>
+    <div class="cartao-info" style="margin-top:10px"><h3 style="text-transform:none">Objeto do contrato</h3><div class="v">${esc(melhorObjeto(c))}</div></div>
+    ${prof}
+    ${c.empresa?`<div class="posse-box"><b>🏢 Empresa:</b> ${esc(c.empresa)}. ${c.obs?esc(c.obs):''}</div>`:''}
+    <div class="m-grid">
+      <div class="m-item"><div class="k">Situação</div><div class="v">${esc(c.status_desc||'—')}</div></div>
+      <div class="m-item"><div class="k">Publicação</div><div class="v">${fmtData(c.data_publicacao)}</div></div>
+      <div class="m-item"><div class="k">Início</div><div class="v">${fmtData(c.data_inicio)}</div></div>
+      <div class="m-item"><div class="k">Fim</div><div class="v">${fmtData(c.data_fim)}</div></div>
+      <div class="m-item"><div class="k">Região (UF)</div><div class="v">${esc((c.ufs||[]).join(', ')||'—')}</div></div>
+      <div class="m-item"><div class="k">Família</div><div class="v" style="font-size:12px">${esc((c.familias||[]).join(' · ')||'—')}</div></div>
+    </div>
+    ${sug.length?`<div class="cartao-info" style="margin-top:10px"><h3 style="text-transform:none">Empresas conhecidas nesta área</h3><div class="v" style="font-size:13px">${sug.map(esc).join(' · ')}</div><div class="posse-nota">Lista de referência (não confirma que uma delas venceu este contrato específico).</div></div>`:''}
+    ${c.edital_link?`<a class="m-btn" href="${esc(c.edital_link)}" target="_blank" rel="noopener">Ver contrato/edital na fonte (Petronect) ↗</a>`:''}
+    <div class="posse-nota" style="margin-top:10px">Classificação automática por leitura do objeto — estimativa, confirme no edital.</div>`;
+  const m=$('#modal'); m.hidden=false; document.body.style.overflow='hidden';
+}
+
 /* =================== MODAL =================== */
 function abrirProcesso(num){
   const p=DADOS.processos.find(x=>x.num===num); if(!p) return;
@@ -187,10 +286,12 @@ function trocarTab(tab){
   $$('.tab').forEach(t=>t.classList.remove('ativa'));
   $('#tab-'+tab).classList.add('ativa');
   $$('.nav-btn').forEach(b=>b.classList.toggle('ativo',b.dataset.tab===tab));
+  if(tab==='provas') carregarContratos();
   window.scrollTo(0,0);
 }
 document.addEventListener('click',e=>{
   const nav=e.target.closest('.nav-btn'); if(nav){ trocarTab(nav.dataset.tab); return; }
+  const cc=e.target.closest('.card-contrato'); if(cc){ abrirContrato(cc.dataset.num); return; }
   const card=e.target.closest('.card'); if(card){ abrirProcesso(card.dataset.num); return; }
   const chip=e.target.closest('.chip'); if(chip){
     const {tipo,v}=chip.dataset;
@@ -200,6 +301,8 @@ document.addEventListener('click',e=>{
   if(e.target.id==='modalFechar'||e.target.classList.contains('modal-bg')) fecharModal();
 });
 $('#busca').addEventListener('input',renderLista);
+$('#selEnfase').addEventListener('change',e=>{ provEnfase=e.target.value; renderProvas(); });
+$('#selPolo').addEventListener('change',e=>{ provPolo=e.target.value; renderProvas(); });
 $('#btnAtualizar').addEventListener('click',()=>carregar(true));
 document.addEventListener('keydown',e=>{ if(e.key==='Escape') fecharModal(); });
 

@@ -45,6 +45,30 @@
     <div id="listaProcessos" class="lista"></div>
   </section>
 
+  <!-- ABA PROVAS -->
+  <section id="tab-provas" class="tab">
+    <div class="provas-intro">
+      <h2>Provas de terceirização <span>× preterição</span></h2>
+      <p>Contratos de <b>serviço da Petrobras</b> (vigentes a partir de jan/2024) cujo objeto corresponde às atribuições de cada ênfase do concurso. Havendo cadastro de reserva ativo, a terceirização dessas atividades reforça a tese de <b>preterição</b>. Selecione a ênfase e o polo.</p>
+    </div>
+    <div class="provas-controls">
+      <label class="pc-field"><span>Ênfase do cargo</span>
+        <select id="selEnfase"><option value="todas">Todas as ênfases</option></select>
+      </label>
+      <label class="pc-field"><span>Polo</span>
+        <select id="selPolo">
+          <option value="todos">Todos os polos</option>
+          <option value="Ipojuca">Ipojuca</option>
+          <option value="Sul">Sul</option>
+          <option value="Sudeste">Sudeste</option>
+        </select>
+      </label>
+    </div>
+    <div id="provasResumo" class="provas-resumo"></div>
+    <div id="contadorProvas" class="contador-lista"></div>
+    <div id="listaContratos" class="lista"></div>
+  </section>
+
   <!-- ABA PAINEL -->
   <section id="tab-painel" class="tab">
     <div id="tiles" class="tiles"></div>
@@ -73,6 +97,7 @@
 <nav class="nav">
   <button class="nav-btn ativo" data-tab="novidades"><span class="ic">🔔</span><span>Novidades</span><i id="badgeNav" class="badge" hidden></i></button>
   <button class="nav-btn" data-tab="processos"><span class="ic">📁</span><span>Processos</span></button>
+  <button class="nav-btn" data-tab="provas"><span class="ic">🧾</span><span>Provas</span></button>
   <button class="nav-btn" data-tab="painel"><span class="ic">📊</span><span>Painel</span></button>
 </nav>
 

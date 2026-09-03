@@ -256,3 +256,28 @@ a{color:var(--cy);text-decoration:none}
 .posse-box b{color:var(--gold)}
 .posse-evid{font-size:12px;color:var(--tx2);font-style:italic;margin-top:6px;line-height:1.5}
 .posse-nota{font-size:11px;color:var(--tx3);margin-top:6px}
+
+/* ---------------- PROVAS (terceirização) ---------------- */
+.provas-intro{margin:2px 0 14px}
+.provas-intro h2{font-family:var(--font-d);font-size:20px;font-weight:700;letter-spacing:-.01em;margin:0 0 6px}
+.provas-intro h2 span{background:var(--grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.provas-intro p{font-size:12.5px;color:var(--tx2);line-height:1.55;max-width:60ch}
+.provas-controls{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+.pc-field{flex:1 1 220px;display:flex;flex-direction:column;gap:5px}
+.pc-field>span{font-family:var(--font-d);font-size:10px;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--tx2);padding-left:2px}
+.pc-field select{width:100%;padding:13px 14px;border:1px solid var(--card-brd);border-radius:14px;
+  background:var(--card);color:var(--tx);font-size:14px;font-family:var(--font);appearance:none;cursor:pointer;
+  background-image:linear-gradient(45deg,transparent 50%,var(--tx2) 50%),linear-gradient(135deg,var(--tx2) 50%,transparent 50%);
+  background-position:calc(100% - 18px) 50%,calc(100% - 13px) 50%;background-size:5px 5px,5px 5px;background-repeat:no-repeat}
+.pc-field select:focus{outline:none;border-color:var(--cy);box-shadow:0 0 0 3px rgba(56,225,255,.12)}
+.pc-field select option{background:#0b0f1a;color:var(--tx)}
+.provas-resumo{margin:2px 0 14px}
+.card-contrato{cursor:pointer}
+.objeto-c{font-size:14px;color:var(--tx);font-weight:500;line-height:1.5;margin:9px 0 4px}
+.enf-linha{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0 2px}
+.t-open{background:rgba(59,240,194,.13);color:var(--new);border-color:var(--newbd)}
+.t-polo{background:rgba(56,225,255,.12);color:var(--cy);border-color:rgba(56,225,255,.30);text-transform:none}
+.t-enf{background:rgba(155,107,255,.13);color:#c3a6ff;border-color:rgba(155,107,255,.30);text-transform:none;letter-spacing:0}
+.t-prof{background:var(--warnbg);color:var(--warn);border-color:var(--warnbd);text-transform:none}
+.t-emp{background:rgba(79,123,255,.14);color:#9fb6ff;border-color:rgba(79,123,255,.28);text-transform:none}
