@@ -1,0 +1,5675 @@
+{
+ "gerado_em": "2026-09-03T11:20:01",
+ "gerado_em_label": "03/09/2026 11:20",
+ "desde": "2024-01-01",
+ "total": 165,
+ "enfases": {
+  "1": "Enfermagem do Trabalho",
+  "2": "Inspeção de Equipamentos e Instalações",
+  "3": "Logística de Transportes – Controle",
+  "4": "Manutenção – Caldeiraria",
+  "5": "Manutenção – Elétrica",
+  "6": "Manutenção – Instrumentação",
+  "7": "Manutenção – Mecânica",
+  "8": "Operação",
+  "9": "Operação de Lastro",
+  "10": "Projetos, Construção e Montagem – Edificações",
+  "11": "Projetos, Construção e Montagem – Elétrica",
+  "12": "Projetos, Construção e Montagem – Instrumentação",
+  "13": "Projetos, Construção e Montagem – Mecânica",
+  "14": "Química de Petróleo",
+  "15": "Segurança do Trabalho",
+  "16": "Suprimento de Bens e Serviços – Administração"
+ },
+ "polos": [
+  "Ipojuca",
+  "Sul",
+  "Sudeste"
+ ],
+ "contratos": [
+  {
+   "num": "7004645962",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Manutenção de Torres, Vasos, Tanques,...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-09-03",
+   "data_inicio": "2026-09-09",
+   "data_fim": "2026-10-21",
+   "dou": "",
+   "familias": [
+    "99008020"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD1A9F0F7284BFF97D1",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD1A9F0F7284BFF97D1')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004643548",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviço de movimentação de cargas",
+   "objeto_completo": "Serviço de Movimentação de Cargas",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-08-21",
+   "data_inicio": "2026-08-21",
+   "data_fim": "2026-09-14",
+   "dou": "",
+   "familias": [
+    "99006030"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD1A7A9E2EBED4457A7",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD1A7A9E2EBED4457A7')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004640235",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de inventário, organização,...",
+   "objeto_completo": "",
+   "enfases": [
+    16
+   ],
+   "enfase_nomes": [
+    "Suprimento de Bens e Serviços – Administração"
+   ],
+   "ufs": [
+    "PE"
+   ],
+   "polos": [
+    "Ipojuca"
+   ],
+   "data_publicacao": "2026-08-20",
+   "data_inicio": "2026-08-21",
+   "data_fim": "2026-09-14",
+   "dou": "",
+   "familias": [
+    "99006106"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE1A7B34497BD3F388F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE1A7B34497BD3F388F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004637191",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de análises químicas e físic...",
+   "objeto_completo": "Serviços de análises químicas e físico-químicas, de controle de qualidade",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [
+    "PE"
+   ],
+   "polos": [
+    "Ipojuca"
+   ],
+   "data_publicacao": "2026-08-18",
+   "data_inicio": "2026-08-18",
+   "data_fim": "2026-09-09",
+   "dou": "",
+   "familias": [
+    "99006072"
+   ],
+   "profissionais": 76,
+   "profissionais_evid": "o (AS) e dos crachás de identificação dos 11/76 empregados da contratada estará condicionada à entrega",
+   "edital_objid": "00505693CAB21FD1A6C935DB393B0CFE",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD1A6C935DB393B0CFE')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004639848",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de Coleta e Realização de An...",
+   "objeto_completo": "Serviços de Coleta e Realização de Análises Clínicas Laboratoriais, para os",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-08-17",
+   "data_inicio": "2026-08-17",
+   "data_fim": "2026-09-08",
+   "dou": "",
+   "familias": [
+    "99006153"
+   ],
+   "profissionais": 2,
+   "profissionais_evid": ", os serviços foram prestados por no mínimo 02 profissionais. ANEXO 1 - ESPECIFICAÇÃO TÉCNICA Nº PROGRA",
+   "edital_objid": "0050569363001FD1A6C5AEA32B805790",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD1A6C5AEA32B805790')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004603904",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de construção e montagem nas...",
+   "objeto_completo": "",
+   "enfases": [
+    4,
+    11,
+    12,
+    13
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria",
+    "Projetos, Construção e Montagem – Elétrica",
+    "Projetos, Construção e Montagem – Instrumentação",
+    "Projetos, Construção e Montagem – Mecânica"
+   ],
+   "ufs": [
+    "PR"
+   ],
+   "polos": [
+    "Sul"
+   ],
+   "data_publicacao": "2026-08-17",
+   "data_inicio": "2026-08-18",
+   "data_fim": "2026-09-09",
+   "dou": "",
+   "familias": [
+    "99008721"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD1A6C99573C8B6ED8E",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD1A6C99573C8B6ED8E')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004636016",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de Manutenção de inspeção ti...",
+   "objeto_completo": "",
+   "enfases": [
+    5,
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-08-07",
+   "data_inicio": "2026-08-07",
+   "data_fim": "2026-09-04",
+   "dou": "",
+   "familias": [
+    "99006387"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD1A4CD867CBD0D4D61",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD1A4CD867CBD0D4D61')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004637840",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de preparação e resposta à f...",
+   "objeto_completo": "SERVIÇOS DE PREPARAÇÃO E RESPOSTA À FAUNA EM EXERCÍCIOS SIMULADOS EM",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-08-06",
+   "data_inicio": "2026-08-06",
+   "data_fim": "2026-09-04",
+   "dou": "",
+   "familias": [
+    "99006893"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE1A4BA701E88D6F861",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE1A4BA701E88D6F861')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004613380",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços Integrados de Operação e Man...",
+   "objeto_completo": "",
+   "enfases": [
+    8
+   ],
+   "enfase_nomes": [
+    "Operação"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-07-28",
+   "data_inicio": "2026-07-28",
+   "data_fim": "2026-09-18",
+   "dou": "",
+   "familias": [
+    "99005702"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD1A2CE5D6CD09EACAC",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD1A2CE5D6CD09EACAC')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004634078",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviço de construção e adequação de...",
+   "objeto_completo": "Serviço de Construção e Adequação na Área",
+   "enfases": [
+    10
+   ],
+   "enfase_nomes": [
+    "Projetos, Construção e Montagem – Edificações"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-07-27",
+   "data_inicio": "2026-07-27",
+   "data_fim": "2026-09-30",
+   "dou": "",
+   "familias": [
+    "99006164"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD1A2BD9EA3ACD3376B",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD1A2BD9EA3ACD3376B')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004628295",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de manutenção em sistemas de...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [
+    "SP"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-07-23",
+   "data_inicio": "2026-07-23",
+   "data_fim": "2026-09-09",
+   "dou": "",
+   "familias": [
+    "99008020"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD1A1D324AB70561761",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD1A1D324AB70561761')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004629862",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de manutenção na subestação...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-07-22",
+   "data_inicio": "2026-07-23",
+   "data_fim": "2026-09-14",
+   "dou": "",
+   "familias": [
+    "99006780"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE1A1D910B541E75806",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE1A1D910B541E75806')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004626038",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de execução de obras de cons...",
+   "objeto_completo": "Serviços de execução de obras de construção civil e demais",
+   "enfases": [
+    10
+   ],
+   "enfase_nomes": [
+    "Projetos, Construção e Montagem – Edificações"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-07-10",
+   "data_inicio": "2026-07-10",
+   "data_fim": "2026-09-14",
+   "dou": "",
+   "familias": [
+    "99006164"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD19EF342EBA809CCE5",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD19EF342EBA809CCE5')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004622524",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Manutenção, Projetos, Modificação e M...",
+   "objeto_completo": "Manutenção, Projetos, Modificação e Montagem em Unidades Piloto de",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-07-03",
+   "data_inicio": "2026-07-03",
+   "data_fim": "2026-09-03",
+   "dou": "",
+   "familias": [
+    "99008300"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD19DC6FD5B70592CCE",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD19DC6FD5B70592CCE')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004612896",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção e implementaçã...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-06-29",
+   "data_inicio": "2026-06-29",
+   "data_fim": "2026-07-27",
+   "dou": "",
+   "familias": [
+    "99008020"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD19CB301210CCFCCBF",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD19CB301210CCFCCBF')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004548299",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de projeto suprimento constr...",
+   "objeto_completo": "",
+   "enfases": [
+    16
+   ],
+   "enfase_nomes": [
+    "Suprimento de Bens e Serviços – Administração"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-06-26",
+   "data_inicio": "2026-06-26",
+   "data_fim": "2026-09-10",
+   "dou": "",
+   "familias": [
+    "Serviços corporativo Nova Lei"
+   ],
+   "profissionais": 621,
+   "profissionais_evid": "dos riscos offshore. 6.2. Requisitos de mão de obra 6.2.1. É atribuição do supervisor da Contratada or",
+   "edital_objid": "00505693CAB21FD19CB16DCE0DCC0C2E",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD19CB16DCE0DCC0C2E')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004615563",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de calibração, manutenção e...",
+   "objeto_completo": "",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-06-23",
+   "data_inicio": "2026-06-23",
+   "data_fim": "2026-09-21",
+   "dou": "",
+   "familias": [
+    "99006210"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE19BE4536C1CB8D7A3",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE19BE4536C1CB8D7A3')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004609337",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de prontidão e resposta a in...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-06-08",
+   "data_inicio": "2026-06-08",
+   "data_fim": "2026-09-17",
+   "dou": "",
+   "familias": [
+    "Serviço Simplificado Nova Lei"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD198E955068D92B725",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD198E955068D92B725')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004595727",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Operação Logística Portuá...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-05-20",
+   "data_inicio": "2026-05-20",
+   "data_fim": "2026-06-11",
+   "dou": "",
+   "familias": [
+    "99006031"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD194DD7AB98404AC23",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD194DD7AB98404AC23')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004601825",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de projeto executivo, constr...",
+   "objeto_completo": "",
+   "enfases": [
+    10
+   ],
+   "enfase_nomes": [
+    "Projetos, Construção e Montagem – Edificações"
+   ],
+   "ufs": [
+    "SE"
+   ],
+   "polos": [],
+   "data_publicacao": "2026-05-19",
+   "data_inicio": "2026-06-10",
+   "data_fim": "2026-09-21",
+   "dou": "",
+   "familias": [
+    "Serviços corporativo Nova Lei"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE194F859FAF18CF736",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE194F859FAF18CF736')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004594496",
+   "tipo": "concluido",
+   "status_desc": "PATEC não iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de apoio a fiscalização de c...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-05-18",
+   "data_inicio": "2026-05-18",
+   "data_fim": "2026-06-11",
+   "dou": "",
+   "familias": [
+    "99007001"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE194D8729FF598B712",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE194D8729FF598B712')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004596451",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de análise química e microbi...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-05-14",
+   "data_inicio": "2026-05-14",
+   "data_fim": "2026-06-18",
+   "dou": "",
+   "familias": [
+    "99006531"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD193F246BD46C256F5",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD193F246BD46C256F5')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004592134",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Serviços de atendimento clínico, urg...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-05-12",
+   "data_inicio": "2026-05-12",
+   "data_fim": "2026-06-02",
+   "dou": "",
+   "familias": [
+    "99006540"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD193C40F7DD4E476F0",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD193C40F7DD4E476F0')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004587565",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenções preventivas e...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-05-06",
+   "data_inicio": "2026-05-06",
+   "data_fim": "2026-06-01",
+   "dou": "",
+   "familias": [
+    "99006158"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD192A89C62799036DA",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD192A89C62799036DA')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004593310",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção Preventiva e C...",
+   "objeto_completo": "",
+   "enfases": [
+    7,
+    15
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica",
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-04-27",
+   "data_inicio": "2026-04-27",
+   "data_fim": "2026-05-19",
+   "dou": "",
+   "familias": [
+    "99005763"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD190CF92D2944FAB1C",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD190CF92D2944FAB1C')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004553945",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "REDUC REVAMP UFCC MÁQUINAS - Fornecim...",
+   "objeto_completo": "",
+   "enfases": [
+    8
+   ],
+   "enfase_nomes": [
+    "Operação"
+   ],
+   "ufs": [
+    "RJ"
+   ],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2026-04-15",
+   "data_inicio": "2026-04-15",
+   "data_fim": "2026-10-26",
+   "dou": "",
+   "familias": [
+    "Serviços corporativo Nova Lei"
+   ],
+   "profissionais": 1001,
+   "profissionais_evid": "a partir de 501 trabalhadores; *a partir de 1001 trabalhadores considerar o dobro de profissionais estabel",
+   "edital_objid": "0050569363001FD18E9B59DF80C196B4",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD18E9B59DF80C196B4')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004574698",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de agenciamento logístico me...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-03-16",
+   "data_inicio": "2026-03-16",
+   "data_fim": "2026-04-07",
+   "dou": "",
+   "familias": [
+    "99005771"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE188B0EAA8CA9C7603",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE188B0EAA8CA9C7603')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004574700",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Serviços de Apoio às Emergências de S...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-03-11",
+   "data_inicio": "2026-03-11",
+   "data_fim": "2026-04-28",
+   "dou": "",
+   "familias": [
+    "99007031"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD187A85686563B7658",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD187A85686563B7658')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004573268",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "SERVIÇO DE MANUTENÇÃO DAS CAPELAS E E...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-03-10",
+   "data_inicio": "2026-03-10",
+   "data_fim": "2026-04-02",
+   "dou": "",
+   "familias": [
+    "99007171"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD186F769E3F2A15655",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD186F769E3F2A15655')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004575606",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviço de subscrição, implantação, i...",
+   "objeto_completo": "",
+   "enfases": [
+    12
+   ],
+   "enfase_nomes": [
+    "Projetos, Construção e Montagem – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-03-10",
+   "data_inicio": "2026-03-12",
+   "data_fim": "2026-04-15",
+   "dou": "",
+   "familias": [
+    "99006390"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE188C20FFB2F077604",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE188C20FFB2F077604')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004569810",
+   "tipo": "aberto",
+   "status_desc": "Publicado",
+   "sub_status": "",
+   "objeto": "Serviços de construção e montagem ind...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [
+    "BA"
+   ],
+   "polos": [],
+   "data_publicacao": "2026-03-03",
+   "data_inicio": "2026-03-04",
+   "data_fim": "2026-11-05",
+   "dou": "",
+   "familias": [
+    "99008490"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE185E2047476BD15B6",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE185E2047476BD15B6')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004559127",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de construção civil e montag...",
+   "objeto_completo": "",
+   "enfases": [
+    10
+   ],
+   "enfase_nomes": [
+    "Projetos, Construção e Montagem – Edificações"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-01-30",
+   "data_inicio": "2026-01-30",
+   "data_fim": "2026-03-09",
+   "dou": "",
+   "familias": [
+    "99006231"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD0BFA39B497680699B",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD0BFA39B497680699B')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004548720",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de apoio em saúde ocupaciona...",
+   "objeto_completo": "",
+   "enfases": [
+    1
+   ],
+   "enfase_nomes": [
+    "Enfermagem do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-01-26",
+   "data_inicio": "2026-01-26",
+   "data_fim": "2026-02-23",
+   "dou": "",
+   "familias": [
+    "99006766"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE0BED710D987DA95FF",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE0BED710D987DA95FF')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004539471",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Operação, Manutenções Pre...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-01-05",
+   "data_inicio": "2026-01-05",
+   "data_fim": "2026-02-04",
+   "dou": "",
+   "familias": [
+    "99006640"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693435D1FE0BAC6F8C1FB7D6FED",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693435D1FE0BAC6F8C1FB7D6FED')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004549208",
+   "tipo": "concluido",
+   "status_desc": "Encerrado",
+   "sub_status": "02",
+   "objeto": "Serviços de elaboração de projeto exe...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2026-01-05",
+   "data_inicio": "2026-01-07",
+   "data_fim": "2026-02-11",
+   "dou": "",
+   "familias": [
+    "99007760"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD0BEF605BC404D2994",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD0BEF605BC404D2994')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004548691",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Prestação de Serviços de Substituição...",
+   "objeto_completo": "",
+   "enfases": [
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-12-30",
+   "data_inicio": "2025-12-30",
+   "data_fim": "2026-01-30",
+   "dou": "",
+   "familias": [
+    "99006312"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE0B9B051B145271591",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE0B9B051B145271591')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004542491",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviço de Resgate Técnico em Altura...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-12-12",
+   "data_inicio": "2025-12-15",
+   "data_fim": "2026-01-14",
+   "dou": "",
+   "familias": [
+    "99006997"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD0B886D58253A168DA",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD0B886D58253A168DA')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004538129",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção corretiva e pr...",
+   "objeto_completo": "",
+   "enfases": [
+    5,
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-12-04",
+   "data_inicio": "2025-12-04",
+   "data_fim": "2026-01-12",
+   "dou": "",
+   "familias": [
+    "99007011"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE0B4A2132973CC73EF",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE0B4A2132973CC73EF')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004532046",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Manutencao e Calibracao de Analisador...",
+   "objeto_completo": "",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-11-25",
+   "data_inicio": "2025-11-25",
+   "data_fim": "2025-12-18",
+   "dou": "",
+   "familias": [
+    "99006159"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD0B2BD9AEDC3D8A90F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD0B2BD9AEDC3D8A90F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004501715",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "REVAMP do FLARE da REDUC - Fornecimen...",
+   "objeto_completo": "",
+   "enfases": [
+    8,
+    10,
+    13
+   ],
+   "enfase_nomes": [
+    "Operação",
+    "Projetos, Construção e Montagem – Edificações",
+    "Projetos, Construção e Montagem – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-11-24",
+   "data_inicio": "2025-11-24",
+   "data_fim": "2026-05-04",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD0B2A669B0E451490E",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD0B2A669B0E451490E')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004529081",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de sondagem a trado, instala...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-11-19",
+   "data_inicio": "2025-11-20",
+   "data_fim": "2025-12-19",
+   "dou": "",
+   "familias": [
+    "99006272",
+    "99006751"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056A4E33E1FD0B1A7EE4BD56656D4",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056A4E33E1FD0B1A7EE4BD56656D4')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004526974",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "serviços de análises químicas e físic...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-11-18",
+   "data_inicio": "2025-11-18",
+   "data_fim": "2026-02-25",
+   "dou": "",
+   "familias": [
+    "99006072"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056A44E991FE0B0FC78D9918684E0",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056A44E991FE0B0FC78D9918684E0')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004532078",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços técnicos de suporte logístic...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-11-14",
+   "data_inicio": "2025-11-14",
+   "data_fim": "2026-01-13",
+   "dou": "",
+   "familias": [
+    "99005922"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056A4E33E1FD0B0AC93B83744B6AE",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056A4E33E1FD0B0AC93B83744B6AE')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004523809",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção preventiva e m...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [
+    "Ipojuca"
+   ],
+   "data_publicacao": "2025-11-04",
+   "data_inicio": "2025-11-05",
+   "data_fim": "2025-11-27",
+   "dou": "",
+   "familias": [
+    "99007431"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE0AEC79BF5320054C1",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE0AEC79BF5320054C1')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004525193",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção Preventiva, Co...",
+   "objeto_completo": "",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-10-30",
+   "data_inicio": "2025-10-30",
+   "data_fim": "2025-11-21",
+   "dou": "",
+   "familias": [
+    "99007431"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD0ACFF6172A8C0F515",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD0ACFF6172A8C0F515')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004524009",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "FAFENs BA e SE - Serviços de operação...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-10-28",
+   "data_inicio": "2025-10-28",
+   "data_fim": "2025-11-18",
+   "dou": "",
+   "familias": [
+    "99006030"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE0AFFE9BA1FBAB54DC",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE0AFFE9BA1FBAB54DC')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004519291",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção preventiva, co...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-10-14",
+   "data_inicio": "2025-10-16",
+   "data_fim": "2025-11-13",
+   "dou": "",
+   "familias": [
+    "99006995"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056935D861FE0AABD66A3DBC97EE2",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056935D861FE0AABD66A3DBC97EE2')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004504331",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção dos Sistemas F...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-09-10",
+   "data_inicio": "2025-09-16",
+   "data_fim": "2025-10-20",
+   "dou": "",
+   "familias": [
+    "99007034"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD0A4E536F1271A27B8",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD0A4E536F1271A27B8')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004486092",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de fornecimento de bens, ela...",
+   "objeto_completo": "",
+   "enfases": [
+    10,
+    13
+   ],
+   "enfase_nomes": [
+    "Projetos, Construção e Montagem – Edificações",
+    "Projetos, Construção e Montagem – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-09-09",
+   "data_inicio": "2025-09-10",
+   "data_fim": "2026-03-04",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE0A39DDF6764C8520D",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE0A39DDF6764C8520D')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004502338",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de análises químicas e físic...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-08-29",
+   "data_inicio": "2025-08-29",
+   "data_fim": "2025-09-23",
+   "dou": "",
+   "familias": [
+    "99006072"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE0A19D1C4504B3D1CA",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE0A19D1C4504B3D1CA')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004463444",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção de caldeiraria...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-08-27",
+   "data_inicio": "2025-08-27",
+   "data_fim": "2025-10-10",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD0A0E8F359B4558608",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD0A0E8F359B4558608')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004492232",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviço de manutenção em subestação e...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-08-22",
+   "data_inicio": "2025-08-25",
+   "data_fim": "2025-09-30",
+   "dou": "",
+   "familias": [
+    "99006780"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE0A0BB08DFDF4111B5",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE0A0BB08DFDF4111B5')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004492818",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "REPLAN - COQUE - Fornecimento de bens...",
+   "objeto_completo": "",
+   "enfases": [
+    8,
+    16
+   ],
+   "enfase_nomes": [
+    "Operação",
+    "Suprimento de Bens e Serviços – Administração"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-08-08",
+   "data_inicio": "2025-08-08",
+   "data_fim": "2026-01-19",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE09D8CF6F66C6D314B",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE09D8CF6F66C6D314B')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004489026",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "5 LOTES - Serviços de atendimento às...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-07-24",
+   "data_inicio": "2025-07-24",
+   "data_fim": "2025-10-13",
+   "dou": "",
+   "familias": [
+    "99006540"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD09A9085DD9E2F33F5",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD09A9085DD9E2F33F5')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004471091",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção preventiva e c...",
+   "objeto_completo": "",
+   "enfases": [
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-07-01",
+   "data_inicio": "2025-07-01",
+   "data_fim": "2025-07-25",
+   "dou": "",
+   "familias": [
+    "99007032"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE095D1640C12547243",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE095D1640C12547243')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004477129",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de inspeção de soldagem, ins...",
+   "objeto_completo": "",
+   "enfases": [
+    2
+   ],
+   "enfase_nomes": [
+    "Inspeção de Equipamentos e Instalações"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-07-01",
+   "data_inicio": "2025-07-02",
+   "data_fim": "2025-08-05",
+   "dou": "",
+   "familias": [
+    "99006100"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693339F1FE095CFD428B07092EE",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693339F1FE095CFD428B07092EE')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004473625",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção de Caldeiraria...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-06-24",
+   "data_inicio": "2025-06-24",
+   "data_fim": "2025-07-23",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE093C0FDCE3B825056",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE093C0FDCE3B825056')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004470094",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção de caldeiraria...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-06-24",
+   "data_inicio": "2025-06-25",
+   "data_fim": "2025-08-11",
+   "dou": "",
+   "familias": [
+    "99008020"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD09BD912DD3A2AE56E",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD09BD912DD3A2AE56E')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004471262",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "LIC Serviços de Manutenção de Turbina...",
+   "objeto_completo": "",
+   "enfases": [
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-06-23",
+   "data_inicio": "2025-07-03",
+   "data_fim": "2025-08-19",
+   "dou": "",
+   "familias": [
+    "99006483"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD095F36D8F6361F3A6",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD095F36D8F6361F3A6')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004468691",
+   "tipo": "concluido",
+   "status_desc": "PATEC não iniciado",
+   "sub_status": "02",
+   "objeto": "Lote 1 Inspeção e Manutenção do Siste...",
+   "objeto_completo": "",
+   "enfases": [
+    2,
+    4
+   ],
+   "enfase_nomes": [
+    "Inspeção de Equipamentos e Instalações",
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-06-16",
+   "data_inicio": "2025-06-16",
+   "data_fim": "2025-07-28",
+   "dou": "",
+   "familias": [
+    "99006044"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE092DC64987A69903D",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE092DC64987A69903D')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004467144",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Serviços de inspeção, manutenção e re...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-06-11",
+   "data_inicio": "2025-06-11",
+   "data_fim": "2025-07-03",
+   "dou": "",
+   "familias": [
+    "99006155"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE091C0906CE73AB1E8",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE091C0906CE73AB1E8')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004466650",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção Industrial, Pr...",
+   "objeto_completo": "",
+   "enfases": [
+    5,
+    6,
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Instrumentação",
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-06-11",
+   "data_inicio": "2025-06-11",
+   "data_fim": "2025-07-23",
+   "dou": "",
+   "familias": [
+    "99008300"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE091D91EF09EE9F1F5",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE091D91EF09EE9F1F5')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004464440",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Sv. de construção e montagem mecânica...",
+   "objeto_completo": "",
+   "enfases": [
+    5,
+    6,
+    7,
+    11,
+    12,
+    13
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Instrumentação",
+    "Manutenção – Mecânica",
+    "Projetos, Construção e Montagem – Elétrica",
+    "Projetos, Construção e Montagem – Instrumentação",
+    "Projetos, Construção e Montagem – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-06-09",
+   "data_inicio": "2025-06-10",
+   "data_fim": "2025-07-16",
+   "dou": "",
+   "familias": [
+    "99008490"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE091C0D59E2DA551EB",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE091C0D59E2DA551EB')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004463692",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de coleta, acondicionamento,...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-06-06",
+   "data_inicio": "2025-06-06",
+   "data_fim": "2025-07-01",
+   "dou": "",
+   "familias": [
+    "99006072"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD090CA68BE97C9A5E2",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD090CA68BE97C9A5E2')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004461671",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de resgate em altura e espaç...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-06-02",
+   "data_inicio": "2025-06-02",
+   "data_fim": "2025-07-16",
+   "dou": "",
+   "familias": [
+    "99006997"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD08FF5C32A03F16405",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD08FF5C32A03F16405')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004460038",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Análises Químicas e Físic...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-05-29",
+   "data_inicio": "2025-05-30",
+   "data_fim": "2025-06-23",
+   "dou": "",
+   "familias": [
+    "99006072"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD08F917C5FDAF9C3F3",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD08F917C5FDAF9C3F3')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004458463",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços integrados de manutenção, ab...",
+   "objeto_completo": "",
+   "enfases": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria",
+    "Manutenção – Elétrica",
+    "Manutenção – Instrumentação",
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-05-29",
+   "data_inicio": "2025-05-29",
+   "data_fim": "2025-07-04",
+   "dou": "",
+   "familias": [
+    "99008300"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE08F9A5AE71A8F6FE9",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE08F9A5AE71A8F6FE9')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004429284",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção em Motores Elé...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-05-26",
+   "data_inicio": "2025-05-26",
+   "data_fim": "2025-09-09",
+   "dou": "",
+   "familias": [
+    "99007011"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE08DE50E1F9688718A",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE08DE50E1F9688718A')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004432909",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Prestação de serviços de reparos e co...",
+   "objeto_completo": "",
+   "enfases": [
+    7,
+    10,
+    13
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica",
+    "Projetos, Construção e Montagem – Edificações",
+    "Projetos, Construção e Montagem – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-05-22",
+   "data_inicio": "2025-05-23",
+   "data_fim": "2025-07-18",
+   "dou": "",
+   "familias": [
+    "99005530"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD08DE1FE53D09FA3DA",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD08DE1FE53D09FA3DA')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004454934",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção nas especialid...",
+   "objeto_completo": "",
+   "enfases": [
+    5,
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-05-20",
+   "data_inicio": "2025-05-20",
+   "data_fim": "2025-06-25",
+   "dou": "",
+   "familias": [
+    "99007870"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE08CCFD2AC15B8AFA4",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE08CCFD2AC15B8AFA4')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004452484",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de movimentação de cargas em...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-05-19",
+   "data_inicio": "2025-05-19",
+   "data_fim": "2025-06-25",
+   "dou": "",
+   "familias": [
+    "99006030"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE08D9B07DC3AE50FAD",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE08D9B07DC3AE50FAD')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004449374",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Execução dos serviços de estudo de vi...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-05-12",
+   "data_inicio": "2025-05-13",
+   "data_fim": "2025-06-10",
+   "dou": "",
+   "familias": [
+    "99006120"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE08C843CB1F5BCEF72",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE08C843CB1F5BCEF72')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004444712",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção de caldeiraria...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-05-07",
+   "data_inicio": "2025-05-07",
+   "data_fim": "2025-10-14",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD08AE8F3BC7BF66554",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD08AE8F3BC7BF66554')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004443245",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção e Atualização...",
+   "objeto_completo": "",
+   "enfases": [
+    7,
+    16
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica",
+    "Suprimento de Bens e Serviços – Administração"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-04-28",
+   "data_inicio": "2025-04-28",
+   "data_fim": "2025-05-29",
+   "dou": "",
+   "familias": [
+    "99006388"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD08986121403FDD2BA",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD08986121403FDD2BA')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004436384",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Retrofit dos Disjuntores...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-04-28",
+   "data_inicio": "2025-04-28",
+   "data_fim": "2025-06-06",
+   "dou": "",
+   "familias": [
+    "99007080"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD0898B654B51C0E528",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD0898B654B51C0E528')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004442322",
+   "tipo": "concluido",
+   "status_desc": "",
+   "sub_status": "02",
+   "objeto": "Serviço de Inspeção de Dutos Rígidos...",
+   "objeto_completo": "",
+   "enfases": [
+    2
+   ],
+   "enfase_nomes": [
+    "Inspeção de Equipamentos e Instalações"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-04-25",
+   "data_inicio": "2025-04-25",
+   "data_fim": "2025-06-05",
+   "dou": "",
+   "familias": [
+    "99007061"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD088BCF0AE801032B4",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD088BCF0AE801032B4')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004432245",
+   "tipo": "concluido",
+   "status_desc": "",
+   "sub_status": "02",
+   "objeto": "Serviço de Inspeção, Manutenção, Repa...",
+   "objeto_completo": "",
+   "enfases": [
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-04-16",
+   "data_inicio": "2025-04-24",
+   "data_fim": "2025-06-11",
+   "dou": "",
+   "familias": [
+    "99006502"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD088A3D2F2726332B4",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD088A3D2F2726332B4')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004433480",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção e implementaçã...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-04-15",
+   "data_inicio": "2025-04-16",
+   "data_fim": "2025-05-26",
+   "dou": "",
+   "familias": [
+    "99008020"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE086DE935A1E2D7118",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE086DE935A1E2D7118')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004436475",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Saúde Ocupacional e Atend...",
+   "objeto_completo": "",
+   "enfases": [
+    1
+   ],
+   "enfase_nomes": [
+    "Enfermagem do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-04-15",
+   "data_inicio": "2025-04-16",
+   "data_fim": "2025-06-17",
+   "dou": "",
+   "familias": [
+    "99006079"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD086DF8403B9D4E327",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD086DF8403B9D4E327')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004433230",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Projeto detalhado, fornecimento de eq...",
+   "objeto_completo": "",
+   "enfases": [
+    8
+   ],
+   "enfase_nomes": [
+    "Operação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-04-08",
+   "data_inicio": "2025-04-09",
+   "data_fim": "2025-08-20",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE085A6AC35B99630EC",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE085A6AC35B99630EC')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004431693",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Belford Roxo - Serviços de logística...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-04-03",
+   "data_inicio": "2025-04-03",
+   "data_fim": "2025-05-05",
+   "dou": "",
+   "familias": [
+    "99005947"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE0849156B1D35070B4",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE0849156B1D35070B4')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004426613",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços especializados em higiene Oc...",
+   "objeto_completo": "",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-25",
+   "data_inicio": "2025-03-25",
+   "data_fim": "2025-04-23",
+   "dou": "",
+   "familias": [
+    "99006994"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD082E20434B5EFC289",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD082E20434B5EFC289')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004426432",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Certificação de Acessório...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-24",
+   "data_inicio": "2025-03-24",
+   "data_fim": "2025-04-15",
+   "dou": "",
+   "familias": [
+    "99006209"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001FD0829C324B8A7A521A",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001FD0829C324B8A7A521A')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004426428",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Operação e Manutenção par...",
+   "objeto_completo": "",
+   "enfases": [
+    8
+   ],
+   "enfase_nomes": [
+    "Operação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-24",
+   "data_inicio": "2025-03-25",
+   "data_fim": "2025-04-25",
+   "dou": "",
+   "familias": [
+    "99007280"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1FE082B75587062D1085",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1FE082B75587062D1085')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004427091",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Operação e tarefas de pri...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-24",
+   "data_inicio": "2025-03-24",
+   "data_fim": "2025-05-09",
+   "dou": "",
+   "familias": [
+    "99007051"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891FE08295D7236A59EE6D",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891FE08295D7236A59EE6D')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004418509",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção e Calibração d...",
+   "objeto_completo": "",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-17",
+   "data_inicio": "2025-03-17",
+   "data_fim": "2025-04-11",
+   "dou": "",
+   "familias": [
+    "99006211"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21FD080E32A131E15824F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21FD080E32A131E15824F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004388667",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção de caldeiraria...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-17",
+   "data_inicio": "2025-03-18",
+   "data_fim": "2025-04-23",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811FD080E8C110FD9D444B",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811FD080E8C110FD9D444B')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004419426",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Revisão, Manutenção Preve...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-12",
+   "data_inicio": "2025-03-13",
+   "data_fim": "2025-04-11",
+   "dou": "",
+   "familias": [
+    "99007011"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1EEFBFEDDA3735F89033",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEFBFEDDA3735F89033')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004415567",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Projeto detalhado, fornecimento de eq...",
+   "objeto_completo": "",
+   "enfases": [
+    8
+   ],
+   "enfase_nomes": [
+    "Operação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-12",
+   "data_inicio": "2025-03-12",
+   "data_fim": "2025-06-03",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693435D1EEFBFE7033E2C1C6E8F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693435D1EEFBFE7033E2C1C6E8F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004409750",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de prontidão para atendiment...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-03-06",
+   "data_inicio": "2025-03-06",
+   "data_fim": "2025-03-28",
+   "dou": "",
+   "familias": [
+    "99007031"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDFBED0F6CDE13EB1D6",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDFBED0F6CDE13EB1D6')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004406722",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de apoio à operação, suporte...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-02-24",
+   "data_inicio": "2025-02-24",
+   "data_fim": "2025-03-20",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDFBCD6FAB68634D1AC",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDFBCD6FAB68634D1AC')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004375422",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de elevação e movimentação d...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-02-12",
+   "data_inicio": "2025-02-12",
+   "data_fim": "2025-05-02",
+   "dou": "",
+   "familias": [
+    "99006030"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFBAA5DDA8EE16ED8D",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFBAA5DDA8EE16ED8D')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004367552",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção em Turbinas a...",
+   "objeto_completo": "",
+   "enfases": [
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-02-10",
+   "data_inicio": "2025-01-31",
+   "data_fim": "2025-03-06",
+   "dou": "",
+   "familias": [
+    "99006387"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EDFB796D34A4C952140",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EDFB796D34A4C952140')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004376669",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção em Subestações...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-02-10",
+   "data_inicio": "2025-02-12",
+   "data_fim": "2025-03-14",
+   "dou": "",
+   "familias": [
+    "99006780"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056931CB01EDFBAABA28FA21E7B7E",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056931CB01EDFBAABA28FA21E7B7E')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004372543",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "EPC RNEST TREM II OFF-SITE - Serviços...",
+   "objeto_completo": "",
+   "enfases": [
+    4,
+    11,
+    12,
+    13
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria",
+    "Projetos, Construção e Montagem – Elétrica",
+    "Projetos, Construção e Montagem – Instrumentação",
+    "Projetos, Construção e Montagem – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Ipojuca"
+   ],
+   "data_publicacao": "2025-02-07",
+   "data_inicio": "2025-02-17",
+   "data_fim": "2025-07-08",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFB9920570436C8D71",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFB9920570436C8D71')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004366987",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção preditiva elét...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-02-05",
+   "data_inicio": "2025-02-05",
+   "data_fim": "2025-03-06",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDFB8FC202EFA485151",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDFB8FC202EFA485151')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004366417",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Serviços de análises químicas e físic...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-02-04",
+   "data_inicio": "2025-02-04",
+   "data_fim": "2025-03-11",
+   "dou": "",
+   "familias": [
+    "99006760"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFB8E4AD3973080D6C",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFB8E4AD3973080D6C')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004369211",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de reparos, tratamento e pin...",
+   "objeto_completo": "",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-01-31",
+   "data_inicio": "2025-01-31",
+   "data_fim": "2025-03-12",
+   "dou": "",
+   "familias": [
+    "99005942"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EDFB7E8440122D6A14D",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EDFB7E8440122D6A14D')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004365166",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção Corretiva e Pr...",
+   "objeto_completo": "",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2025-01-23",
+   "data_inicio": "2025-01-23",
+   "data_fim": "2025-02-26",
+   "dou": "",
+   "familias": [
+    "99006801"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFB6AF6E210385AD36",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFB6AF6E210385AD36')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004363219",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Inspeção ROV - Serviços de Inspeção d...",
+   "objeto_completo": "Serviços de Inspeção de Tanques de Lastro e Água Potável com uso de veículos",
+   "enfases": [
+    2,
+    9
+   ],
+   "enfase_nomes": [
+    "Inspeção de Equipamentos e Instalações",
+    "Operação de Lastro"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-01-15",
+   "data_inicio": "2025-01-15",
+   "data_fim": "2025-02-18",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDFB4E8773146BE310E",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDFB4E8773146BE310E')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004358924",
+   "tipo": "concluido",
+   "status_desc": "Encerrado",
+   "sub_status": "02",
+   "objeto": "Serviços de Ensaios Não Destrutivos d...",
+   "objeto_completo": "Serviços de Ensaios Não Destrutivos de Emissão Acústica em vasos,",
+   "enfases": [
+    2
+   ],
+   "enfase_nomes": [
+    "Inspeção de Equipamentos e Instalações"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2025-01-07",
+   "data_inicio": "2025-01-07",
+   "data_fim": "2025-02-03",
+   "dou": "",
+   "familias": [
+    "99006100"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EDFB39F069D5DAFC09F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EDFB39F069D5DAFC09F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004344856",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de controle de qualidade hig...",
+   "objeto_completo": "Serviços de controle de qualidade higiênico-sanitá ria através de análises",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-12-20",
+   "data_inicio": "2024-12-20",
+   "data_fim": "2025-01-16",
+   "dou": "",
+   "familias": [
+    "99006531"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFAFDB02CD3B03EC7C",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFAFDB02CD3B03EC7C')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004347224",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Multisserviços de Gestão Predial, com...",
+   "objeto_completo": "",
+   "enfases": [
+    8,
+    15
+   ],
+   "enfase_nomes": [
+    "Operação",
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-12-20",
+   "data_inicio": "2024-12-20",
+   "data_fim": "2025-02-07",
+   "dou": "",
+   "familias": [
+    "99006009"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDFAFAF7FB2C8B8D0A9",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDFAFAF7FB2C8B8D0A9')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004338552",
+   "tipo": "concluido",
+   "status_desc": "PATEC não iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção de Sistemas In...",
+   "objeto_completo": "Serviços de Manutenção de Sistemas Industriais nas áreas de Elétrica,",
+   "enfases": [
+    5,
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-12-02",
+   "data_inicio": "2024-12-06",
+   "data_fim": "2025-01-20",
+   "dou": "",
+   "familias": [
+    "99007870"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFABCD80CCF12CABFF",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFABCD80CCF12CABFF')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004338161",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Projeto detalhado, fornecimento de eq...",
+   "objeto_completo": "Execução de Projeto detalhado, fornecimento de equi pamentos,",
+   "enfases": [
+    8
+   ],
+   "enfase_nomes": [
+    "Operação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Ipojuca"
+   ],
+   "data_publicacao": "2024-11-29",
+   "data_inicio": "2024-11-29",
+   "data_fim": "2025-02-24",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDFABCD19B30EDC5070",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDFABCD19B30EDC5070')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004322448",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Serviços de análises laboratoriais pa...",
+   "objeto_completo": "SERVIÇOS DE ANÁLISES LABORATORIAIS PARA",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-11-08",
+   "data_inicio": "2024-11-08",
+   "data_fim": "2024-12-04",
+   "dou": "",
+   "familias": [
+    "99006761"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811EDFA7B779CEB505E198",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EDFA7B779CEB505E198')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004329467",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Manutenção do Transformador 1T2 do Tu...",
+   "objeto_completo": "Manutenção do Transformador 1T2",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-11-06",
+   "data_inicio": "2024-11-06",
+   "data_fim": "2024-12-10",
+   "dou": "",
+   "familias": [
+    "99007062"
+   ],
+   "profissionais": 111,
+   "profissionais_evid": "e dará sobre o valor correspondente a toda a mão de obra utilizada. 1.11.3 – Quando não existir, no mês, qualquer empr",
+   "edital_objid": "005056820C811EDFA6D68F744A6BE17E",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EDFA6D68F744A6BE17E')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004328576",
+   "tipo": "concluido",
+   "status_desc": "Encerrado",
+   "sub_status": "02",
+   "objeto": "Prestação dos serviços de mapeamento,...",
+   "objeto_completo": "Prestação dos serviços de mapeamento, planejamento e execução de",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-11-05",
+   "data_inicio": "2024-11-06",
+   "data_fim": "2024-12-06",
+   "dou": "",
+   "familias": [
+    "99005964"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDFA9B3D5E4A851F02F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDFA9B3D5E4A851F02F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004326570",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção nos equipament...",
+   "objeto_completo": "Serviços de manutenção nos equipamentos das viatur as de combate a",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-11-04",
+   "data_inicio": "2024-11-05",
+   "data_fim": "2024-12-02",
+   "dou": "",
+   "familias": [
+    "99007370"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDFA6F50DA72B12700C",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDFA6F50DA72B12700C')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004326604",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção de Motores Elé...",
+   "objeto_completo": "Serviços de Manutenção de Motores Elétricos com Fornecimento de Partes",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-11-04",
+   "data_inicio": "2024-11-05",
+   "data_fim": "2024-12-09",
+   "dou": "",
+   "familias": [
+    "99007011"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFA688E3F23D2D2B1F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFA688E3F23D2D2B1F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004324662",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Fornec de bens e prest de serv relati...",
+   "objeto_completo": "",
+   "enfases": [
+    10,
+    13
+   ],
+   "enfase_nomes": [
+    "Projetos, Construção e Montagem – Edificações",
+    "Projetos, Construção e Montagem – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-11-01",
+   "data_inicio": "2024-11-01",
+   "data_fim": "2025-12-01",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EEFA6952D46F42C9F42",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEFA6952D46F42C9F42')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004326387",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de construção e montagem civ...",
+   "objeto_completo": "Serviços de construção e montagem civil para adequa ção nos diques dos",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sul"
+   ],
+   "data_publicacao": "2024-10-31",
+   "data_inicio": "2024-10-31",
+   "data_fim": "2024-12-02",
+   "dou": "",
+   "familias": [
+    "99008490"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFA5F07A504755CB1B",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFA5F07A504755CB1B')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004326102",
+   "tipo": "concluido",
+   "status_desc": "Distribuível",
+   "sub_status": "02",
+   "objeto": "Serviços de atendimento a urgências e...",
+   "objeto_completo": "Serviços de atendimento a urgências e emergências médicas em parada",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-10-31",
+   "data_inicio": "2024-10-31",
+   "data_fim": "2024-12-16",
+   "dou": "",
+   "familias": [
+    "99006540"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811EDFA5EFB49344310163",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EDFA5EFB49344310163')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004324457",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção de elétrica e...",
+   "objeto_completo": "",
+   "enfases": [
+    5,
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-10-23",
+   "data_inicio": "2024-10-23",
+   "data_fim": "2024-11-18",
+   "dou": "",
+   "familias": [
+    "99007870"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693C5C01EDFA4A6A7C6D0BBCAD9",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693C5C01EDFA4A6A7C6D0BBCAD9')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004322704",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de análises laboratoriais em...",
+   "objeto_completo": "Serviços de análises laboratoriais em amostras de águas, efluentes",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-10-21",
+   "data_inicio": "2024-10-21",
+   "data_fim": "2024-11-12",
+   "dou": "",
+   "familias": [
+    "99006761"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEFA3F519A5EA9F4ADC",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEFA3F519A5EA9F4ADC')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004319477",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "UTE-TMA - Manutenção em Sistemas de R...",
+   "objeto_completo": "Serviços de manutenção em sistemas de resfriamento",
+   "enfases": [
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-10-11",
+   "data_inicio": "2024-10-14",
+   "data_fim": "2024-11-04",
+   "dou": "",
+   "familias": [
+    "99007091"
+   ],
+   "profissionais": 48,
+   "profissionais_evid": "os, a Contratada deverá fornecer aos seus 18/48 empregados, no mínimo, os seguintes EPI básicos: - Ca",
+   "edital_objid": "00505693CAB21EEFA2CD40F3B8811EDD",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEFA2CD40F3B8811EDD')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004320047",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Análise de Óleo Isolante...",
+   "objeto_completo": "Serviços de Análise de Óleo Isolante de Transformadores , em",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-10-11",
+   "data_inicio": "2024-10-11",
+   "data_fim": "2024-11-01",
+   "dou": "",
+   "familias": [
+    "99006320"
+   ],
+   "profissionais": 111,
+   "profissionais_evid": "e dará sobre o valor correspondente a toda a mão de obra utilizada. 1.11.3 – Quando não existir, no mês, qualquer empr",
+   "edital_objid": "00505693CAB21EEFA1FB87DEF9901ED6",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEFA1FB87DEF9901ED6')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004317931",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção e Inspeção de...",
+   "objeto_completo": "Serviços de Manutenção e Inspeção de Equipamentos Estáticos e",
+   "enfases": [
+    2
+   ],
+   "enfase_nomes": [
+    "Inspeção de Equipamentos e Instalações"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-10-10",
+   "data_inicio": "2024-10-10",
+   "data_fim": "2024-11-08",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": 30,
+   "profissionais_evid": "uturas metálicas, com m obilização mínima de 30 profissionais. Nota 1: Os documentos válidos para evidenc",
+   "edital_objid": "005056AC507E1EEFA1C8459B457A0CA8",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEFA1C8459B457A0CA8')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004317203",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção em caldeiras,...",
+   "objeto_completo": "Serviços de manutenção em caldeiras, fornos, permu tadores, torres,",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sul"
+   ],
+   "data_publicacao": "2024-10-03",
+   "data_inicio": "2024-10-04",
+   "data_fim": "2024-11-13",
+   "dou": "",
+   "familias": [
+    "99007590"
+   ],
+   "profissionais": 500,
+   "profissionais_evid": "a de mobiliza ção de contingente superior a 500 empregados simultaneamente: 1 - Empreendimentos de c",
+   "edital_objid": "00505693435D1EEFA0CA938A77E24D7B",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693435D1EEFA0CA938A77E24D7B')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004310973",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Apoio Logístico Operacion...",
+   "objeto_completo": "Serviços de Apoio Logístico Operacional e",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-10-02",
+   "data_inicio": "2024-10-03",
+   "data_fim": "2024-10-30",
+   "dou": "",
+   "familias": [
+    "99005922"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1EEFA0B44A3C1D0C0C84",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEFA0B44A3C1D0C0C84')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004277222",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Construção da Pavimentaçã...",
+   "objeto_completo": "",
+   "enfases": [
+    10
+   ],
+   "enfase_nomes": [
+    "Projetos, Construção e Montagem – Edificações"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-09-30",
+   "data_inicio": "2024-10-01",
+   "data_fim": "2025-02-24",
+   "dou": "",
+   "familias": [
+    "000000000000099000"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDF9FEA28EEBB26EF92",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDF9FEA28EEBB26EF92')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004306696",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção, recuperação e...",
+   "objeto_completo": "Serviços de manutenção, recuperação e calibração d e válvulas de",
+   "enfases": [
+    6,
+    9
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação",
+    "Operação de Lastro"
+   ],
+   "ufs": [],
+   "polos": [
+    "Ipojuca",
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-09-06",
+   "data_inicio": "2024-09-06",
+   "data_fim": "2024-10-02",
+   "dou": "",
+   "familias": [
+    "99006211"
+   ],
+   "profissionais": 111,
+   "profissionais_evid": "e dará sobre o valor correspondente a toda a mão de obra utilizada. 1.11.3 – Quando não existir, no mês, qualquer empr",
+   "edital_objid": "005056AC507E1EEF9B8FC96F1A742BE7",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEF9B8FC96F1A742BE7')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004303306",
+   "tipo": "concluido",
+   "status_desc": "PATEC não iniciado",
+   "sub_status": "02",
+   "objeto": "Prestação dos Serviços de Manutenção...",
+   "objeto_completo": "Prestação dos Serviços de Manutenção em Bombas Hid ropneumáticas,",
+   "enfases": [
+    6,
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação",
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-08-23",
+   "data_inicio": "2024-08-26",
+   "data_fim": "2024-10-22",
+   "dou": "",
+   "familias": [
+    "99006386"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEF98AB31F18F95099D",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEF98AB31F18F95099D')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004294403",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de transporte terrestre e mo...",
+   "objeto_completo": "Serviços de transporte terrestre e movimentação de carga de 02 (dois)",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-08-13",
+   "data_inicio": "2024-08-13",
+   "data_fim": "2024-09-16",
+   "dou": "",
+   "familias": [
+    "99005764"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569BBBDA1EEF95D0D6679FB9773A",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EEF95D0D6679FB9773A')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004296917",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Suporte Técnico às Ativid...",
+   "objeto_completo": "Serviços de suporte técnico às atividades da gerência",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-08-09",
+   "data_inicio": "2024-08-09",
+   "data_fim": "2024-09-06",
+   "dou": "",
+   "familias": [
+    "99005922"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1EEF959BB9E541E66B1E",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEF959BB9E541E66B1E')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004295971",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção e calibração d...",
+   "objeto_completo": "Serviços de manutenção e calibração de válvulas de segurança, alívio e",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-08-02",
+   "data_inicio": "2024-08-05",
+   "data_fim": "2024-09-06",
+   "dou": "",
+   "familias": [
+    "99006211"
+   ],
+   "profissionais": 4,
+   "profissionais_evid": "e equipamentos necessários, contemplada por 4 profissionais. • Gerente de Contrato: profissional design",
+   "edital_objid": "005056AC507E1EEF94A40346ACA28B10",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEF94A40346ACA28B10')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004293196",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços Suplementares de Saúde Ocupa...",
+   "objeto_completo": "Serviços Suplementares de saúde ocupacional 2/49",
+   "enfases": [
+    1
+   ],
+   "enfase_nomes": [
+    "Enfermagem do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-07-30",
+   "data_inicio": "2024-07-30",
+   "data_fim": "2024-08-26",
+   "dou": "",
+   "familias": [
+    "99006079"
+   ],
+   "profissionais": 9,
+   "profissionais_evid": "............................................ 9 Trabalhadores estrangeiros de serviços marítimos .........",
+   "edital_objid": "00505693435D1EEF93CF4D4F64276D06",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693435D1EEF93CF4D4F64276D06')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004293227",
+   "tipo": "concluido",
+   "status_desc": "PATEC não iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços Especializados em Saúde - Oc...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-07-19",
+   "data_inicio": "2024-07-22",
+   "data_fim": "2024-08-15",
+   "dou": "",
+   "familias": [
+    "99006079"
+   ],
+   "profissionais": 8,
+   "profissionais_evid": "Médico da PARADA DE MANUTENÇÃO PROGRAMADA 8 profissionais (2 Condutor, 2 Médico, 2 Enfermeiro, 2 Téc",
+   "edital_objid": "00505693CAB21EEF918A45D03F593D46",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEF918A45D03F593D46')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004289335",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de inspeção, calibração, man...",
+   "objeto_completo": "",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-07-10",
+   "data_inicio": "2024-07-10",
+   "data_fim": "2024-08-15",
+   "dou": "",
+   "familias": [
+    "99006995"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EEF8FDE56EB2CF3DD1C",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEF8FDE56EB2CF3DD1C')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004288194",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de saúde ocupacional para as...",
+   "objeto_completo": "Serviços para atendimento à área de",
+   "enfases": [
+    1
+   ],
+   "enfase_nomes": [
+    "Enfermagem do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sul"
+   ],
+   "data_publicacao": "2024-07-09",
+   "data_inicio": "2024-07-10",
+   "data_fim": "2024-08-02",
+   "dou": "",
+   "familias": [
+    "99006079"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569BBBDA1EEF8FE1F3ED910136BF",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EEF8FE1F3ED910136BF')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004286310",
+   "tipo": "concluido",
+   "status_desc": "PATEC cancelado",
+   "sub_status": "02",
+   "objeto": "Serviços técnicos especializados para...",
+   "objeto_completo": "Prestação de serviços técnicos especializados",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-07-02",
+   "data_inicio": "2024-07-03",
+   "data_fim": "2024-08-12",
+   "dou": "",
+   "familias": [
+    "99006133"
+   ],
+   "profissionais": 12,
+   "profissionais_evid": "s, os serviços foram prestados por no mínimo 12 empregados da CONTRATADA. Tal decisão, todavia, ficará",
+   "edital_objid": "0050569BBBDA1EEF8E8FC6F16C2CD696",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EEF8E8FC6F16C2CD696')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004285272",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de gestão de segurança, cont...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-06-25",
+   "data_inicio": "2024-06-26",
+   "data_fim": "2024-07-24",
+   "dou": "",
+   "familias": [
+    "99006766"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811EEF8CF8765396ACFECE",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EEF8CF8765396ACFECE')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004282700",
+   "tipo": "concluido",
+   "status_desc": "PATEC não iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços especializados em Saúde Ocup...",
+   "objeto_completo": "",
+   "enfases": [
+    1,
+    15
+   ],
+   "enfase_nomes": [
+    "Enfermagem do Trabalho",
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-06-20",
+   "data_inicio": "2024-06-20",
+   "data_fim": "2024-07-17",
+   "dou": "",
+   "familias": [
+    "99006079"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EEF8BE076CCAED5FCD5",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEF8BE076CCAED5FCD5')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004281895",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Constr. Mont. RPBC - Serviços de Cons...",
+   "objeto_completo": "Serviços de Construção e Montagem Mecânica, Civil, Elétrica e",
+   "enfases": [
+    5,
+    6,
+    7,
+    11,
+    12,
+    13
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Instrumentação",
+    "Manutenção – Mecânica",
+    "Projetos, Construção e Montagem – Elétrica",
+    "Projetos, Construção e Montagem – Instrumentação",
+    "Projetos, Construção e Montagem – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-06-13",
+   "data_inicio": "2024-06-13",
+   "data_fim": "2024-07-22",
+   "dou": "",
+   "familias": [
+    "99008490"
+   ],
+   "profissionais": 100,
+   "profissionais_evid": "viços exigidos, a mobilização de, no mínimo, 100 profissionais p or um período de 180 dias. Poderá ser adm",
+   "edital_objid": "005056AC507E1EEF8AB025D148B62A04",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEF8AB025D148B62A04')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004279362",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de montagem, instalação, tes...",
+   "objeto_completo": "Serviços de Montagem, Instalação, Testes e Operaçã o Assistida para a",
+   "enfases": [
+    8
+   ],
+   "enfase_nomes": [
+    "Operação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-06-04",
+   "data_inicio": "2024-06-05",
+   "data_fim": "2024-07-05",
+   "dou": "",
+   "familias": [
+    "99006800"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1EEF88CBA847E5DCC9D4",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEF88CBA847E5DCC9D4')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004276584",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Manutenção em sistemas HVAC da Termelétr",
+   "objeto_completo": "Serviço de manutenção em sistemas de",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-05-24",
+   "data_inicio": "2024-05-28",
+   "data_fim": "2024-06-28",
+   "dou": "",
+   "familias": [
+    "99007091"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811EEF87BCC0857F361E62",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EEF87BCC0857F361E62')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004273711",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Prestação de Serviços de transformaçã...",
+   "objeto_completo": "",
+   "enfases": [
+    15
+   ],
+   "enfase_nomes": [
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-05-23",
+   "data_inicio": "2024-05-23",
+   "data_fim": "2024-06-19",
+   "dou": "",
+   "familias": [
+    "99006614"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDF86884B1CAC2C2DB0",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDF86884B1CAC2C2DB0')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004269397",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços especializados em Saúde Ocup...",
+   "objeto_completo": "SERVIÇOS ESPECIALIZADOS EM SAÚDE",
+   "enfases": [
+    1,
+    15
+   ],
+   "enfase_nomes": [
+    "Enfermagem do Trabalho",
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Ipojuca",
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-05-21",
+   "data_inicio": "2024-05-21",
+   "data_fim": "2024-07-03",
+   "dou": "",
+   "familias": [
+    "99006079"
+   ],
+   "profissionais": 9,
+   "profissionais_evid": "............................................ 9 Trabalhadores estrangeiros de serviços marítimos .........",
+   "edital_objid": "0050569363001EDF85DCB559DC3A2DA6",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDF85DCB559DC3A2DA6')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004276133",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviço de Manutenção em Motor Elétri...",
+   "objeto_completo": "Manutenção em Motor Elétrico, conforme as especifi cações deste",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-05-16",
+   "data_inicio": "2024-05-17",
+   "data_fim": "2024-06-10",
+   "dou": "",
+   "familias": [
+    "99007011"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDF84F7D9E14CFB0D9A",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDF84F7D9E14CFB0D9A')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004275382",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Disponibilização e operação de equipa...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-05-16",
+   "data_inicio": "2024-05-16",
+   "data_fim": "2024-06-12",
+   "dou": "",
+   "familias": [
+    "99006128"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EDF84DD515833202D97",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDF84DD515833202D97')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004274692",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de movimentação de cargas e...",
+   "objeto_completo": "",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-05-15",
+   "data_inicio": "2024-05-15",
+   "data_fim": "2024-06-21",
+   "dou": "",
+   "familias": [
+    "99006030"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569BBBDA1EEF84DDD8F0454115D2",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EEF84DDD8F0454115D2')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004274135",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de apoio em atividades labor...",
+   "objeto_completo": "Serviços de apoio técnico e suporte especializado em",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-05-13",
+   "data_inicio": "2024-05-14",
+   "data_fim": "2024-06-05",
+   "dou": "",
+   "familias": [
+    "99006126"
+   ],
+   "profissionais": 57,
+   "profissionais_evid": ", os serviços foram prestados por no mínimo 57 empregados da CONTRATADA, conforme detalhamento contido",
+   "edital_objid": "005056820C811EEF84AAE2864B8A5E22",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EEF84AAE2864B8A5E22')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004270868",
+   "tipo": "concluido",
+   "status_desc": "PATEC não iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Ensaios Laboratoriais em...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-05-07",
+   "data_inicio": "2024-05-07",
+   "data_fim": "2024-06-12",
+   "dou": "",
+   "familias": [
+    "99006072"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569BBBDA1EEF838AAE71F4A0D5A1",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EEF838AAE71F4A0D5A1')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004266841",
+   "tipo": "concluido",
+   "status_desc": "PATEC não iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção de Elétrica, I...",
+   "objeto_completo": "Serviços de Manutenção de Elétrica, Instrumentação e Automação em",
+   "enfases": [
+    5,
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica",
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-04-15",
+   "data_inicio": "2024-04-15",
+   "data_fim": "2024-05-24",
+   "dou": "",
+   "familias": [
+    "99007870"
+   ],
+   "profissionais": 60,
+   "profissionais_evid": "foram qualificadas para Porte dos Serviços: 60 profissionais – 60 dias. Obs.: O proponente que não const",
+   "edital_objid": "0050569363001EDEBEE5CBB160A44D23",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EDEBEE5CBB160A44D23')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004265377",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Guindaste para elevação e...",
+   "objeto_completo": "SERVIÇOS DE GUINDASTES PARA ELEVAÇÃO",
+   "enfases": [
+    3
+   ],
+   "enfase_nomes": [
+    "Logística de Transportes – Controle"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-04-02",
+   "data_inicio": "2024-04-02",
+   "data_fim": "2024-04-30",
+   "dou": "",
+   "familias": [
+    "99006030"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1EEEBC846DDEF4D04A8F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEEBC846DDEF4D04A8F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004255264",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção de Caldeiraria...",
+   "objeto_completo": "Serviços de manutenção de caldeiraria, tubulações, complementar e",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-03-28",
+   "data_inicio": "2024-03-28",
+   "data_fim": "2024-05-03",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": 202,
+   "profissionais_evid": "erificação - Processo 836 Hor 13:15Dat 01/11/202 profissionais atuantes? (LV-RGN-203) SERVIÇO ENVOLVENDO AT",
+   "edital_objid": "0050569BBBDA1EDEBB9EF4C56366C4BB",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EDEBB9EF4C56366C4BB')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004262793",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção de torres, vas...",
+   "objeto_completo": "Serviços de manutenção de torres, vasos de pressão , permutadores,",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-03-21",
+   "data_inicio": "2024-03-21",
+   "data_fim": "2024-05-09",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569BBBDA1EDEB9DF1EE321096F4F",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EDEB9DF1EE321096F4F')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004262301",
+   "tipo": "concluido",
+   "status_desc": "",
+   "sub_status": "02",
+   "objeto": "Assistência técnica, manutenção, cali...",
+   "objeto_completo": "",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-03-18",
+   "data_inicio": "2024-03-18",
+   "data_fim": "2024-04-16",
+   "dou": "",
+   "familias": [
+    "99006321"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEEB8DA69B09725FB61",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEEB8DA69B09725FB61')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004260080",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção de Tanques e E...",
+   "objeto_completo": "Serviços de Manutenção de Tanques e Esferas e forn ecimento de partes",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [
+    "Ipojuca",
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-03-13",
+   "data_inicio": "2024-03-13",
+   "data_fim": "2024-04-23",
+   "dou": "",
+   "familias": [
+    "99006363"
+   ],
+   "profissionais": 719,
+   "profissionais_evid": "do Programa de Capacitação e Qualificação de mão de obra; 7.1.9 A CONTRATADA deverá apresentar a PETROBRAS a",
+   "edital_objid": "00505693CAB21EEEB894DFC55AE7ABF2",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEEB894DFC55AE7ABF2')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004259816",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serv. Reparos Mecanicos e não Metalic...",
+   "objeto_completo": "Serviços de Reparos Mecânicos e Não metálicos em Tubulações,",
+   "enfases": [
+    4,
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria",
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-03-12",
+   "data_inicio": "2024-03-12",
+   "data_fim": "2024-04-10",
+   "dou": "",
+   "familias": [
+    "99006208"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811EEEB7B3FC937BE5D3DF",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EEEB7B3FC937BE5D3DF')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004257279",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de análises e apoio às ativi...",
+   "objeto_completo": "",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-02-22",
+   "data_inicio": "2024-02-22",
+   "data_fim": "2024-03-25",
+   "dou": "",
+   "familias": [
+    "99006072"
+   ],
+   "profissionais": 6,
+   "profissionais_evid": "rário administrativo - realização de ensaios 6 profissionais químicos Equipe mínima de gerenciamento 1",
+   "edital_objid": "005056820C811EDEB49DF4A65789C8A7",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EDEB49DF4A65789C8A7')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004256580",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção em Redes de Tr...",
+   "objeto_completo": "Serviços de Manutenção em Redes de Transmissão e D istribuição de Energia Elétrica e",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-02-19",
+   "data_inicio": "2024-02-19",
+   "data_fim": "2024-04-03",
+   "dou": "",
+   "familias": [
+    "99006902"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056820C811EDEB3A2415D6B85CFD3",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056820C811EDEB3A2415D6B85CFD3')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004256453",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção de fornos, tor...",
+   "objeto_completo": "serviços de manutenção de fornos, torres, vasos, reatores, tubulações e",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [
+    "Ipojuca"
+   ],
+   "data_publicacao": "2024-02-19",
+   "data_inicio": "2024-02-19",
+   "data_fim": "2024-05-16",
+   "dou": "",
+   "familias": [
+    "99008020"
+   ],
+   "profissionais": 433,
+   "profissionais_evid": "os conforme item específico do Anexo 2, como mão de obra e material aplicado. 4.3.3. Ancoragens Deverão ser disponibilizadas, p",
+   "edital_objid": "0050569BBBDA1EDEB39850287252997A",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EDEB39850287252997A')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004252897",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção, Restauração e...",
+   "objeto_completo": "Serviços de Manutenção, Restauração e Modernização dos Disjuntores de",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-01-31",
+   "data_inicio": "2024-02-01",
+   "data_fim": "2024-03-22",
+   "dou": "",
+   "familias": [
+    "99007080"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EDEAFF3CF7F8BEC8AE5",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EDEAFF3CF7F8BEC8AE5')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004250649",
+   "tipo": "concluido",
+   "status_desc": "",
+   "sub_status": "02",
+   "objeto": "Serviço de caracterização de amostras...",
+   "objeto_completo": "Serviço de caracterização de amostras de petróleo , derivados de",
+   "enfases": [
+    14
+   ],
+   "enfase_nomes": [
+    "Química de Petróleo"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-01-24",
+   "data_inicio": "2024-01-24",
+   "data_fim": "2024-02-28",
+   "dou": "",
+   "familias": [
+    "99006072"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "005056AC507E1EEEAEC42F6E0B493034",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEEAEC42F6E0B493034')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004251952",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Midlife Overhaul and Major Overhaul o...",
+   "objeto_completo": "",
+   "enfases": [
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2024-01-24",
+   "data_inicio": "2024-01-24",
+   "data_fim": "2024-03-20",
+   "dou": "",
+   "familias": [
+    "99006312"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EDEAEC4906EF8C082DF",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EDEAEC4906EF8C082DF')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004242001",
+   "tipo": "concluido",
+   "status_desc": "Encerrado",
+   "sub_status": "02",
+   "objeto": "Prestação dos serviços para adequação...",
+   "objeto_completo": "Serviços para adequação(remanejamento), melhorias, operação,",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-01-05",
+   "data_inicio": "2024-01-05",
+   "data_fim": "2024-02-20",
+   "dou": "",
+   "familias": [
+    "99007130"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569BBBDA1EEEAAE2A76164712C50",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569BBBDA1EEEAAE2A76164712C50')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004239742",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Saúde Ocupacional e Servi...",
+   "objeto_completo": "Serviços de Saúde Ocupacional e Serviços de Acompanhamento Médico e Pronto Atendimento Pré-Hospitalar com Disponibilidade de Ambulância na Área Industrial",
+   "enfases": [
+    1
+   ],
+   "enfase_nomes": [
+    "Enfermagem do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2024-01-02",
+   "data_inicio": "2024-01-02",
+   "data_fim": "2024-01-30",
+   "dou": "",
+   "familias": [
+    "99006079"
+   ],
+   "profissionais": 10,
+   "profissionais_evid": "ormados acima, a mobilização de, no mínimo, 10 profissionais por, pelo menos, 365 dias. Poderá ser admiti",
+   "edital_objid": "00505699F9891EEEA9CF700C78BE9B06",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEEA9CF700C78BE9B06')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004233011",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção de Instrumenta...",
+   "objeto_completo": "Serviços de Manutenção de Instrumentação Pneumátic a, Eletrônica e",
+   "enfases": [
+    6
+   ],
+   "enfase_nomes": [
+    "Manutenção – Instrumentação"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2023-12-15",
+   "data_inicio": "2023-12-15",
+   "data_fim": "2024-01-09",
+   "dou": "",
+   "familias": [
+    "99007180"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EEEA6D48C84108E68CC",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEEA6D48C84108E68CC')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004222410",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção em trocadores...",
+   "objeto_completo": "Serviços de manutenção em trocadores de calor e fornecimento de partes",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2023-12-13",
+   "data_inicio": "2023-12-13",
+   "data_fim": "2024-01-22",
+   "dou": "",
+   "familias": [
+    "99006382"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EEEA6A344269E0AA889",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EEEA6A344269E0AA889')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004226176",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de manutenção e suporte à in...",
+   "objeto_completo": "Serviços de manutenção e suporte à inspeção das caldeiras marítimas",
+   "enfases": [
+    4
+   ],
+   "enfase_nomes": [
+    "Manutenção – Caldeiraria"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2023-12-04",
+   "data_inicio": "2023-12-04",
+   "data_fim": "2024-02-15",
+   "dou": "",
+   "familias": [
+    "99006362"
+   ],
+   "profissionais": 622,
+   "profissionais_evid": "na norma principal aplicável ao serviço; 8.6.2.2 Profissionais certificados, também na norma principal apli",
+   "edital_objid": "005056AC507E1EEEA48FAE74DF516DD6",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('005056AC507E1EEEA48FAE74DF516DD6')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004222776",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção em Sistemas de...",
+   "objeto_completo": "",
+   "enfases": [
+    7
+   ],
+   "enfase_nomes": [
+    "Manutenção – Mecânica"
+   ],
+   "ufs": [],
+   "polos": [],
+   "data_publicacao": "2023-12-01",
+   "data_inicio": "2023-12-01",
+   "data_fim": "2024-01-12",
+   "dou": "",
+   "familias": [
+    "99007091"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505693CAB21EEEA3F24BCE53FE1CC4",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEEA3F24BCE53FE1CC4')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": [
+    "C3 Engenharia e Soluções",
+    "Cascadura Turbo Solution",
+    "Engeman",
+    "Engemon",
+    "Equinor",
+    "Etesco",
+    "Grupo CBO",
+    "Manserv",
+    "NPE",
+    "Oceânica (TFO)",
+    "Turboserve",
+    "Turbotech Engenharia"
+   ]
+  },
+  {
+   "num": "7004223705",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de Manutenção Corretiva em G...",
+   "objeto_completo": "Serviço de Manutenção Corretiva em Gerador Síncrono do TG-A de P-40.,",
+   "enfases": [
+    5
+   ],
+   "enfase_nomes": [
+    "Manutenção – Elétrica"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2023-11-24",
+   "data_inicio": "2023-11-24",
+   "data_fim": "2024-01-17",
+   "dou": "",
+   "familias": [
+    "99006801"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "0050569363001EEEA2C4EADA3EB06EE6",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('0050569363001EEEA2C4EADA3EB06EE6')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004171553",
+   "tipo": "concluido",
+   "status_desc": "PATEC Não Iniciado",
+   "sub_status": "02",
+   "objeto": "Serviços de apoio técnico à gestão pa...",
+   "objeto_completo": "Serviços de apoio à gestão para os processos de",
+   "enfases": [
+    1,
+    15
+   ],
+   "enfase_nomes": [
+    "Enfermagem do Trabalho",
+    "Segurança do Trabalho"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2023-09-25",
+   "data_inicio": "2023-09-25",
+   "data_fim": "2024-03-27",
+   "dou": "",
+   "familias": [
+    "99006079"
+   ],
+   "profissionais": 10,
+   "profissionais_evid": "ormados acima, a mobilização de, no mínimo, 10 profissionais previstos no contrato. Poderá ser admitida,",
+   "edital_objid": "00505693CAB21EEE96AB161751DFC715",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505693CAB21EEE96AB161751DFC715')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  },
+  {
+   "num": "7004170561",
+   "tipo": "concluido",
+   "status_desc": "Avaliação Concluída",
+   "sub_status": "02",
+   "objeto": "Serviços de suprimento de ferramentas...",
+   "objeto_completo": "",
+   "enfases": [
+    16
+   ],
+   "enfase_nomes": [
+    "Suprimento de Bens e Serviços – Administração"
+   ],
+   "ufs": [],
+   "polos": [
+    "Sudeste"
+   ],
+   "data_publicacao": "2023-09-05",
+   "data_inicio": "2023-09-05",
+   "data_fim": "2024-01-12",
+   "dou": "",
+   "familias": [
+    "99007520"
+   ],
+   "profissionais": null,
+   "profissionais_evid": "",
+   "edital_objid": "00505699F9891EDE92EB397AA7389AF5",
+   "edital_link": "https://www.petronect.com.br/sap/opu/odata/SAP/YPCON_PUB_ATTACHMENT_DOWNLOAD_SRV/attachmentSet('00505699F9891EDE92EB397AA7389AF5')/$value",
+   "fonte": "Petronect",
+   "empresa": "",
+   "obs": "",
+   "empresas_sugeridas": []
+  }
+ ]
+}
