@@ -34,9 +34,11 @@ function render(){
   else badge.hidden=true;
 }
 
+function advCurto(nm){ if(!nm) return ''; const p=nm.trim().split(/\s+/); return p.length>2?`${p[0]} ${p[p.length-1]}`:nm; }
 function cardHTML(p){
   const tags=[
     p.posse?`<span class="tag t-posse">🏛️ Posse adquirida</span>`:'',
+    p.de_terceiros?`<span class="tag t-adv">⚖️ ${esc(advCurto(p.advogado))}</span>`:`<span class="tag t-luig">Luig</span>`,
     `<span class="tag t-trib">${esc(p.trib)}</span>`,
     `<span class="tag t-inst">${esc(p.instancia)}</span>`,
     p.fonte&&p.fonte.indexOf('TJBA')===0?`<span class="tag t-warn">via TJBA</span>`:'',
@@ -74,7 +76,7 @@ function renderNovidades(){
 function renderFiltros(){
   const objetos=['todos',...Array.from(new Set(DADOS.processos.map(p=>p.objeto)))];
   const tribs=['todos',...Array.from(new Set(DADOS.processos.map(p=>p.trib))).sort()];
-  const status=['todos','Posse adquirida','Novidades','Trânsito julgado','Ganho','Perda','1º grau','2º grau'];
+  const status=['todos','Luig','Outros advogados','Posse adquirida','Novidades','Trânsito julgado','Ganho','Perda','1º grau','2º grau'];
   const mk=(arr,cur,tipo)=>arr.map(v=>`<button class="chip ${v===cur?'ativo':''}" data-tipo="${tipo}" data-v="${esc(v)}">${esc(v==='todos'?(tipo==='trib'?'Todos tribunais':tipo==='obj'?'Todos objetos':'Todos status'):v)}</button>`).join('');
   $('#filtros').innerHTML = mk(status,filtroStatus,'status')+mk(tribs,filtroTrib,'trib')+mk(objetos,filtroObjeto,'obj');
 }
@@ -84,6 +86,8 @@ function aplicaFiltros(lista){
   return lista.filter(p=>{
     if(filtroObjeto!=='todos' && p.objeto!==filtroObjeto) return false;
     if(filtroTrib!=='todos' && p.trib!==filtroTrib) return false;
+    if(filtroStatus==='Luig' && p.de_terceiros) return false;
+    if(filtroStatus==='Outros advogados' && !p.de_terceiros) return false;
     if(filtroStatus==='Posse adquirida' && !p.posse) return false;
     if(filtroStatus==='Novidades' && !p.novo) return false;
     if(filtroStatus==='Trânsito julgado' && !p.transito) return false;
@@ -91,7 +95,7 @@ function aplicaFiltros(lista){
     if(filtroStatus==='Perda' && p.resultado!=='Perda') return false;
     if(filtroStatus==='1º grau' && p.instancia!=='1º grau') return false;
     if(filtroStatus==='2º grau' && !p.instancia.startsWith('2º')) return false;
-    if(q){ const alvo=(p.num+' '+p.cliente+' '+p.objeto+' '+p.classe).toLowerCase(); if(!alvo.includes(q)) return false; }
+    if(q){ const alvo=(p.num+' '+p.cliente+' '+p.objeto+' '+p.classe+' '+(p.advogado||'')).toLowerCase(); if(!alvo.includes(q)) return false; }
     return true;
   });
 }
@@ -284,7 +288,7 @@ function abrirProcesso(num){
       <div class="m-item"><div class="k">Início (1ª publ.)</div><div class="v">${fmtData(p.data_inicio)}</div></div>
       <div class="m-item"><div class="k">Última mov.</div><div class="v">${fmtData(p.ultima_data)}</div></div>
       <div class="m-item"><div class="k">Duração</div><div class="v">${p.duracao_dias!==''?p.duracao_dias+' dias':'—'}</div></div>
-      <div class="m-item"><div class="k">Polo</div><div class="v" style="font-size:12px">${esc(p.polo)}</div></div>
+      <div class="m-item"><div class="k">Advogado(a)</div><div class="v" style="font-size:12px">${esc(p.advogado||'—')}${p.de_terceiros?'':' (nosso monitorado)'}</div></div>
     </div>
     ${p.link?`<a class="m-btn" href="${esc(p.link)}" target="_blank" rel="noopener">Ver última decisão no tribunal ↗</a>`:''}
     <div class="sec-titulo" style="margin-left:0">Histórico de publicações (${coms.length})</div>
@@ -331,3 +335,51 @@ async function carregar(forcar){
 }
 if('serviceWorker' in navigator){ navigator.serviceWorker.register('sw.js').catch(()=>{}); }
 carregar();
+
+/* =================== POPUP DOAÇÃO =================== */
+(function(){
+  const pop = $('#doacao');
+  if(!pop) return;
+  const btnPix = $('#btnPix');
+  let timers = [];
+
+  function mostrar(){ pop.hidden = false; }
+  function fechar(){ pop.hidden = true; }
+
+  // Agenda: entrada (~1,2s), 2min, 5min, 10min — depois não aparece mais.
+  // Ao recarregar/reentrar no site, a contagem recomeça (timers são criados a cada load).
+  const AGENDA = [1200, 2*60*1000, 5*60*1000, 10*60*1000];
+  AGENDA.forEach(ms => timers.push(setTimeout(mostrar, ms)));
+
+  // Fechar
+  pop.addEventListener('click', e => {
+    if(e.target.id==='doacaoFechar' || e.target.classList.contains('doacao-bg')) fechar();
+  });
+  document.addEventListener('keydown', e => { if(e.key==='Escape' && !pop.hidden) fechar(); });
+
+  // Copiar chave PIX (fica só no data-attribute, não visível ao usuário)
+  btnPix.addEventListener('click', async () => {
+    const chave = btnPix.getAttribute('data-pix') || '';
+    let ok = false;
+    try{
+      if(navigator.clipboard && window.isSecureContext){
+        await navigator.clipboard.writeText(chave); ok = true;
+      } else throw new Error('fallback');
+    }catch(_){
+      try{
+        const ta = document.createElement('textarea');
+        ta.value = chave; ta.style.position='fixed'; ta.style.opacity='0';
+        document.body.appendChild(ta); ta.focus(); ta.select();
+        ok = document.execCommand('copy'); document.body.removeChild(ta);
+      }catch(__){ ok = false; }
+    }
+    const orig = btnPix.innerHTML;
+    if(ok){
+      btnPix.classList.add('copiado');
+      btnPix.innerHTML = '<span class="pix-ic">✓</span> Chave PIX copiada!';
+    }else{
+      btnPix.innerHTML = '<span class="pix-ic">⚠</span> Copie manualmente';
+    }
+    setTimeout(() => { btnPix.innerHTML = orig; btnPix.classList.remove('copiado'); }, 2200);
+  });
+})();

@@ -64,7 +64,7 @@ a{color:var(--cy);text-decoration:none}
   -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
 .topo-titulo h1 span{background:var(--grad);-webkit-background-clip:text;background-clip:text;
   -webkit-text-fill-color:transparent}
-.sub{margin:3px 0 0;font-size:11px;color:var(--tx2);letter-spacing:.02em;text-transform:uppercase;font-weight:500}
+.sub{margin:4px 0 0;font-size:11.5px;color:var(--tx2);letter-spacing:.01em;font-weight:500;line-height:1.45;max-width:640px}
 .btn-refresh{margin-left:auto;width:42px;height:42px;border-radius:13px;cursor:pointer;color:var(--tx);
   background:var(--card);border:1px solid var(--card-brd);font-size:19px;
   backdrop-filter:blur(8px);transition:.3s}
@@ -113,6 +113,8 @@ a{color:var(--cy);text-decoration:none}
 .t-bad{background:var(--badbg);color:var(--bad);border-color:var(--badbd)}
 .t-warn{background:var(--warnbg);color:var(--warn);border-color:var(--warnbd)}
 .t-neutral{background:var(--neubg);color:var(--neu);border-color:var(--line)}
+.t-adv{background:rgba(155,107,255,.14);color:#c3a6ff;border-color:rgba(155,107,255,.30);text-transform:none;letter-spacing:0;max-width:170px;overflow:hidden;text-overflow:ellipsis}
+.t-luig{background:rgba(56,225,255,.10);color:var(--cy);border-color:rgba(56,225,255,.26)}
 
 /* ---------------- NOVIDADES ---------------- */
 .resumo-novidades{margin:2px 0 16px}
@@ -283,3 +285,36 @@ a{color:var(--cy);text-decoration:none}
 .t-emp{background:rgba(79,123,255,.14);color:#9fb6ff;border-color:rgba(79,123,255,.28);text-transform:none;max-width:220px;overflow:hidden;text-overflow:ellipsis}
 .t-nac{background:rgba(56,225,255,.12);color:var(--cy);border-color:rgba(56,225,255,.30);text-transform:none}
 .t-pos{background:var(--goldbg,rgba(255,194,77,.12));color:var(--gold,#ffc24d);border-color:var(--goldbd,rgba(255,194,77,.30));text-transform:none}
+
+/* ---------------- POPUP DOAÇÃO ---------------- */
+.doacao{position:fixed;inset:0;z-index:80;display:flex;align-items:center;justify-content:center;padding:20px}
+.doacao[hidden]{display:none}
+.doacao-bg{position:absolute;inset:0;background:rgba(3,6,12,.74);backdrop-filter:blur(7px);-webkit-backdrop-filter:blur(7px);animation:fadeup .25s ease both}
+.doacao-card{position:relative;width:100%;max-width:360px;max-height:92vh;overflow-y:auto;
+  background:linear-gradient(180deg,rgba(12,17,28,.98),rgba(8,11,20,.98));
+  border:1px solid var(--card-brd);border-radius:26px;padding:30px 24px 22px;text-align:center;
+  box-shadow:0 30px 80px -30px rgba(0,0,0,.95),0 0 0 1px rgba(79,123,255,.14);
+  animation:sobe .32s cubic-bezier(.2,.8,.25,1) both}
+.doacao-card::before{content:"";position:absolute;inset:0;border-radius:26px;pointer-events:none;
+  background:radial-gradient(70% 50% at 50% -10%,rgba(79,123,255,.20),transparent 70%)}
+.doacao-fechar{position:absolute;top:12px;right:14px;width:34px;height:34px;border-radius:50%;
+  border:1px solid var(--card-brd);background:rgba(255,255,255,.05);color:var(--tx2);
+  font-size:20px;line-height:1;cursor:pointer;transition:.2s;z-index:2}
+.doacao-fechar:hover{color:var(--tx);border-color:var(--bad)}
+.doacao-card h2{font-size:27px;font-weight:700;margin-bottom:8px;position:relative}
+.doacao-card h2 span{background:var(--grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.doacao-lead{font-size:15px;font-weight:600;color:var(--tx);margin:0 0 4px;position:relative}
+.doacao-sub{font-size:13.5px;color:var(--tx2);margin:0 0 18px;line-height:1.45;position:relative}
+.doacao-qr{width:210px;max-width:70vw;aspect-ratio:1;margin:0 auto 20px;padding:12px;
+  background:#fff;border-radius:16px;box-shadow:0 10px 30px -12px rgba(0,0,0,.8);position:relative}
+.doacao-qr svg{display:block;width:100%;height:100%}
+.doacao-pix{display:flex;align-items:center;justify-content:center;gap:9px;width:100%;
+  border:0;border-radius:15px;padding:15px 18px;cursor:pointer;position:relative;
+  font-family:var(--font);font-size:15.5px;font-weight:700;color:#fff;letter-spacing:.01em;
+  background:var(--grad);box-shadow:0 12px 28px -12px rgba(79,123,255,.7);transition:.2s;
+  -webkit-tap-highlight-color:transparent}
+.doacao-pix:hover{filter:brightness(1.06)}
+.doacao-pix:active{transform:translateY(1px)}
+.doacao-pix .pix-ic{font-size:17px}
+.doacao-pix.copiado{background:linear-gradient(120deg,#2fe6a8,#3bf0c2)}
+.doacao-rodape{font-size:11.5px;color:var(--tx3);margin:14px 0 0;position:relative}
