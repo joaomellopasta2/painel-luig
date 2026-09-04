@@ -318,3 +318,12 @@ a{color:var(--cy);text-decoration:none}
 .doacao-pix .pix-ic{font-size:17px}
 .doacao-pix.copiado{background:linear-gradient(120deg,#2fe6a8,#3bf0c2)}
 .doacao-rodape{font-size:11.5px;color:var(--tx3);margin:14px 0 0;position:relative}
+
+/* ---------------- BOTÃO "VER MAIS" (paginação) ---------------- */
+.ver-mais{display:block;width:100%;margin:14px 0 4px;padding:15px 18px;cursor:pointer;
+  font-family:var(--font);font-size:15px;font-weight:700;color:var(--tx);letter-spacing:.01em;
+  background:var(--card);border:1px solid var(--card-brd);border-radius:16px;
+  backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);transition:.2s;
+  -webkit-tap-highlight-color:transparent}
+.ver-mais:hover{background:var(--card-hi);border-color:rgba(79,123,255,.35);color:#cfe0ff}
+.ver-mais:active{transform:translateY(1px)}

@@ -3,6 +3,11 @@ let DADOS = null;
 let filtroObjeto = 'todos', filtroTrib = 'todos', filtroStatus = 'todos';
 let CONTRATOS = null, provEnfase = 'todas', provPolo = 'todos';
 
+// paginação (evita pintar centenas de cards de uma vez — trava no iOS Safari)
+const PAG = 50;
+let _resProc = [], _shownProc = 0;
+let _resCont = [], _shownCont = 0;
+
 const $ = s => document.querySelector(s);
 const $$ = s => Array.from(document.querySelectorAll(s));
 const esc = s => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -101,9 +106,20 @@ function aplicaFiltros(lista){
 }
 
 function renderLista(){
-  const res=aplicaFiltros(DADOS.processos);
-  $('#contadorLista').textContent=`${res.length} processo(s)`;
-  $('#listaProcessos').innerHTML = res.length?res.map(cardHTML).join(''):`<div class="rn-vazio">Nenhum processo com esses filtros.</div>`;
+  _resProc = aplicaFiltros(DADOS.processos);
+  $('#contadorLista').textContent=`${_resProc.length} processo(s)`;
+  const cont=$('#listaProcessos');
+  if(!_resProc.length){ cont.innerHTML=`<div class="rn-vazio">Nenhum processo com esses filtros.</div>`; return; }
+  cont.innerHTML=''; _shownProc=0; maisLista();
+}
+function maisLista(){
+  const cont=$('#listaProcessos');
+  const b=document.getElementById('verMaisProc'); if(b) b.remove();
+  const fim=Math.min(_shownProc+PAG,_resProc.length);
+  cont.insertAdjacentHTML('beforeend',_resProc.slice(_shownProc,fim).map(cardHTML).join(''));
+  _shownProc=fim;
+  if(_shownProc<_resProc.length)
+    cont.insertAdjacentHTML('beforeend',`<button id="verMaisProc" class="ver-mais" type="button">Ver mais ${_resProc.length-_shownProc} processo(s) ▾</button>`);
 }
 
 /* =================== PAINEL =================== */
@@ -230,9 +246,19 @@ function renderProvas(){
   }
   wrap.innerHTML=`<div class="rn-card"><div class="n">${res.length}</div><div class="l">contrato(s) de serviço da Petrobras nesta seleção — <b>${cc}</b> concluído(s)/homologado(s) · <b>${ab}</b> em licitação aberta. Base desde ${esc(CONTRATOS.desde||'jan/2024')}.</div></div>`;
   $('#contadorProvas').textContent=`${res.length} contrato(s)`;
-  $('#listaContratos').innerHTML = res.length
-    ? res.map(contratoCard).join('')
-    : `<div class="rn-vazio">Nenhum contrato para esta ênfase/polo. Isso também é informação: pode não haver terceirização registrada nesse recorte (ou o objeto não casou). A base cresce a cada atualização.</div>`;
+  _resCont=res;
+  const cont=$('#listaContratos');
+  if(!res.length){ cont.innerHTML=`<div class="rn-vazio">Nenhum contrato para esta ênfase/polo. Isso também é informação: pode não haver terceirização registrada nesse recorte (ou o objeto não casou). A base cresce a cada atualização.</div>`; return; }
+  cont.innerHTML=''; _shownCont=0; maisProvas();
+}
+function maisProvas(){
+  const cont=$('#listaContratos');
+  const b=document.getElementById('verMaisCont'); if(b) b.remove();
+  const fim=Math.min(_shownCont+PAG,_resCont.length);
+  cont.insertAdjacentHTML('beforeend',_resCont.slice(_shownCont,fim).map(contratoCard).join(''));
+  _shownCont=fim;
+  if(_shownCont<_resCont.length)
+    cont.insertAdjacentHTML('beforeend',`<button id="verMaisCont" class="ver-mais" type="button">Ver mais ${_resCont.length-_shownCont} contrato(s) ▾</button>`);
 }
 function abrirContrato(num){
   const c=(CONTRATOS.contratos||[]).find(x=>x.num===num); if(!c) return;
@@ -307,6 +333,8 @@ function trocarTab(tab){
 }
 document.addEventListener('click',e=>{
   const nav=e.target.closest('.nav-btn'); if(nav){ trocarTab(nav.dataset.tab); return; }
+  if(e.target.id==='verMaisProc'){ maisLista(); return; }
+  if(e.target.id==='verMaisCont'){ maisProvas(); return; }
   const cc=e.target.closest('.card-contrato'); if(cc){ abrirContrato(cc.dataset.num); return; }
   const card=e.target.closest('.card'); if(card){ abrirProcesso(card.dataset.num); return; }
   const chip=e.target.closest('.chip'); if(chip){
