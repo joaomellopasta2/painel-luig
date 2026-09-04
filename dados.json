@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-03T21:59-03:00",
- "gerado_em_label": "03/09/2026 21:59",
+ "gerado_em": "2026-09-04T00:05-03:00",
+ "gerado_em_label": "04/09/2026 00:05",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -9,11 +9,919 @@
   "Petróleo Brasileiro",
   "Transpetro"
  ],
- "total": 332,
- "novidades_qtd": 0,
- "rodada_anterior": "2026-09-03T17:42-03:00",
+ "total": 339,
+ "novidades_qtd": 9,
+ "rodada_anterior": "2026-09-03T12:04-03:00",
  "primeira_rodada": false,
  "processos": [
+  {
+   "num": "8030561-45.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "THAIS LUCOUVICZ DADA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-05-05",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 122,
+   "qtd_coms": 3,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090319293231600000163375319",
+   "coms": [
+    {
+     "id": 601119782,
+     "data": "2026-05-05",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26050414314162900000153742182",
+     "novo": false
+    },
+    {
+     "id": 718598605,
+     "data": "2026-09-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317482684100000163365435",
+     "novo": true
+    },
+    {
+     "id": 718746541,
+     "data": "2026-09-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090319293231600000163375319",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    718598605,
+    718746541
+   ],
+   "novo": true,
+   "novos_qtd": 2
+  },
+  {
+   "num": "8040598-34.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "MARIA VASCONCELOS HANIYA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-06-04",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 92,
+   "qtd_coms": 3,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317524403900000163366317",
+   "coms": [
+    {
+     "id": 631189434,
+     "data": "2026-06-04",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060217282809400000156176814",
+     "novo": false
+    },
+    {
+     "id": 661766129,
+     "data": "2026-07-07",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070619511351400000158295387",
+     "novo": false
+    },
+    {
+     "id": 718605371,
+     "data": "2026-09-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317524403900000163366317",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    718605371
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8147499-62.2022.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "APELAçãO CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "LORENZO DE LIMA AUGELLO",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "Perda",
+   "sinal": "apelação do cliente desprovida",
+   "resultado_evid": "Ante o exposto, com fundamento no art. 932, IV, \"b\", do CPC, CONHEÇO e NEGO PROVIMENTO ao recurso de apelação interposto por LORENZO DE LIMA AUGELLO, mantendo-se a sentença de improcedência em seus termos, com o esclarecimento de que a extinção se dá com resolução do mérito, nos",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2024-10-24",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 680,
+   "qtd_coms": 10,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090319445204700000163375925",
+   "coms": [
+    {
+     "id": 179295573,
+     "data": "2024-10-24",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 339480118,
+     "data": "2025-07-31",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25073015574903600000490167717",
+     "novo": false
+    },
+    {
+     "id": 513652753,
+     "data": "2026-01-28",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26012707520242400000146717417",
+     "novo": false
+    },
+    {
+     "id": 549182846,
+     "data": "2026-03-05",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26030409490476700000148923086",
+     "novo": false
+    },
+    {
+     "id": 563339405,
+     "data": "2026-03-19",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031817053713600000150270068",
+     "novo": false
+    },
+    {
+     "id": 595503298,
+     "data": "2026-04-28",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26042712270929800000153194821",
+     "novo": false
+    },
+    {
+     "id": 628779489,
+     "data": "2026-06-03",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060209062224700000156067643",
+     "novo": false
+    },
+    {
+     "id": 662215405,
+     "data": "2026-07-08",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070711214405400000158357144",
+     "novo": false
+    },
+    {
+     "id": 718635143,
+     "data": "2026-09-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090318083025100000163368604",
+     "novo": true
+    },
+    {
+     "id": 718765747,
+     "data": "2026-09-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090319445204700000163375925",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    718635143,
+    718765747
+   ],
+   "novo": true,
+   "novos_qtd": 2
+  },
+  {
+   "num": "8067233-52.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "MARCOS RODRIGO SOUZA SANTOS",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-04",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090217554132300000163176990",
+   "coms": [
+    {
+     "id": 717691503,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090217554132300000163176990",
+     "novo": false
+    }
+   ],
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8067199-77.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "BRENO COSTA DE JESUS",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-04",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090217554060100000163172479",
+   "coms": [
+    {
+     "id": 717691519,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090217554060100000163172479",
+     "novo": false
+    }
+   ],
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8066920-91.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "NATANAEL PAULO FIGUEIREDO SANTANA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-03",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 1,
+   "qtd_coms": 2,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090310381033400000163300116",
+   "coms": [
+    {
+     "id": 717226852,
+     "data": "2026-09-03",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090216155507200000163176726",
+     "novo": false
+    },
+    {
+     "id": 717811459,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090310381033400000163300116",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    717811459
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8023913-49.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "CASSIO DA SILVA PACHECO",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-04-09",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 148,
+   "qtd_coms": 6,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090212293483100000160540665",
+   "coms": [
+    {
+     "id": 580628944,
+     "data": "2026-04-09",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040812035081700000151846886",
+     "novo": false
+    },
+    {
+     "id": 585985143,
+     "data": "2026-04-15",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26041416435633800000152340818",
+     "novo": false
+    },
+    {
+     "id": 637136219,
+     "data": "2026-06-11",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061019184903400000156631817",
+     "novo": false
+    },
+    {
+     "id": 669371030,
+     "data": "2026-07-16",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26071407454404100000155649237",
+     "novo": false
+    },
+    {
+     "id": 687345015,
+     "data": "2026-08-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080317592892900000160901812",
+     "novo": false
+    },
+    {
+     "id": 717841230,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090212293483100000160540665",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    717841230
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8076196-20.2024.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "BRUNO ALBERTO SILVA DOS REIS",
+   "polo": "Petrobras/Transpetro no polo ativo",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2024-12-24",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 619,
+   "qtd_coms": 10,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090215404253100000163132639",
+   "coms": [
+    {
+     "id": 209728807,
+     "data": "2024-12-24",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 209730610,
+     "data": "2024-12-24",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 442948864,
+     "data": "2025-10-23",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101418070202000000139279911",
+     "novo": false
+    },
+    {
+     "id": 442949503,
+     "data": "2025-10-23",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101418070202000000139279911",
+     "novo": false
+    },
+    {
+     "id": 450918919,
+     "data": "2025-11-03",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25103113425526400000142584219",
+     "novo": false
+    },
+    {
+     "id": 450918931,
+     "data": "2025-11-03",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25103113441857200000142584225",
+     "novo": false
+    },
+    {
+     "id": 557899526,
+     "data": "2026-03-13",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031215303606100000149769058",
+     "novo": false
+    },
+    {
+     "id": 585514909,
+     "data": "2026-04-15",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26030915434007200000149428021",
+     "novo": false
+    },
+    {
+     "id": 612158762,
+     "data": "2026-05-18",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26051508352235200000154686888",
+     "novo": false
+    },
+    {
+     "id": 717924644,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090215404253100000163132639",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    717924644
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8065253-70.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "ANDRE COUTINHO LIMA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-04",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 0,
+   "qtd_coms": 4,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317251693100000163362160",
+   "coms": [
+    {
+     "id": 718018217,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090309553670000000163283369",
+     "novo": false
+    },
+    {
+     "id": 718554436,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317251693100000163362160",
+     "novo": false
+    },
+    {
+     "id": 718556496,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317251693100000163362160",
+     "novo": false
+    },
+    {
+     "id": 718557183,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317251693100000163362160",
+     "novo": false
+    }
+   ],
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8150155-84.2025.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "APELAçãO CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "TADEU PABIS JUNIOR",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "Perda",
+   "sinal": "apelação do cliente desprovida",
+   "resultado_evid": "ACORDAM os magistrados integrantes da Terceira Câmara Cível do Tribunal de Justiça do Estado da Bahia, em CONHECER E NEGAR PROVIMENTO ao Recurso interposto, nos termos do voto da relatora. Sala das Sessões, de de 2026. Presidente Desa. Joanice Maria Guimarães de Jesus Relatora Pr",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2025-09-22",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 347,
+   "qtd_coms": 6,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090311431372700000161373159",
+   "coms": [
+    {
+     "id": 407286964,
+     "data": "2025-09-22",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25091910495429200000497507821",
+     "novo": false
+    },
+    {
+     "id": 581998672,
+     "data": "2026-04-10",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040918044157600000152032546",
+     "novo": false
+    },
+    {
+     "id": 609049225,
+     "data": "2026-05-13",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26050822020715000000149634447",
+     "novo": false
+    },
+    {
+     "id": 618449757,
+     "data": "2026-05-22",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26052119154859900000155249061",
+     "novo": false
+    },
+    {
+     "id": 697356454,
+     "data": "2026-08-14",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26081318084815400000161583182",
+     "novo": false
+    },
+    {
+     "id": 718256260,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090311431372700000161373159",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    718256260
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8067230-97.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "LUCAS LIMA DA SILVA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-04",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090315480520100000163277373",
+   "coms": [
+    {
+     "id": 718511575,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090315480520100000163277373",
+     "novo": false
+    }
+   ],
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8066759-81.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "RAMON GUERRA RIBEIRO FURTADO",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": true,
+   "posse_tipo": "vigente (liminar/tutela)",
+   "posse_evid": "artigo 300 do Código de Processo Civil, DEFIRO A ANTECIPAÇÃO DA TUTELA RECURSAL para conceder a medida de urgência e ordenar à agravada, PETRÓLEO BRASILEIRO S.A. - PETROBRAS, que adote as providências para a convocação, nomeação e posse provisória de RAMON GUERRA RIBEIRO FURT",
+   "preterição": true,
+   "data_inicio": "2026-09-04",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090218134907600000163140719",
+   "coms": [
+    {
+     "id": 718701011,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090218134907600000163140719",
+     "novo": false
+    }
+   ],
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8187316-94.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "CAMILA NUNES DOS SANTOS",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-04",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090316213512800000549835863",
+   "coms": [
+    {
+     "id": 718710073,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090316213512800000549835863",
+     "novo": false
+    }
+   ],
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8041237-49.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "AUTOR",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-03-11",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 177,
+   "qtd_coms": 2,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090316030269100000549820645",
+   "coms": [
+    {
+     "id": 555093316,
+     "data": "2026-03-11",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031010475757300000522037224",
+     "novo": false
+    },
+    {
+     "id": 718710093,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090316030269100000549820645",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    718710093
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8067667-41.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "DOACYR DOS SANTOS PINHEIRO",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-04",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090315540222600000163341354",
+   "coms": [
+    {
+     "id": 718715796,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090315540222600000163341354",
+     "novo": false
+    }
+   ],
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "0858179-12.2025.8.19.0001",
+   "trib": "TJRJ",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "VICTOR REZENDE VINTURINI",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2025-05-23",
+   "ultima_data": "2026-09-04",
+   "duracao_dias": 469,
+   "qtd_coms": 3,
+   "link": "https://eproc1g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=08581791220258190001&idDocumento=191788440420426180752729145568&hash=9eec800844c3924f576e9eef9a87ee544944a3e3ac117acb3be369f31b1c1305",
+   "coms": [
+    {
+     "id": 277337571,
+     "data": "2025-05-23",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=25052213251813800000184760978",
+     "novo": false
+    },
+    {
+     "id": 433461595,
+     "data": "2025-10-13",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=25092922420401200000218431902",
+     "novo": false
+    },
+    {
+     "id": 718066393,
+     "data": "2026-09-04",
+     "tipo": "Intimação",
+     "doc": "DESPACHO/DECISÃO",
+     "link": "https://eproc1g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=08581791220258190001&idDocumento=191788440420426180752729145568&hash=9eec800844c3924f576e9eef9a87ee544944a3e3ac117acb3be369f31b1c1305",
+     "novo": true
+    }
+   ],
+   "novos_ids": [
+    718066393
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
   {
    "num": "8103048-10.2026.8.05.0001",
    "trib": "TJBA",
@@ -279,42 +1187,6 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090215264186200000549551613",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8066920-91.2026.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "AGRAVO DE INSTRUMENTO",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "NATANAEL PAULO FIGUEIREDO SANTANA",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2026-09-03",
-   "ultima_data": "2026-09-03",
-   "duracao_dias": 0,
-   "qtd_coms": 1,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090216155507200000163176726",
-   "coms": [
-    {
-     "id": 717226852,
-     "data": "2026-09-03",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090216155507200000163176726",
      "novo": false
     }
    ],
@@ -3543,74 +4415,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "8150155-84.2025.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "TADEU PABIS JUNIOR",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": true,
-   "resultado": "Perda",
-   "sinal": "apelação do cliente desprovida",
-   "resultado_evid": "ACORDAM os magistrados integrantes da Terceira Câmara Cível do Tribunal de Justiça do Estado da Bahia, em CONHECER E NEGAR PROVIMENTO ao Recurso interposto, nos termos do voto da relatora. Sala das Sessões, de de 2026. Presidente Desa. Joanice Maria Guimarães de Jesus Relatora Pr",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2025-09-22",
-   "ultima_data": "2026-08-14",
-   "duracao_dias": 326,
-   "qtd_coms": 5,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26081318084815400000161583182",
-   "coms": [
-    {
-     "id": 407286964,
-     "data": "2025-09-22",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25091910495429200000497507821",
-     "novo": false
-    },
-    {
-     "id": 581998672,
-     "data": "2026-04-10",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040918044157600000152032546",
-     "novo": false
-    },
-    {
-     "id": 609049225,
-     "data": "2026-05-13",
-     "tipo": "Intimação",
-     "doc": "Ementa",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26050822020715000000149634447",
-     "novo": false
-    },
-    {
-     "id": 618449757,
-     "data": "2026-05-22",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26052119154859900000155249061",
-     "novo": false
-    },
-    {
-     "id": 697356454,
-     "data": "2026-08-14",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26081318084815400000161583182",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "8051924-88.2026.8.05.0000",
    "trib": "TJBA",
    "instancia": "2º grau (Tribunal)",
@@ -4827,74 +5631,6 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080408373916300000160919454",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8023913-49.2026.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "AGRAVO DE INSTRUMENTO",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "CASSIO DA SILVA PACHECO",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2026-04-09",
-   "ultima_data": "2026-08-04",
-   "duracao_dias": 117,
-   "qtd_coms": 5,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080317592892900000160901812",
-   "coms": [
-    {
-     "id": 580628944,
-     "data": "2026-04-09",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040812035081700000151846886",
-     "novo": false
-    },
-    {
-     "id": 585985143,
-     "data": "2026-04-15",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26041416435633800000152340818",
-     "novo": false
-    },
-    {
-     "id": 637136219,
-     "data": "2026-06-11",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061019184903400000156631817",
-     "novo": false
-    },
-    {
-     "id": 669371030,
-     "data": "2026-07-16",
-     "tipo": "Intimação",
-     "doc": "Ementa",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26071407454404100000155649237",
-     "novo": false
-    },
-    {
-     "id": 687345015,
-     "data": "2026-08-04",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080317592892900000160901812",
      "novo": false
     }
    ],
@@ -8943,98 +9679,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "8147499-62.2022.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "LORENZO DE LIMA AUGELLO",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "Perda",
-   "sinal": "apelação do cliente desprovida",
-   "resultado_evid": "Ante o exposto, com fundamento no art. 932, IV, \"b\", do CPC, CONHEÇO e NEGO PROVIMENTO ao recurso de apelação interposto por LORENZO DE LIMA AUGELLO, mantendo-se a sentença de improcedência em seus termos, com o esclarecimento de que a extinção se dá com resolução do mérito, nos",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2024-10-24",
-   "ultima_data": "2026-07-08",
-   "duracao_dias": 622,
-   "qtd_coms": 8,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070711214405400000158357144",
-   "coms": [
-    {
-     "id": 179295573,
-     "data": "2024-10-24",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 339480118,
-     "data": "2025-07-31",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25073015574903600000490167717",
-     "novo": false
-    },
-    {
-     "id": 513652753,
-     "data": "2026-01-28",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26012707520242400000146717417",
-     "novo": false
-    },
-    {
-     "id": 549182846,
-     "data": "2026-03-05",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26030409490476700000148923086",
-     "novo": false
-    },
-    {
-     "id": 563339405,
-     "data": "2026-03-19",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031817053713600000150270068",
-     "novo": false
-    },
-    {
-     "id": 595503298,
-     "data": "2026-04-28",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26042712270929800000153194821",
-     "novo": false
-    },
-    {
-     "id": 628779489,
-     "data": "2026-06-03",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060209062224700000156067643",
-     "novo": false
-    },
-    {
-     "id": 662215405,
-     "data": "2026-07-08",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070711214405400000158357144",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "8060477-24.2026.8.05.0001",
    "trib": "TJBA",
    "instancia": "1º grau",
@@ -9123,50 +9767,6 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070610351875900000158196154",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8040598-34.2026.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "AGRAVO DE INSTRUMENTO",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "MARIA VASCONCELOS HANIYA",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2026-06-04",
-   "ultima_data": "2026-07-07",
-   "duracao_dias": 33,
-   "qtd_coms": 2,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070619511351400000158295387",
-   "coms": [
-    {
-     "id": 631189434,
-     "data": "2026-06-04",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060217282809400000156176814",
-     "novo": false
-    },
-    {
-     "id": 661766129,
-     "data": "2026-07-07",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070619511351400000158295387",
      "novo": false
     }
    ],
@@ -11591,106 +12191,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "8076196-20.2024.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "AGRAVO DE INSTRUMENTO",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "BRUNO ALBERTO SILVA DOS REIS",
-   "polo": "Petrobras/Transpetro no polo ativo",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2024-12-24",
-   "ultima_data": "2026-05-18",
-   "duracao_dias": 510,
-   "qtd_coms": 9,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26051508352235200000154686888",
-   "coms": [
-    {
-     "id": 209728807,
-     "data": "2024-12-24",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 209730610,
-     "data": "2024-12-24",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 442948864,
-     "data": "2025-10-23",
-     "tipo": "Intimação",
-     "doc": "Ementa",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101418070202000000139279911",
-     "novo": false
-    },
-    {
-     "id": 442949503,
-     "data": "2025-10-23",
-     "tipo": "Intimação",
-     "doc": "Ementa",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101418070202000000139279911",
-     "novo": false
-    },
-    {
-     "id": 450918919,
-     "data": "2025-11-03",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25103113425526400000142584219",
-     "novo": false
-    },
-    {
-     "id": 450918931,
-     "data": "2025-11-03",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25103113441857200000142584225",
-     "novo": false
-    },
-    {
-     "id": 557899526,
-     "data": "2026-03-13",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031215303606100000149769058",
-     "novo": false
-    },
-    {
-     "id": 585514909,
-     "data": "2026-04-15",
-     "tipo": "Intimação",
-     "doc": "Ementa",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26030915434007200000149428021",
-     "novo": false
-    },
-    {
-     "id": 612158762,
-     "data": "2026-05-18",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26051508352235200000154686888",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "8039262-29.2025.8.05.0000",
    "trib": "TJBA",
    "instancia": "2º grau (Tribunal)",
@@ -12295,42 +12795,6 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26050411002320200000153726010",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8030561-45.2026.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "AGRAVO DE INSTRUMENTO",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "THAIS LUCOUVICZ DADA",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2026-05-05",
-   "ultima_data": "2026-05-05",
-   "duracao_dias": 0,
-   "qtd_coms": 1,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26050414314162900000153742182",
-   "coms": [
-    {
-     "id": 601119782,
-     "data": "2026-05-05",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26050414314162900000153742182",
      "novo": false
     }
    ],
@@ -13451,42 +13915,6 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031214072758700000520176855",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8041237-49.2026.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "1º grau",
-   "classe": "PROCEDIMENTO COMUM CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "AUTOR",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2026-03-11",
-   "ultima_data": "2026-03-11",
-   "duracao_dias": 0,
-   "qtd_coms": 1,
-   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031010475757300000522037224",
-   "coms": [
-    {
-     "id": 555093316,
-     "data": "2026-03-11",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031010475757300000522037224",
      "novo": false
     }
    ],
@@ -15755,50 +16183,6 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101509483879300000139520002",
-     "novo": false
-    }
-   ],
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "0858179-12.2025.8.19.0001",
-   "trib": "TJRJ",
-   "instancia": "1º grau",
-   "classe": "PROCEDIMENTO COMUM CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "VICTOR REZENDE VINTURINI",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2025-05-23",
-   "ultima_data": "2025-10-13",
-   "duracao_dias": 143,
-   "qtd_coms": 2,
-   "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=25092922420401200000218431902",
-   "coms": [
-    {
-     "id": 277337571,
-     "data": "2025-05-23",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=25052213251813800000184760978",
-     "novo": false
-    },
-    {
-     "id": 433461595,
-     "data": "2025-10-13",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=25092922420401200000218431902",
      "novo": false
     }
    ],
