@@ -346,9 +346,9 @@ carregar();
   function mostrar(){ pop.hidden = false; }
   function fechar(){ pop.hidden = true; }
 
-  // Agenda: entrada (~1,2s), 2min, 5min, 10min — depois não aparece mais.
+  // Agenda: 10s após entrar, 2min, 5min, 10min — depois não aparece mais.
   // Ao recarregar/reentrar no site, a contagem recomeça (timers são criados a cada load).
-  const AGENDA = [1200, 2*60*1000, 5*60*1000, 10*60*1000];
+  const AGENDA = [10*1000, 2*60*1000, 5*60*1000, 10*60*1000];
   AGENDA.forEach(ms => timers.push(setTimeout(mostrar, ms)));
 
   // Fechar
