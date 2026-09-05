@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-04T12:54-03:00",
- "gerado_em_label": "04/09/2026 12:54",
+ "gerado_em": "2026-09-05T12:03-03:00",
+ "gerado_em_label": "05/09/2026 12:03",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -11,7 +11,7 @@
  ],
  "total": 890,
  "novidades_qtd": 0,
- "rodada_anterior": "2026-09-04T05:42-03:00",
+ "rodada_anterior": "2026-09-04T12:54-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -65967,6 +65967,276 @@
    "novos_qtd": 0
   },
   {
+   "num": "8043934-22.2021.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "Agravo de Instrumento",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "André Barbosa Gonçalves",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2022-10-04",
+   "ultima_data": "2023-03-21",
+   "duracao_dias": 168,
+   "qtd_coms": 30,
+   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+   "coms": [
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-04-238",
+     "data": "2022-10-04",
+     "tipo": "Provimento em Parte",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-05-238",
+     "data": "2022-10-05",
+     "tipo": "Provimento em Parte",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-05-1061",
+     "data": "2022-10-05",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-07-581",
+     "data": "2022-10-07",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-07-1061",
+     "data": "2022-10-07",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-07-92",
+     "data": "2022-10-07",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-18-60",
+     "data": "2022-10-18",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-02-1051",
+     "data": "2022-11-02",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-02-1051",
+     "data": "2022-11-02",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-10-1051",
+     "data": "2022-11-10",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-10-1051",
+     "data": "2022-11-10",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-18-581",
+     "data": "2022-11-18",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-18-581",
+     "data": "2022-11-18",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-30-246",
+     "data": "2022-11-30",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-30-22",
+     "data": "2022-11-30",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-03-60",
+     "data": "2023-01-03",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-03-51",
+     "data": "2023-01-03",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-09-1061",
+     "data": "2023-01-09",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-09-11010",
+     "data": "2023-01-09",
+     "tipo": "Mero expediente",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-10-581",
+     "data": "2023-01-10",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-11-1061",
+     "data": "2023-01-11",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-11-92",
+     "data": "2023-01-11",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-24-60",
+     "data": "2023-01-24",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-02-14-1051",
+     "data": "2023-02-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-02-14-1051",
+     "data": "2023-02-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-02-14-1051",
+     "data": "2023-02-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-02-14-1051",
+     "data": "2023-02-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-03-20-581",
+     "data": "2023-03-20",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-03-21-246",
+     "data": "2023-03-21",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-03-21-22",
+     "data": "2023-03-21",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    }
+   ],
+   "fonte": "TJBA + DataJud",
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
    "num": "8068665-45.2022.8.05.0001",
    "trib": "TJBA",
    "instancia": "1º grau",
@@ -66042,6 +66312,276 @@
      "tipo": "Definitivo",
      "doc": "",
      "link": "https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam",
+     "novo": false
+    }
+   ],
+   "fonte": "TJBA + DataJud",
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8009496-33.2022.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "Agravo de Instrumento",
+   "objeto": "Plano de saúde (AMS)",
+   "cliente": "Thassiana Batista da Costa",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2022-03-21",
+   "ultima_data": "2022-10-31",
+   "duracao_dias": 224,
+   "qtd_coms": 30,
+   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+   "coms": [
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-03-21-1061",
+     "data": "2022-03-21",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-03-22-581",
+     "data": "2022-03-22",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-03-22-581",
+     "data": "2022-03-22",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-03-23-92",
+     "data": "2022-03-23",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-03-23-1061",
+     "data": "2022-03-23",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-03-24-60",
+     "data": "2022-03-24",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-04-01-60",
+     "data": "2022-04-01",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-04-07-85",
+     "data": "2022-04-07",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-04-07-51",
+     "data": "2022-04-07",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-04-14-1051",
+     "data": "2022-04-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-04-28-1051",
+     "data": "2022-04-28",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-08-18-11010",
+     "data": "2022-08-18",
+     "tipo": "Mero expediente",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-08-18-417",
+     "data": "2022-08-18",
+     "tipo": "Inclusão em pauta",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-08-30-12200",
+     "data": "2022-08-30",
+     "tipo": "Mérito",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-08-31-239",
+     "data": "2022-08-31",
+     "tipo": "Não-Provimento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-08-31-1061",
+     "data": "2022-08-31",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-09-01-1061",
+     "data": "2022-09-01",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-09-01-92",
+     "data": "2022-09-01",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-09-27-1051",
+     "data": "2022-09-27",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-09-27-1051",
+     "data": "2022-09-27",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-09-29-60",
+     "data": "2022-09-29",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-09-29-581",
+     "data": "2022-09-29",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-09-29-12291",
+     "data": "2022-09-29",
+     "tipo": "Movimentação processual",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-09-29-12270",
+     "data": "2022-09-29",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-10-01-1061",
+     "data": "2022-10-01",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-10-01-92",
+     "data": "2022-10-01",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-10-26-1051",
+     "data": "2022-10-26",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-10-31-581",
+     "data": "2022-10-31",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-10-31-246",
+     "data": "2022-10-31",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8009496-33.2022.8.05.0000-2022-10-31-22",
+     "data": "2022-10-31",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
      "novo": false
     }
    ],
@@ -66586,64 +67126,6 @@
     }
    ],
    "fonte": "TJBA + DataJud",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8043934-22.2021.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "Recurso · 2º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "André Barbosa Gonçalves",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8009496-33.2022.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "Recurso · 2º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "Thassiana Batista da Costa",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/08/Pauta-do-dia-30-08-2022.pdf",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
    "novos_ids": [],
