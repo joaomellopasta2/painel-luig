@@ -7,6 +7,8 @@ let CONTRATOS = null, provEnfase = 'todas', provPolo = 'todos';
 const PAG = 50;
 let _resProc = [], _shownProc = 0;
 let _resCont = [], _shownCont = 0;
+let LISTAS = null, listaEnf = '', listaPolo = '';
+let _resCand = [], _shownCand = 0;
 
 const $ = s => document.querySelector(s);
 const $$ = s => Array.from(document.querySelectorAll(s));
@@ -293,6 +295,120 @@ function abrirContrato(num){
   const m=$('#modal'); m.hidden=false; document.body.style.overflow='hidden';
 }
 
+/* =================== LISTAS DE CONVOCAÇÃO =================== */
+function normaliza(s){ return (s==null?'':String(s)).normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim(); }
+async function carregarListas(){
+  if(LISTAS){ renderListas(); return; }
+  try{
+    const r=await fetch('listas.json?t='+Date.now(),{cache:'default'});
+    LISTAS=await r.json();
+  }catch(err){ LISTAS={listas:{},enfases:{},total_candidatos:0}; }
+  montaSelectListas();
+  renderListas();
+}
+function montaSelectListas(){
+  const se=$('#selListaEnfase'); if(!se||se.dataset.pronto) return;
+  const en=LISTAS.enfases||{};
+  const keys=Object.keys(en).sort((a,b)=>(+a)-(+b));
+  se.innerHTML='<option value="">Selecione a ênfase</option>'+
+    keys.map(k=>`<option value="${k}">${esc('Ênfase '+String(k).padStart(2,'0')+' — '+en[k])}</option>`).join('');
+  se.dataset.pronto='1';
+}
+function statusClasse(s){
+  const u=(s||'').toUpperCase();
+  if(u.indexOf('ADMITIDO')===0||u.indexOf('CONVOC')===0) return 't-ok';
+  if(u.indexOf('SUPLENTE')===0) return 't-warn';
+  if(u.indexOf('FIM DE FILA')===0) return 't-bad';
+  return 't-neutral';
+}
+function candCard(c){
+  const st=`<span class="tag ${statusClasse(c.s)}">${esc(c.s&&c.s!=='-'?c.s:'—')}</span>`;
+  const vaga=c.v==='IM'?`<span class="tag t-im">Vaga imediata</span>`:`<span class="tag t-cr">Cadastro reserva</span>`;
+  const lst=`<span class="tag t-lista">${esc(c.l)}</span>`;
+  const ctx=c._ctx?`<span class="tag t-enf">${esc(c._ctx)}</span>`:'';
+  const meta=c.f
+    ? `<b class="cand-falta">⏳ faltam ${esc(c.f)}</b> · nota ${esc(c.nt||'—')} · inscr. ${esc(c.i||'—')}`
+    : `nota ${esc(c.nt||'—')} · inscr. ${esc(c.i||'—')}`;
+  const nav = c._key ? ` data-key="${esc(c._key)}" data-o="${c.o}"` : '';
+  return `<article class="card cand${c._key?' cand-hit':''}"${nav}>
+    <div class="cand-rank"><span class="cand-o">${c.o}º</span></div>
+    <div class="cand-body">
+      <div class="cand-nome">${esc(c.n)}</div>
+      <div class="linha1">${st}${vaga}${lst}${ctx}</div>
+      <div class="cand-meta">${meta}</div>
+    </div>
+  </article>`;
+}
+function buscaListas(q){
+  const toks=normaliza(q).split(/\s+/).filter(Boolean);
+  const ni=q.trim().replace(/\D/g,''), res=[];
+  for(const [key,L] of Object.entries(LISTAS.listas||{})){
+    for(const c of L.c){
+      const nn=normaliza(c.n);
+      const okNome=toks.length>0 && toks.every(t=>nn.includes(t));
+      const okInsc=ni.length>=3 && (c.i||'').includes(ni);
+      if(okNome || okInsc){
+        res.push(Object.assign({}, c, {_key:key, _ctx:`Ênfase ${L.enfase} · ${L.polo}`}));
+        if(res.length>=400) return res;
+      }
+    }
+  }
+  return res;
+}
+function renderListas(){
+  if(!LISTAS) return;
+  const q=($('#buscaLista').value||'').trim();
+  const cont=$('#listaCandidatos'), info=$('#listasInfo'), cnt=$('#contadorListas');
+  // ---- modo BUSCA (todas as listas) ----
+  if(q.length>=2){
+    _resCand=buscaListas(q);
+    info.innerHTML=`Resultados para "<b>${esc(q)}</b>" em <b>todas</b> as listas. Toque no seu nome para abrir a lista completa na sua posição.`;
+    cnt.textContent=`${_resCand.length} encontrado(s)`;
+    cont.innerHTML='';
+    if(!_resCand.length){ cont.innerHTML=`<div class="rn-vazio">Ninguém encontrado com "${esc(q)}". Confira a grafia (tente só o primeiro nome) ou use o nº de inscrição.</div>`; return; }
+    _shownCand=0; maisCand(); return;
+  }
+  // ---- modo LISTA (seletores) ----
+  if(!listaEnf || !listaPolo){
+    info.innerHTML=`Selecione a <b>ênfase</b> e o <b>polo</b> para ver a ordem de convocação — ou <b>busque seu nome</b> no campo acima. <span class="li-fonte">Base: Rankei · atualização ${esc(LISTAS.atualizacao_rankei||'—')}${LISTAS.total_candidatos?` · ${LISTAS.total_candidatos} candidatos`:''}.</span>`;
+    cnt.textContent=''; cont.innerHTML=''; return;
+  }
+  const L=(LISTAS.listas||{})[listaEnf+'_'+listaPolo];
+  if(!L){
+    const disp=Object.values(LISTAS.listas||{}).filter(x=>String(x.enfase)===String(listaEnf)).map(x=>x.polo);
+    info.innerHTML=`Esta ênfase <b>não tem lista</b> para o polo <b>${esc(listaPolo)}</b>.${disp.length?` Disponível em: <b>${disp.join(', ')}</b>.`:''}`;
+    cnt.textContent=''; cont.innerHTML=''; return;
+  }
+  info.innerHTML=`<b>Ênfase ${L.enfase}</b> — ${esc((LISTAS.enfases||{})[L.enfase]||'')} · Polo <b>${esc(L.polo)}</b> <span class="li-fonte">Fonte: Rankei · ${esc(LISTAS.atualizacao_rankei||'')}</span>`;
+  cnt.textContent=`${L.n} candidato(s) na ordem de convocação`;
+  _resCand=L.c.map(c=>Object.assign({}, c));
+  cont.innerHTML=''; _shownCand=0; maisCand();
+}
+function maisCand(){
+  const cont=$('#listaCandidatos');
+  const b=document.getElementById('verMaisCand'); if(b) b.remove();
+  const fim=Math.min(_shownCand+PAG,_resCand.length);
+  cont.insertAdjacentHTML('beforeend',_resCand.slice(_shownCand,fim).map(candCard).join(''));
+  _shownCand=fim;
+  if(_shownCand<_resCand.length)
+    cont.insertAdjacentHTML('beforeend',`<button id="verMaisCand" class="ver-mais" type="button">Ver mais ${_resCand.length-_shownCand} candidato(s) ▾</button>`);
+}
+function irParaCandidato(key,o){
+  const L=(LISTAS.listas||{})[key]; if(!L) return;
+  listaEnf=String(L.enfase); listaPolo=L.polo;
+  const se=$('#selListaEnfase'), sp=$('#selListaPolo'), bl=$('#buscaLista');
+  if(se) se.value=listaEnf; if(sp) sp.value=listaPolo; if(bl) bl.value='';
+  renderListas();
+  const idx=_resCand.findIndex(x=>x.o===o);
+  if(idx<0) return;
+  let guard=0;
+  while(_shownCand<=idx && _shownCand<_resCand.length && guard++<100) maisCand();
+  setTimeout(()=>{
+    const alvo=$('#listaCandidatos').querySelectorAll('.cand')[idx];
+    if(alvo){ alvo.classList.add('cand-flash'); alvo.scrollIntoView({behavior:'smooth',block:'center'}); }
+  },70);
+}
+
 /* =================== MODAL =================== */
 function abrirProcesso(num){
   const p=DADOS.processos.find(x=>x.num===num); if(!p) return;
@@ -329,12 +445,15 @@ function trocarTab(tab){
   $('#tab-'+tab).classList.add('ativa');
   $$('.nav-btn').forEach(b=>b.classList.toggle('ativo',b.dataset.tab===tab));
   if(tab==='provas') carregarContratos();
+  if(tab==='listas') carregarListas();
   window.scrollTo(0,0);
 }
 document.addEventListener('click',e=>{
   const nav=e.target.closest('.nav-btn'); if(nav){ trocarTab(nav.dataset.tab); return; }
   if(e.target.id==='verMaisProc'){ maisLista(); return; }
   if(e.target.id==='verMaisCont'){ maisProvas(); return; }
+  if(e.target.id==='verMaisCand'){ maisCand(); return; }
+  const ch=e.target.closest('.cand[data-key]'); if(ch){ irParaCandidato(ch.dataset.key, +ch.dataset.o); return; }
   const cc=e.target.closest('.card-contrato'); if(cc){ abrirContrato(cc.dataset.num); return; }
   const card=e.target.closest('.card'); if(card){ abrirProcesso(card.dataset.num); return; }
   const chip=e.target.closest('.chip'); if(chip){
@@ -347,6 +466,9 @@ document.addEventListener('click',e=>{
 $('#busca').addEventListener('input',renderLista);
 $('#selEnfase').addEventListener('change',e=>{ provEnfase=e.target.value; renderProvas(); });
 $('#selPolo').addEventListener('change',e=>{ provPolo=e.target.value; renderProvas(); });
+$('#selListaEnfase').addEventListener('change',e=>{ listaEnf=e.target.value; if($('#buscaLista'))$('#buscaLista').value=''; renderListas(); });
+$('#selListaPolo').addEventListener('change',e=>{ listaPolo=e.target.value; if($('#buscaLista'))$('#buscaLista').value=''; renderListas(); });
+$('#buscaLista').addEventListener('input',renderListas);
 $('#btnAtualizar').addEventListener('click',()=>carregar(true));
 document.addEventListener('keydown',e=>{ if(e.key==='Escape') fecharModal(); });
 

@@ -69,6 +69,33 @@
     <div id="listaContratos" class="lista"></div>
   </section>
 
+  <!-- ABA LISTAS -->
+  <section id="tab-listas" class="tab">
+    <div class="provas-intro">
+      <h2>Listas de <span>convocação</span></h2>
+      <p>Ordem de convocação do <b>PSP 2023.2</b> por ênfase e polo. <b>Busque seu nome</b> para achar sua posição e quantas convocações faltam. Fonte: <a id="linkRankei" href="https://rankei.com.br/rankei/petrobras/" target="_blank" rel="noopener">Rankei</a> (listas extraoficiais) — <b>confirme sempre nas fontes oficiais</b>.</p>
+    </div>
+    <div class="busca-wrap">
+      <input id="buscaLista" class="busca" type="search" placeholder="🔎 Busque seu nome ou nº de inscrição…" autocomplete="off" inputmode="search">
+    </div>
+    <div class="provas-controls">
+      <label class="pc-field"><span>Ênfase do cargo</span>
+        <select id="selListaEnfase"><option value="">Selecione a ênfase</option></select>
+      </label>
+      <label class="pc-field"><span>Polo</span>
+        <select id="selListaPolo">
+          <option value="">Selecione o polo</option>
+          <option value="Ipojuca">Ipojuca</option>
+          <option value="Sudeste">Sudeste</option>
+          <option value="Sul">Sul</option>
+        </select>
+      </label>
+    </div>
+    <div id="listasInfo" class="provas-resumo"></div>
+    <div id="contadorListas" class="contador-lista"></div>
+    <div id="listaCandidatos" class="lista"></div>
+  </section>
+
   <!-- ABA PAINEL -->
   <section id="tab-painel" class="tab">
     <div id="tiles" class="tiles"></div>
@@ -112,6 +139,7 @@
   <button class="nav-btn ativo" data-tab="novidades"><span class="ic">🔔</span><span>Novidades</span><i id="badgeNav" class="badge" hidden></i></button>
   <button class="nav-btn" data-tab="processos"><span class="ic">📁</span><span>Processos</span></button>
   <button class="nav-btn" data-tab="provas"><span class="ic">🧾</span><span>Provas</span></button>
+  <button class="nav-btn" data-tab="listas"><span class="ic">🏅</span><span>Listas</span></button>
   <button class="nav-btn" data-tab="painel"><span class="ic">📊</span><span>Painel</span></button>
 </nav>
 
