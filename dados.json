@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-07T00:14-03:00",
- "gerado_em_label": "07/09/2026 00:14",
+ "gerado_em": "2026-09-07T12:14-03:00",
+ "gerado_em_label": "07/09/2026 12:14",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 928,
- "novidades_qtd": 7,
- "rodada_anterior": "2026-09-06T12:17-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-07T00:14-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -89,7 +89,7 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090411165464100000160842174",
-     "novo": true
+     "novo": false
     },
     {
      "id": 719640738,
@@ -97,17 +97,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090415173840400000163462783",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    719485445,
-    719640738
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8066278-21.2026.8.05.0000",
@@ -474,16 +471,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090412033534800000549877128",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    719824173
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8184573-14.2026.8.05.0001",
@@ -698,16 +693,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090415292767000000163462870",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "FABIO PERIANDRO DE ALMEIDA HIRSCH",
-   "novos_ids": [
-    719654961
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0330334-67.2016.8.05.0001",
@@ -802,16 +795,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317183305500000158767248",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LUIS FILIPE MARQUES PORTO SA PINTO",
-   "novos_ids": [
-    719594642
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0000407-89.2011.8.05.0168",
@@ -858,16 +849,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090407482474700000160779878",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "MAURICIO CORREIA SILVA",
-   "novos_ids": [
-    719711742
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8179327-08.2024.8.05.0001",
@@ -954,16 +943,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090215503785900000154837336",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "BRUNO ROGER DE FARIA RIBEIRO",
-   "novos_ids": [
-    719472363
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0558158-46.2018.8.05.0001",
@@ -1058,16 +1045,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090311315008700000160599061",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "SHEILA SILVA DIAS ALVES",
-   "novos_ids": [
-    719127816
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8030561-45.2026.8.05.0000",
