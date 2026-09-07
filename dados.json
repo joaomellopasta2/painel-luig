@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-06T12:17-03:00",
- "gerado_em_label": "06/09/2026 12:17",
+ "gerado_em": "2026-09-07T00:14-03:00",
+ "gerado_em_label": "07/09/2026 00:14",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -9,11 +9,1066 @@
   "Petróleo Brasileiro",
   "Transpetro"
  ],
- "total": 917,
- "novidades_qtd": 0,
- "rodada_anterior": "2026-09-06T00:13-03:00",
+ "total": 928,
+ "novidades_qtd": 7,
+ "rodada_anterior": "2026-09-06T12:17-03:00",
  "primeira_rodada": false,
  "processos": [
+  {
+   "num": "8067657-94.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "TAIS DE PAIVA CORREA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090410080826400000163406724",
+   "coms": [
+    {
+     "id": 719205508,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090410080826400000163406724",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8053625-84.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "JOAO VICTOR NOGUEIRA DOS SANTOS",
+   "polo": "Petrobras/Transpetro no polo ativo",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-07-24",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 45,
+   "qtd_coms": 3,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090415173840400000163462783",
+   "coms": [
+    {
+     "id": 677994601,
+     "data": "2026-07-24",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26072317214763700000159961355",
+     "novo": false
+    },
+    {
+     "id": 719485445,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090411165464100000160842174",
+     "novo": true
+    },
+    {
+     "id": 719640738,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090415173840400000163462783",
+     "novo": true
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [
+    719485445,
+    719640738
+   ],
+   "novo": true,
+   "novos_qtd": 2
+  },
+  {
+   "num": "8066278-21.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "VINICIUS MAIA DE SOUZA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": true,
+   "posse_tipo": "vigente (liminar/tutela)",
+   "posse_evid": "ipada. III- DISPOSITIVO Posto isso, DEFIRO A TUTELA RECURSAL para reformar a decisão agravada e determinar à agravada, PETRÓLEO BRASILEIRO S.A. - PETROBRAS, que adote, de imediato, todas as providências administrativas necessárias para proceder à convocação, nomeação e posse prov",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090411251527300000163318956",
+   "coms": [
+    {
+     "id": 719489355,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090411251527300000163318956",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8068186-16.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "ANA CAROLINA DE SIMONE GARCIA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090412364009200000163429341",
+   "coms": [
+    {
+     "id": 719489379,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090412364009200000163429341",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8066881-94.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "PEDIDO DE EFEITO SUSPENSIVO à APELAçãO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "LUIZ GUILHERME COELHO MESSEDER",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090409541955500000163390479",
+   "coms": [
+    {
+     "id": 719490608,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090409541955500000163390479",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8067179-86.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "RAFAELA ROCHA QUEIROZ MAGALHAES",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090411251706100000163381040",
+   "coms": [
+    {
+     "id": 719499086,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090411251706100000163381040",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8184551-53.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "LUCAS LIMA DA SILVA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090116494446600000549307560",
+   "coms": [
+    {
+     "id": 719711220,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090116494446600000549307560",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8184567-07.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "MARCOS RODRIGO SOUZA SANTOS",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090116493024800000549297222",
+   "coms": [
+    {
+     "id": 719711237,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090116493024800000549297222",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8182089-26.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "NATANAEL PAULO FIGUEIREDO SANTANA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26083121045318400000549035803",
+   "coms": [
+    {
+     "id": 719725024,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26083121045318400000549035803",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8188506-92.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "LUANA BARBARA ALVES",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090411350079000000549978151",
+   "coms": [
+    {
+     "id": 719824001,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090411350079000000549978151",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8061893-27.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "CASSIO DA SILVA PACHECO",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-04-14",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 146,
+   "qtd_coms": 5,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090412033534800000549877128",
+   "coms": [
+    {
+     "id": 584691726,
+     "data": "2026-04-14",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040711081919000000526454244",
+     "novo": false
+    },
+    {
+     "id": 584693071,
+     "data": "2026-04-14",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040711081919000000526454244",
+     "novo": false
+    },
+    {
+     "id": 665695427,
+     "data": "2026-07-13",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26071012335644700000536765452",
+     "novo": false
+    },
+    {
+     "id": 690977798,
+     "data": "2026-08-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080420415717200000544773456",
+     "novo": false
+    },
+    {
+     "id": 719824173,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090412033534800000549877128",
+     "novo": true
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [
+    719824173
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8184573-14.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "RODRIGO DE SOUZA SENA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090221042184800000549599965",
+   "coms": [
+    {
+     "id": 719839832,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090221042184800000549599965",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8184023-19.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "ALAN PEREIRA DE OLIVEIRA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090221042068700000549582144",
+   "coms": [
+    {
+     "id": 719839867,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090221042068700000549582144",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8182277-19.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "PHILLIPE BATISTA RANGEL",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090221042011300000549568526",
+   "coms": [
+    {
+     "id": 719839903,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090221042011300000549568526",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8184165-23.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "FLAVIO DA SILVA RODRIGUES",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090318114085600000549665816",
+   "coms": [
+    {
+     "id": 719841700,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090318114085600000549665816",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8035342-13.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "CAMILA CAIRES RANGEL",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2026-05-20",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 110,
+   "qtd_coms": 5,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090415292767000000163462870",
+   "coms": [
+    {
+     "id": 614877283,
+     "data": "2026-05-20",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26051908014309000000154831519",
+     "novo": false
+    },
+    {
+     "id": 622819754,
+     "data": "2026-05-28",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26052708285225300000155618569",
+     "novo": false
+    },
+    {
+     "id": 657619691,
+     "data": "2026-07-02",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070116510187000000157949861",
+     "novo": false
+    },
+    {
+     "id": 704980450,
+     "data": "2026-08-24",
+     "tipo": "Intimação",
+     "doc": "Acórdão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082018105830500000162055402",
+     "novo": false
+    },
+    {
+     "id": 719654961,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090415292767000000163462870",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "FABIO PERIANDRO DE ALMEIDA HIRSCH",
+   "novos_ids": [
+    719654961
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0330334-67.2016.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "APELAçãO CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "BRAZ BARBOSA LIMA FILHO",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "Perda",
+   "sinal": "apelação do cliente desprovida",
+   "resultado_evid": "por unanimidade, em conhecer e negar provimento ao recurso de apelação interposto, nos termos do voto do Relator. Salvador, data registrada no sistema. Presidente Des. Antonio Maron Agle Filho Relator",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2024-10-18",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 689,
+   "qtd_coms": 9,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317183305500000158767248",
+   "coms": [
+    {
+     "id": 171646370,
+     "data": "2024-10-18",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 331949263,
+     "data": "2025-07-23",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25072110331355000000488552808",
+     "novo": false
+    },
+    {
+     "id": 395871903,
+     "data": "2025-09-16",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25091211221122400000496885401",
+     "novo": false
+    },
+    {
+     "id": 503566351,
+     "data": "2026-01-16",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26011008172910600000513184317",
+     "novo": false
+    },
+    {
+     "id": 572320836,
+     "data": "2026-03-30",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26032417341384200000524487114",
+     "novo": false
+    },
+    {
+     "id": 572321735,
+     "data": "2026-03-30",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26032417341384200000524487114",
+     "novo": false
+    },
+    {
+     "id": 596303854,
+     "data": "2026-04-29",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26042810521339900000529701783",
+     "novo": false
+    },
+    {
+     "id": 691272110,
+     "data": "2026-08-07",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080617552463000000161218377",
+     "novo": false
+    },
+    {
+     "id": 719594642,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090317183305500000158767248",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "LUIS FILIPE MARQUES PORTO SA PINTO",
+   "novos_ids": [
+    719594642
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0000407-89.2011.8.05.0168",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "REMESSA NECESSáRIA CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "JUIZ DE DIREITO DA V DOS FEITOS DE REL DE CONS CIV E COMERCIA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "Perda",
+   "sinal": "apelação do cliente desprovida",
+   "resultado_evid": "à unanimidade de votos, em NEGAR PROVIMENTO à Remessa Necessária, nos termos do voto do Relator. Sala das sessões, PRESIDENTE Desembargador MANUEL CARNEIRO BAHIA DE ARAÚJO Relator PROCURADOR(A) DE JUSTIÇA",
+   "sigiloso": false,
+   "posse": true,
+   "posse_tipo": "vigente (liminar/tutela)",
+   "posse_evid": "nça que julgou procedente o pedido para confirmar a liminar e reconhecer o direito subjetivo da impetrante à nomeação e posse no cargo efetivo de Professora Nível I",
+   "preterição": true,
+   "data_inicio": "2026-06-02",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 97,
+   "qtd_coms": 3,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090407482474700000160779878",
+   "coms": [
+    {
+     "id": 628397390,
+     "data": "2026-06-02",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060109301975600000155958677",
+     "novo": false
+    },
+    {
+     "id": 687328657,
+     "data": "2026-08-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080317461539500000160899802",
+     "novo": false
+    },
+    {
+     "id": 719711742,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090407482474700000160779878",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "MAURICIO CORREIA SILVA",
+   "novos_ids": [
+    719711742
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8179327-08.2024.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "APELAçãO CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "GILDO RENE SOUSA FERREIRA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "Ganho",
+   "sinal": "apelação do cliente provida",
+   "resultado_evid": "ACORDAM os Desembargadores integrantes da Primeira Câmara Cível do Tribunal de Justiça da Bahia em CONHECER e DAR PROVIMENTO AO APELO de acordo com o voto do Relator. Sala de Sessões, (data registrada no sistema no momento da prática do ato) DES. JOÃO BOSCO DE OLIVEIRA SEIXAS REL",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2025-05-26",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 469,
+   "qtd_coms": 8,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090215503785900000154837336",
+   "coms": [
+    {
+     "id": 278679673,
+     "data": "2025-05-26",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25050715245605900000478906409",
+     "novo": false
+    },
+    {
+     "id": 287046894,
+     "data": "2025-06-03",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052317291052900000481282400",
+     "novo": false
+    },
+    {
+     "id": 458321168,
+     "data": "2025-11-11",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25103012081408900000504312134",
+     "novo": false
+    },
+    {
+     "id": 493466404,
+     "data": "2025-12-19",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121810182134400000511768759",
+     "novo": false
+    },
+    {
+     "id": 493466612,
+     "data": "2025-12-19",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121810182134400000511768759",
+     "novo": false
+    },
+    {
+     "id": 637048180,
+     "data": "2026-06-11",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061018130608200000156628095",
+     "novo": false
+    },
+    {
+     "id": 687399276,
+     "data": "2026-08-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080318284931800000160904852",
+     "novo": false
+    },
+    {
+     "id": 719472363,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090215503785900000154837336",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "BRUNO ROGER DE FARIA RIBEIRO",
+   "novos_ids": [
+    719472363
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0558158-46.2018.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "APELAçãO CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "IVETE MARIA DOS SANTOS MENEZES e outros",
+   "polo": "Petrobras/Transpetro no polo ativo",
+   "transito": true,
+   "resultado": "Ganho",
+   "sinal": "recurso da Petrobras desprovido",
+   "resultado_evid": "ACORDAM os Desembargadores integrantes da Segunda Câmara Cível do Tribunal de Justiça do Estado da Bahia, em NEGAR PROVIMENTO AO RECURSO DE APELAÇÃO, conforme o voto do Relator. Sala das Sessões. Presidente Des. Manuel Carneiro Bahia de Araújo Relator Procurador(a) de Justiça",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2024-10-07",
+   "ultima_data": "2026-09-07",
+   "duracao_dias": 700,
+   "qtd_coms": 9,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090311315008700000160599061",
+   "coms": [
+    {
+     "id": 162012535,
+     "data": "2024-10-07",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 211837146,
+     "data": "2025-01-13",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 449402885,
+     "data": "2025-10-31",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101910412050200000502718454",
+     "novo": false
+    },
+    {
+     "id": 449402970,
+     "data": "2025-10-31",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101910412050200000502718454",
+     "novo": false
+    },
+    {
+     "id": 541197998,
+     "data": "2026-02-26",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26021014510575400000517537448",
+     "novo": false
+    },
+    {
+     "id": 541198385,
+     "data": "2026-02-26",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26021014510575400000517537448",
+     "novo": false
+    },
+    {
+     "id": 577899292,
+     "data": "2026-04-07",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040616171266300000526366721",
+     "novo": false
+    },
+    {
+     "id": 687364604,
+     "data": "2026-08-04",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080318055661800000160902806",
+     "novo": false
+    },
+    {
+     "id": 719127816,
+     "data": "2026-09-07",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090311315008700000160599061",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "SHEILA SILVA DIAS ALVES",
+   "novos_ids": [
+    719127816
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
   {
    "num": "8030561-45.2026.8.05.0000",
    "trib": "TJBA",
@@ -19775,68 +20830,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "8035342-13.2026.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "AGRAVO DE INSTRUMENTO",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "CAMILA CAIRES RANGEL",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2026-05-20",
-   "ultima_data": "2026-08-24",
-   "duracao_dias": 96,
-   "qtd_coms": 4,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082018105830500000162055402",
-   "coms": [
-    {
-     "id": 614877283,
-     "data": "2026-05-20",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26051908014309000000154831519",
-     "novo": false
-    },
-    {
-     "id": 622819754,
-     "data": "2026-05-28",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26052708285225300000155618569",
-     "novo": false
-    },
-    {
-     "id": 657619691,
-     "data": "2026-07-02",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070116510187000000157949861",
-     "novo": false
-    },
-    {
-     "id": 704980450,
-     "data": "2026-08-24",
-     "tipo": "Intimação",
-     "doc": "Acórdão",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082018105830500000162055402",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "EDNARIA ANDRADE PEREIRA",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "0001335-43.2010.5.02.0254",
    "trib": "TRT2",
    "instancia": "1º grau",
@@ -30345,68 +31338,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "8061893-27.2026.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "1º grau",
-   "classe": "PROCEDIMENTO COMUM CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "CASSIO DA SILVA PACHECO",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2026-04-14",
-   "ultima_data": "2026-08-07",
-   "duracao_dias": 115,
-   "qtd_coms": 4,
-   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080420415717200000544773456",
-   "coms": [
-    {
-     "id": 584691726,
-     "data": "2026-04-14",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040711081919000000526454244",
-     "novo": false
-    },
-    {
-     "id": 584693071,
-     "data": "2026-04-14",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040711081919000000526454244",
-     "novo": false
-    },
-    {
-     "id": 665695427,
-     "data": "2026-07-13",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26071012335644700000536765452",
-     "novo": false
-    },
-    {
-     "id": 690977798,
-     "data": "2026-08-07",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080420415717200000544773456",
-     "novo": false
-    }
-   ],
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "0110829-74.2022.8.19.0001",
    "trib": "TJRJ",
    "instancia": "1º grau",
@@ -30804,100 +31735,6 @@
    ],
    "de_terceiros": true,
    "advogado": "ÉSIO COSTA JÚNIOR",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "0330334-67.2016.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "—",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": true,
-   "resultado": "Perda",
-   "sinal": "sentença improcedente",
-   "resultado_evid": "Ante o exposto, e por tudo mais que dos autos consta, JULGO IMPROCEDENTES os pedidos formulados na petição inicial, extinguindo o processo com resolução de mérito, com fulcro no artigo 487, inciso I, do Código de Processo Civil. Condeno a parte autora ao pagamento das custas proc",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2024-10-18",
-   "ultima_data": "2026-08-07",
-   "duracao_dias": 658,
-   "qtd_coms": 8,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080617552463000000161218377",
-   "coms": [
-    {
-     "id": 171646370,
-     "data": "2024-10-18",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 331949263,
-     "data": "2025-07-23",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25072110331355000000488552808",
-     "novo": false
-    },
-    {
-     "id": 395871903,
-     "data": "2025-09-16",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25091211221122400000496885401",
-     "novo": false
-    },
-    {
-     "id": 503566351,
-     "data": "2026-01-16",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26011008172910600000513184317",
-     "novo": false
-    },
-    {
-     "id": 572320836,
-     "data": "2026-03-30",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26032417341384200000524487114",
-     "novo": false
-    },
-    {
-     "id": 572321735,
-     "data": "2026-03-30",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26032417341384200000524487114",
-     "novo": false
-    },
-    {
-     "id": 596303854,
-     "data": "2026-04-29",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26042810521339900000529701783",
-     "novo": false
-    },
-    {
-     "id": 691272110,
-     "data": "2026-08-07",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080617552463000000161218377",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "LUIS FILIPE MARQUES PORTO SA PINTO",
    "novos_ids": [],
    "novo": false,
    "novos_qtd": 0
@@ -33941,52 +34778,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "0000407-89.2011.8.05.0168",
-   "trib": "TJBA",
-   "instancia": "1º grau",
-   "classe": "REMESSA NECESSáRIA CíVEL",
-   "objeto": "Previdência (Petros)",
-   "cliente": "JUIZ DE DIREITO DA V DOS FEITOS DE REL DE CONS CIV E COMERCIA",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2026-06-02",
-   "ultima_data": "2026-08-04",
-   "duracao_dias": 63,
-   "qtd_coms": 2,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080317461539500000160899802",
-   "coms": [
-    {
-     "id": 628397390,
-     "data": "2026-06-02",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060109301975600000155958677",
-     "novo": false
-    },
-    {
-     "id": 687328657,
-     "data": "2026-08-04",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080317461539500000160899802",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "MAURICIO CORREIA SILVA",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "8001092-17.2026.8.05.9000",
    "trib": "TJBA",
    "instancia": "2º grau (Tribunal)",
@@ -34144,186 +34935,6 @@
    ],
    "de_terceiros": true,
    "advogado": "EVERTON LEANDRO LOPES EVANGELISTA",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8179327-08.2024.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "GILDO RENE SOUSA FERREIRA",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "Extinto sem mérito",
-   "sinal": "extinto/desistência",
-   "resultado_evid": "PODER JUDICIÁRIO DO ESTADO DA BAHIA Comarca de Salvador 6ª Vara da Fazenda Pública Fórum Ruy Barbosa, sala 337, praça D. Pedro II s/n, Largo do Campo da Pólvora, Nazaré - CEP: 40040-380, Salvador-BA. SENTENÇA Processo: 8179327-08.2024.8.05.0001 Classe-Assunto: PROCEDIMENTO COMUM",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2025-05-26",
-   "ultima_data": "2026-08-04",
-   "duracao_dias": 435,
-   "qtd_coms": 7,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080318284931800000160904852",
-   "coms": [
-    {
-     "id": 278679673,
-     "data": "2025-05-26",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25050715245605900000478906409",
-     "novo": false
-    },
-    {
-     "id": 287046894,
-     "data": "2025-06-03",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25052317291052900000481282400",
-     "novo": false
-    },
-    {
-     "id": 458321168,
-     "data": "2025-11-11",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25103012081408900000504312134",
-     "novo": false
-    },
-    {
-     "id": 493466404,
-     "data": "2025-12-19",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121810182134400000511768759",
-     "novo": false
-    },
-    {
-     "id": 493466612,
-     "data": "2025-12-19",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121810182134400000511768759",
-     "novo": false
-    },
-    {
-     "id": 637048180,
-     "data": "2026-06-11",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061018130608200000156628095",
-     "novo": false
-    },
-    {
-     "id": 687399276,
-     "data": "2026-08-04",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080318284931800000160904852",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "BRUNO ROGER DE FARIA RIBEIRO",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "0558158-46.2018.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "IVETE MARIA DOS SANTOS MENEZES e outros",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": true,
-   "resultado": "Extinto sem mérito",
-   "sinal": "extinto/desistência",
-   "resultado_evid": "dispositivo e declarar que a extinção do processo sem resolução do mérito, com fundamento no art. 485, VI, do CPC, se dá em relação à PRIMEIRA RÉ, PETRÓLEO BRASILEIRO S/A - PETROBRAS, permanecendo hígida a condenação de mérito imposta à SEGUNDA RÉ, FUNDAÇÃO PETROBRAS DE SEGURIDAD",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2024-10-07",
-   "ultima_data": "2026-08-04",
-   "duracao_dias": 666,
-   "qtd_coms": 8,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080318055661800000160902806",
-   "coms": [
-    {
-     "id": 162012535,
-     "data": "2024-10-07",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 211837146,
-     "data": "2025-01-13",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 449402885,
-     "data": "2025-10-31",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101910412050200000502718454",
-     "novo": false
-    },
-    {
-     "id": 449402970,
-     "data": "2025-10-31",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25101910412050200000502718454",
-     "novo": false
-    },
-    {
-     "id": 541197998,
-     "data": "2026-02-26",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26021014510575400000517537448",
-     "novo": false
-    },
-    {
-     "id": 541198385,
-     "data": "2026-02-26",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26021014510575400000517537448",
-     "novo": false
-    },
-    {
-     "id": 577899292,
-     "data": "2026-04-07",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26040616171266300000526366721",
-     "novo": false
-    },
-    {
-     "id": 687364604,
-     "data": "2026-08-04",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26080318055661800000160902806",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "SHEILA SILVA DIAS ALVES",
    "novos_ids": [],
    "novo": false,
    "novos_qtd": 0
@@ -39295,44 +39906,6 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26072309242413900000159779928",
-     "novo": false
-    }
-   ],
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8053625-84.2026.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "AGRAVO DE INSTRUMENTO",
-   "objeto": "Outro / procedimental",
-   "cliente": "JOAO VICTOR NOGUEIRA DOS SANTOS",
-   "polo": "Petrobras/Transpetro no polo ativo",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2026-07-24",
-   "ultima_data": "2026-07-24",
-   "duracao_dias": 0,
-   "qtd_coms": 1,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26072317214763700000159961355",
-   "coms": [
-    {
-     "id": 677994601,
-     "data": "2026-07-24",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26072317214763700000159961355",
      "novo": false
     }
    ],
@@ -77941,6 +78514,276 @@
    "novos_qtd": 0
   },
   {
+   "num": "8038318-32.2022.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "Agravo de Instrumento",
+   "objeto": "Plano de saúde (AMS)",
+   "cliente": "Thaylan Vieira Cerqueira",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2022-09-15",
+   "ultima_data": "2024-10-18",
+   "duracao_dias": 764,
+   "qtd_coms": 30,
+   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+   "coms": [
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-09-15-51",
+     "data": "2022-09-15",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-09-15-60",
+     "data": "2022-09-15",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-09-15-85",
+     "data": "2022-09-15",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-09-23-11010",
+     "data": "2022-09-23",
+     "tipo": "Mero expediente",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-09-29-60",
+     "data": "2022-09-29",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-09-29-417",
+     "data": "2022-09-29",
+     "tipo": "Inclusão em pauta",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-09-30-60",
+     "data": "2022-09-30",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-10-11-85",
+     "data": "2022-10-11",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-10-11-85",
+     "data": "2022-10-11",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-10-11-12200",
+     "data": "2022-10-11",
+     "tipo": "Mérito",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-10-13-239",
+     "data": "2022-10-13",
+     "tipo": "Não-Provimento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-10-13-239",
+     "data": "2022-10-13",
+     "tipo": "Não-Provimento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-10-13-1061",
+     "data": "2022-10-13",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-10-14-92",
+     "data": "2022-10-14",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-10-14-1061",
+     "data": "2022-10-14",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-09-1051",
+     "data": "2022-11-09",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-09-1051",
+     "data": "2022-11-09",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-09-1051",
+     "data": "2022-11-09",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-09-1051",
+     "data": "2022-11-09",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-09-1051",
+     "data": "2022-11-09",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-10-60",
+     "data": "2022-11-10",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-10-581",
+     "data": "2022-11-10",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-17-1061",
+     "data": "2022-11-17",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-17-92",
+     "data": "2022-11-17",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-30-85",
+     "data": "2022-11-30",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-11-30-85",
+     "data": "2022-11-30",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-12-07-581",
+     "data": "2022-12-07",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-12-12-246",
+     "data": "2022-12-12",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2022-12-12-22",
+     "data": "2022-12-12",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    },
+    {
+     "id": "8038318-32.2022.8.05.0000-2024-10-18-1051",
+     "data": "2024-10-18",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
+     "novo": false
+    }
+   ],
+   "fonte": "TJBA + DataJud",
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
    "num": "8044151-31.2022.8.05.0000",
    "trib": "TJBA",
    "instancia": "2º grau (Tribunal)",
@@ -81909,6 +82752,546 @@
    "novos_qtd": 0
   },
   {
+   "num": "8044078-59.2022.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "Agravo de Instrumento",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "Bruno Santos Picinatti",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2022-11-17",
+   "ultima_data": "2023-06-20",
+   "duracao_dias": 215,
+   "qtd_coms": 30,
+   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+   "coms": [
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-11-17-85",
+     "data": "2022-11-17",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-11-18-51",
+     "data": "2022-11-18",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-11-25-11022",
+     "data": "2022-11-25",
+     "tipo": "Julgamento em Diligência",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-11-25-1061",
+     "data": "2022-11-25",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-12-15-60",
+     "data": "2022-12-15",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-12-15-51",
+     "data": "2022-12-15",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-12-24-1051",
+     "data": "2022-12-24",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-12-24-1051",
+     "data": "2022-12-24",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-12-26-92",
+     "data": "2022-12-26",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2022-12-26-1061",
+     "data": "2022-12-26",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-01-31-1051",
+     "data": "2023-01-31",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-01-31-1051",
+     "data": "2023-01-31",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-04-19-11010",
+     "data": "2023-04-19",
+     "tipo": "Mero expediente",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-04-25-417",
+     "data": "2023-04-25",
+     "tipo": "Inclusão em pauta",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-09-85",
+     "data": "2023-05-09",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-12-85",
+     "data": "2023-05-12",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-15-85",
+     "data": "2023-05-15",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-15-239",
+     "data": "2023-05-15",
+     "tipo": "Não-Provimento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-15-12200",
+     "data": "2023-05-15",
+     "tipo": "Mérito",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-15-239",
+     "data": "2023-05-15",
+     "tipo": "Não-Provimento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-15-1061",
+     "data": "2023-05-15",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-21-1061",
+     "data": "2023-05-21",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-05-21-1061",
+     "data": "2023-05-21",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-06-05-92",
+     "data": "2023-06-05",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-06-08-1051",
+     "data": "2023-06-08",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-06-08-1051",
+     "data": "2023-06-08",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-06-19-581",
+     "data": "2023-06-19",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-06-19-246",
+     "data": "2023-06-19",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-06-19-22",
+     "data": "2023-06-19",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    },
+    {
+     "id": "8044078-59.2022.8.05.0000-2023-06-20-581",
+     "data": "2023-06-20",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
+     "novo": false
+    }
+   ],
+   "fonte": "TJBA + DataJud",
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8043934-22.2021.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "Agravo de Instrumento",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "André Barbosa Gonçalves",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2022-10-04",
+   "ultima_data": "2023-03-21",
+   "duracao_dias": 168,
+   "qtd_coms": 30,
+   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+   "coms": [
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-04-238",
+     "data": "2022-10-04",
+     "tipo": "Provimento em Parte",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-05-238",
+     "data": "2022-10-05",
+     "tipo": "Provimento em Parte",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-05-1061",
+     "data": "2022-10-05",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-07-581",
+     "data": "2022-10-07",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-07-1061",
+     "data": "2022-10-07",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-07-92",
+     "data": "2022-10-07",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-10-18-60",
+     "data": "2022-10-18",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-02-1051",
+     "data": "2022-11-02",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-02-1051",
+     "data": "2022-11-02",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-10-1051",
+     "data": "2022-11-10",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-10-1051",
+     "data": "2022-11-10",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-18-581",
+     "data": "2022-11-18",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-18-581",
+     "data": "2022-11-18",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-30-246",
+     "data": "2022-11-30",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2022-11-30-22",
+     "data": "2022-11-30",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-03-60",
+     "data": "2023-01-03",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-03-51",
+     "data": "2023-01-03",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-09-1061",
+     "data": "2023-01-09",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-09-11010",
+     "data": "2023-01-09",
+     "tipo": "Mero expediente",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-10-581",
+     "data": "2023-01-10",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-11-1061",
+     "data": "2023-01-11",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-11-92",
+     "data": "2023-01-11",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-01-24-60",
+     "data": "2023-01-24",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-02-14-1051",
+     "data": "2023-02-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-02-14-1051",
+     "data": "2023-02-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-02-14-1051",
+     "data": "2023-02-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-02-14-1051",
+     "data": "2023-02-14",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-03-20-581",
+     "data": "2023-03-20",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-03-21-246",
+     "data": "2023-03-21",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    },
+    {
+     "id": "8043934-22.2021.8.05.0000-2023-03-21-22",
+     "data": "2023-03-21",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
+     "novo": false
+    }
+   ],
+   "fonte": "TJBA + DataJud",
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
    "num": "8068665-45.2022.8.05.0001",
    "trib": "TJBA",
    "instancia": "1º grau",
@@ -82805,64 +84188,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "8043934-22.2021.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "Recurso · 2º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "André Barbosa Gonçalves",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/10/ATA-DA-SESSAO-HIBRIDA-DE-03-10-2022-.pdf",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8044078-59.2022.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "Recurso · 2º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "Bruno Santos Picinatti",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-de-Julgamento-08.05.2023-a-15.05.2023-Plenario-Virtual.pdf",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "8065792-36.2026.8.05.0000",
    "trib": "TJBA",
    "instancia": "2º grau (Tribunal)",
@@ -82892,99 +84217,12 @@
    "novos_qtd": 0
   },
   {
-   "num": "8038318-32.2022.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "Recurso · 2º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "Thaylan Vieira Cerqueira",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2022/09/Pauta-do-dia-11-10-2022.pdf",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "8183709-73.2026.8.05.0001",
    "trib": "TJBA",
    "instancia": "1º grau",
    "classe": "Origem · 1º grau",
    "objeto": "Outro / não classificado",
    "cliente": "Caroline Nunes Cipriano",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8184567-07.2026.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "1º grau",
-   "classe": "Origem · 1º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "Marcos Rodrigo Souza Santos",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8184573-14.2026.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "1º grau",
-   "classe": "Origem · 1º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "Rodrigo de Souza Sena",
    "polo": "Cliente de Luig × Petrobras/Transpetro",
    "transito": false,
    "resultado": "",
