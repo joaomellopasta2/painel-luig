@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-08T00:13-03:00",
- "gerado_em_label": "08/09/2026 00:13",
+ "gerado_em": "2026-09-08T12:16-03:00",
+ "gerado_em_label": "08/09/2026 12:16",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 928,
- "novidades_qtd": 7,
- "rodada_anterior": "2026-09-07T12:14-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-08T00:13-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -91,16 +91,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://eproc.trf2.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=51382715520254025101&idDocumento=21788529981231782933971173018&hash=d08fa84a3487bf2d8e65c91c88a72e1f6532164cd3bb4e4aa9bcd5173c4e283e",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "FILIPE VARGAS MENDES",
-   "novos_ids": [
-    720084323
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0195437-44.2018.8.19.0001",
@@ -251,16 +249,14 @@
      "tipo": "Intimação",
      "doc": "AGRAVO EM RECURSO ESPECIAL - CÍVEL",
      "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004CE094DB179B58C76347B8B61D4CABA4CC51B214F161B",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LEONARDO DE CARVALHO BARBOZA",
-   "novos_ids": [
-    718576502
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0899253-80.2024.8.19.0001",
@@ -379,16 +375,14 @@
      "tipo": "Intimação",
      "doc": "Apelação",
      "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=000467E0FBE6B09209BBA44CE0207D6D3B63C51B21642A1B",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ANDRESSA JUSTINO GOMES GENEROSO",
-   "novos_ids": [
-    719332257
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0815872-77.2024.8.19.0001",
@@ -547,16 +541,14 @@
      "tipo": "Intimação",
      "doc": "ATA DE DISTRIBUIÇÃO",
      "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk3MzUwNDM5MjAyNjAzNDMxODk1MTc4ODUyMTQxMzQyMg==",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "RICARDO LOPES GODOY",
-   "novos_ids": [
-    719043795
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "1013631-24.2024.8.26.0011",
@@ -667,16 +659,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://www.dje.tjsp.jus.br",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "GUILHERME PEREIRA DOLABELLA BICALHO",
-   "novos_ids": [
-    719394413
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5045010-70.2024.4.02.5101",
@@ -747,16 +737,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO/DECISÃO",
      "link": "https://eproc.jfrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=50450107020244025101&idDocumento=511788562336543021554456395576&hash=0983d6e8e8c32e951e69f61498f3a91c7e84b591d60288ae23c06e00a502531a",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    720106060
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0068200-26.2010.5.17.0191",
@@ -867,7 +855,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26090416001504100000047696167?instancia=1",
-     "novo": true
+     "novo": false
     },
     {
      "id": 719773733,
@@ -875,7 +863,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26090416001504600000047696168?instancia=1",
-     "novo": true
+     "novo": false
     },
     {
      "id": 719887442,
@@ -883,7 +871,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26090416001503400000047696165?instancia=1",
-     "novo": true
+     "novo": false
     },
     {
      "id": 719888048,
@@ -891,19 +879,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26090416001503800000047696166?instancia=1",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "CARLOS ROBERTO DE SIQUEIRA CASTRO",
-   "novos_ids": [
-    719773441,
-    719773733,
-    719887442,
-    719888048
-   ],
-   "novo": true,
-   "novos_qtd": 4
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8067657-94.2026.8.05.0000",
