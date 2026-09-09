@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-09T00:15-03:00",
- "gerado_em_label": "09/09/2026 00:15",
+ "gerado_em": "2026-09-09T12:16-03:00",
+ "gerado_em_label": "09/09/2026 12:16",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 929,
- "novidades_qtd": 9,
- "rodada_anterior": "2026-09-08T12:16-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-09T00:15-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -51,16 +51,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090313113256200000549758763",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    720854891
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8184559-30.2026.8.05.0001",
@@ -99,16 +97,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090311422945900000549577841",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    720855346
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8064903-79.2026.8.05.0001",
@@ -163,16 +159,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090409051672300000549872582",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    721434881
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8184056-09.2026.8.05.0001",
@@ -625,16 +619,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://www2.tjal.jus.br/cdje",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LEONARDO MENDES CRUZ",
-   "novos_ids": [
-    721709388
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0026380-21.2022.8.25.0001",
@@ -881,7 +873,7 @@
      "tipo": "Intimação",
      "doc": "ATA DE DISTRIBUIÇÃO",
      "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk3Nzg1OTYyMjAyNTAzOTQ1MDYwMTc4ODg4NTAxNzE3Ng==",
-     "novo": true
+     "novo": false
     },
     {
      "id": 721175557,
@@ -889,17 +881,14 @@
      "tipo": "Intimação",
      "doc": "VISTA à(s) parte(s) recorrida(s) para contrarrazões de Recurso Extraordinário (RE)",
      "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk3NzA4NDAyMjAyNTAzOTQ1MDYwMTc4ODg4ODY0MDIyMQ==",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "VITOR CONDORELLI DOS SANTOS",
-   "novos_ids": [
-    721058777,
-    721175557
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0739636-20.2024.8.07.0001",
@@ -1162,16 +1151,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090516555700000000084625516",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "THIAGO HELTON MIRANDA RIBEIRO",
-   "novos_ids": [
-    721369579
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0819238-21.2018.8.20.5106",
@@ -1282,16 +1269,14 @@
      "tipo": "Intimação",
      "doc": "Intimação de pauta",
      "link": "https://pje2g.tjrn.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090815212760100000039837975",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "HUGO VICTOR GOMES VENANCIO MELO",
-   "novos_ids": [
-    721264385
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0151000-75.2005.5.05.0012",
@@ -1546,7 +1531,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26090813013304300000066711254?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 721058266,
@@ -1554,7 +1539,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26090813013368100000066711255?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 721058370,
@@ -1562,7 +1547,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26090813013428100000066711256?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 721058466,
@@ -1570,7 +1555,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26090813013483200000066711257?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 721058589,
@@ -1578,7 +1563,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26090813013540000000066711258?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 721058693,
@@ -1586,7 +1571,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26090813013599600000066711260?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 721058794,
@@ -1594,22 +1579,14 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26090813013658600000066711261?instancia=2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "AILTON DALTRO MARTINS",
-   "novos_ids": [
-    721058137,
-    721058266,
-    721058370,
-    721058466,
-    721058589,
-    721058693,
-    721058794
-   ],
-   "novo": true,
-   "novos_qtd": 7
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "1061129-75.2024.4.01.3300",
@@ -1672,7 +1649,7 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje1g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26090813060578600002200959829",
-     "novo": true
+     "novo": false
     },
     {
      "id": 721021991,
@@ -1680,17 +1657,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje1g.trf1.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26090813060578600002200959829",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    721021955,
-    721021991
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5138271-55.2025.4.02.5101",
