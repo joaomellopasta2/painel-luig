@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-10T00:19-03:00",
- "gerado_em_label": "10/09/2026 00:19",
+ "gerado_em": "2026-09-10T12:24-03:00",
+ "gerado_em_label": "10/09/2026 12:24",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 929,
- "novidades_qtd": 12,
- "rodada_anterior": "2026-09-09T12:16-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-10T00:19-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -99,16 +99,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090209595750500000159402061",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    722876766
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "1002069-70.2026.8.26.0068",
@@ -187,16 +185,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://www.dje.tjsp.jus.br",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ANDRE FELIPE GIMENEZ DE OLIVEIRA",
-   "novos_ids": [
-    722549257
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0031658-32.2026.8.19.0000",
@@ -283,16 +279,14 @@
      "tipo": "Intimação",
      "doc": "AGRAVO DE INSTRUMENTO - CÍVEL",
      "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00045998A90D5302922945912A8A5D0C1CC3C51B235D241A",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "RICARDO LOPES GODOY",
-   "novos_ids": [
-    722892431
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0061199-49.2024.8.17.2001",
@@ -363,16 +357,14 @@
      "tipo": "Intimação",
      "doc": "Despacho_Intimação_Intimação (Outros)",
      "link": "https://pje.cloud.tjpe.jus.br:443/1g/Processo/ConsultaDocumento/listView.seam?x=26090909285987300000246894772",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ALMIR MARCOS MENDES DE SOUZA",
-   "novos_ids": [
-    722023867
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0747270-67.2024.8.07.0001",
@@ -587,7 +579,7 @@
      "tipo": "Intimação",
      "doc": "Certidão",
      "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090910044728700000086275751",
-     "novo": true
+     "novo": false
     },
     {
      "id": 722067201,
@@ -595,17 +587,14 @@
      "tipo": "Intimação",
      "doc": "Certidão",
      "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090910044684700000086275945",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "IGOR OLIVA DE SOUZA",
-   "novos_ids": [
-    722067200,
-    722067201
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0801201-53.2024.8.19.0032",
@@ -652,16 +641,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=26090913390120200000290239489",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "MARIA EDUARDA SANTOS SILVA",
-   "novos_ids": [
-    722474900
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5000070-89.2008.8.21.0001",
@@ -748,16 +735,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://eproc2g.tjrs.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=50000708920088210001&idDocumento=11788988232250512659103909883&hash=5d843610ce43aca8c8c57ceba1171bbc4f0b41aed252090931b8ea1ec47993ec",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "GLADYS LUCIENNE DE SOUZA CORTEZ",
-   "novos_ids": [
-    722922319
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0920909-93.2024.8.19.0001",
@@ -876,16 +861,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=26090922450102200000290350753",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    723134606
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0000494-59.2011.5.05.0018",
@@ -1196,16 +1179,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26090909175808300000066739775?instancia=2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "EDSON DE MORAES FEDULO",
-   "novos_ids": [
-    722025953
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0505905-96.2015.8.19.0001",
@@ -1260,16 +1241,14 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "RICARDO LOPES GODOY",
-   "novos_ids": [
-    722076799
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8121383-48.2024.8.05.0001",
@@ -1348,16 +1327,14 @@
      "tipo": "Edital",
      "doc": "Outros Documentos",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090921090499900000163598021",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "FLAVIO ANDRE ALVES BRITTO",
-   "novos_ids": [
-    723106637
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0726293-54.2024.8.07.0001",
@@ -1572,16 +1549,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090815525193400000262427806",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "HELENICE BATISTA COSTA",
-   "novos_ids": [
-    722181557
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8184586-13.2026.8.05.0001",
