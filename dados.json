@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-11T00:20-03:00",
- "gerado_em_label": "11/09/2026 00:20",
+ "gerado_em": "2026-09-11T12:21-03:00",
+ "gerado_em_label": "11/09/2026 12:21",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 936,
- "novidades_qtd": 11,
- "rodada_anterior": "2026-09-10T12:24-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-11T00:20-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -91,16 +91,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090921514143200000163587742",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    723350615
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8068075-32.2026.8.05.0000",
@@ -261,16 +259,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082814255982500000533833334",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    723936946
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8181286-43.2026.8.05.0001",
@@ -509,16 +505,14 @@
      "tipo": "Intimação",
      "doc": "Apelação",
      "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004C8082B7F121A245D3F445C9EF854CA00C51B23605038",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LUIZ CARLOS TELES DE ALCANTARA",
-   "novos_ids": [
-    724331220
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0733930-85.2026.8.07.0001",
@@ -573,16 +567,14 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "https://pje.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090917311830100000261861522",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "PEDRO HENRIQUE LOPES MEJIA",
-   "novos_ids": [
-    723340991
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0701017-50.2026.8.07.0001",
@@ -709,16 +701,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090913575480200000262654015",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "HELENICE BATISTA COSTA",
-   "novos_ids": [
-    723448572
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5127184-05.2025.4.02.5101",
@@ -773,16 +763,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO/DECISÃO",
      "link": "https://eproc.jfrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=51271840520254025101&idDocumento=511789078613910754289039921993&hash=e0144faa1f55dc6556ca5fc272db6c79b3d1f60a0823ead36af1abe3ee92e175",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "EDER ALVES",
-   "novos_ids": [
-    724426301
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8025836-06.2022.8.05.0080",
@@ -877,16 +865,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091009140040900000163585003",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    724004735
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0027082-45.2024.8.16.0001",
@@ -981,7 +967,7 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://projudi.tjpr.jus.br/projudi/processo/validacaoDocumentos.do?_tj=8a6c53f8698c7ff7826b4c776d71316d1925abc508bbf0c37395a1a6705262334b8f49d1922fe08a3628923e216735d56015befc76d564bf",
-     "novo": true
+     "novo": false
     },
     {
      "id": 719498782,
@@ -989,17 +975,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://projudi.tjpr.jus.br/projudi/processo/validacaoDocumentos.do?_tj=8a6c53f8698c7ff7826b4c776d71316d1925abc508bbf0c37395a1a670526233194034a648c8c4ee3cc81b036e7516f93400424d393f1f91",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "JEAN PIERRE COUSSEAU",
-   "novos_ids": [
-    719498537,
-    719498782
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5010409-21.2024.4.03.6100",
@@ -1118,16 +1101,14 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje2g.trf3.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26090216203855800000391881993",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    723327391
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5021932-82.2023.8.08.0024",
@@ -1206,7 +1187,7 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje.tjes.jus.br/pje2g/Processo/ConsultaDocumento/listView.seam?x=26090417251025900000020542901",
-     "novo": true
+     "novo": false
     },
     {
      "id": 724078200,
@@ -1214,17 +1195,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje.tjes.jus.br/pje2g/Processo/ConsultaDocumento/listView.seam?x=26090417251025900000020542901",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "PEDRO HENRIQUE DA SILVA MENEZES",
-   "novos_ids": [
-    724078192,
-    724078200
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0012198-14.2026.4.05.8300",
@@ -1271,16 +1249,14 @@
      "tipo": "Intimação",
      "doc": "Intimação para Contrarrazões dos Embargos",
      "link": "https://pje1g.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091009050599400000203562670",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "MELISSA KARINA TOMKIW DE QUADROS",
-   "novos_ids": [
-    723704381
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8068663-75.2022.8.05.0001",
