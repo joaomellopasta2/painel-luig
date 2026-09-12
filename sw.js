@@ -1,5 +1,10 @@
-// Service worker — cache do app (offline) + dados sempre frescos quando online.
-const CACHE = 'painel-luig-v1';
+// Service worker — mantém o app funcionando offline, mas SEMPRE busca a versão
+// mais nova quando há internet (network-first). Assim, toda atualização publicada
+// aparece na hora, sem ficar presa em cache antigo.
+//
+// >>> Ao publicar mudanças, troque o número da versão abaixo (v2 -> v3 -> ...).
+//     Isso apaga o cache antigo em TODOS os dispositivos na próxima vez que abrirem.
+const CACHE = 'painel-luig-v2';
 const SHELL = [
   './', './index.html', './styles.css', './app.js',
   './manifest.webmanifest',
@@ -7,12 +12,17 @@ const SHELL = [
 ];
 
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  // baixa o essencial e assume o controle imediatamente
+  e.waitUntil(
+    caches.open(CACHE).then(c => c.addAll(SHELL)).catch(() => {}).then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener('activate', e => {
+  // apaga caches de versões anteriores e assume as abas já abertas
   e.waitUntil(
-    caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k))))
+    caches.keys()
+      .then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
@@ -21,25 +31,19 @@ self.addEventListener('fetch', e => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
+  // deixa recursos de fora (fontes do Google, etc.) passarem direto pelo navegador
+  if (url.origin !== self.location.origin) return;
 
-  // dados.json: network-first (mostra a última atualização; cai no cache offline)
-  if (url.pathname.endsWith('dados.json')) {
-    e.respondWith(
-      fetch(req).then(res => {
-        const copy = res.clone();
-        caches.open(CACHE).then(c => c.put('./dados.json', copy));
-        return res;
-      }).catch(() => caches.match('./dados.json'))
-    );
-    return;
-  }
-
-  // restante: cache-first (app shell)
+  // NETWORK-FIRST: tenta a rede (versão nova); se estiver offline, usa o cache.
   e.respondWith(
-    caches.match(req).then(hit => hit || fetch(req).then(res => {
-      const copy = res.clone();
-      caches.open(CACHE).then(c => c.put(req, copy));
-      return res;
-    }).catch(() => hit))
+    fetch(req)
+      .then(res => {
+        if (res && res.ok) {
+          const copy = res.clone();
+          caches.open(CACHE).then(c => c.put(req, copy));
+        }
+        return res;
+      })
+      .catch(() => caches.match(req).then(hit => hit || caches.match('./index.html')))
   );
 });
