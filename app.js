@@ -1,7 +1,7 @@
 'use strict';
 let DADOS = null;
 let filtroObjeto = 'todos', filtroTrib = 'todos', filtroStatus = 'todos';
-let CONTRATOS = null, provEnfase = 'todas', provPolo = 'todos';
+let CONTRATOS = null, provEnfase = 'todas', provPolo = 'todos', provBusca = '';
 
 // paginação (evita pintar centenas de cards de uma vez — trava no iOS Safari)
 const PAG = 50;
@@ -232,8 +232,21 @@ function filtraContratos(){
   const L=(CONTRATOS&&CONTRATOS.contratos)||[];
   return L.filter(c=>{
     if(provEnfase!=='todas' && !(c.enfases||[]).includes(+provEnfase)) return false;
-    // contratos de abrangência Nacional cobrem todos os polos → aparecem em qualquer filtro
-    if(provPolo!=='todos' && !(c.polos||[]).includes(provPolo) && !(c.polos||[]).includes('Nacional')) return false;
+    // Polo: além do polo escolhido, mostra também "Nacional" (cobre tudo) e os
+    // SEM polo definido (podem pertencer a qualquer polo — não escondemos prova).
+    if(provPolo!=='todos'){
+      const pol=c.polos||[];
+      if(pol.length && !pol.includes(provPolo) && !pol.includes('Nacional')) return false;
+    }
+    // Busca livre: nº do contrato/processo/ICJ ou nome da empresa
+    if(provBusca){
+      const q=normaliza(provBusca), qDig=provBusca.replace(/\D/g,'');
+      const alvo=normaliza([c.num,c.contrato,c.icj,c.fornecedor,c.empresa].filter(Boolean).join(' '));
+      const alvoDig=[c.num,c.contrato,c.icj].filter(Boolean).join(' ').replace(/\D/g,'');
+      const okTxt=q.length>0 && alvo.includes(q);
+      const okNum=qDig.length>=3 && alvoDig.includes(qDig);
+      if(!okTxt && !okNum) return false;
+    }
     return true;
   });
 }
@@ -246,11 +259,19 @@ function renderProvas(){
     wrap.innerHTML=`<div class="rn-vazio"><div class="emo">⏳</div><p>Ainda não há contratos coletados.<br><small>Rode o atualizador no PC para gerar o <b>contratos.json</b>.</small></p></div>`;
     $('#contadorProvas').textContent=''; $('#listaContratos').innerHTML=''; return;
   }
-  wrap.innerHTML=`<div class="rn-card"><div class="n">${res.length}</div><div class="l">contrato(s) de serviço da Petrobras nesta seleção — <b>${cc}</b> concluído(s)/homologado(s) · <b>${ab}</b> em licitação aberta. Base desde ${esc(CONTRATOS.desde||'jan/2024')}.</div></div>`;
+  const notaPolo = (provPolo!=='todos')
+    ? ` Inclui contratos de <b>polo não identificado</b> (📍 a identificar) — o Portal da Transparência raramente informa a região, então eles podem pertencer a este polo.`
+    : '';
+  wrap.innerHTML=`<div class="rn-card"><div class="n">${res.length}</div><div class="l">contrato(s) de serviço da Petrobras nesta seleção — <b>${cc}</b> concluído(s)/homologado(s) · <b>${ab}</b> em licitação aberta. Base desde ${esc(CONTRATOS.desde||'jan/2024')}.${notaPolo}</div></div>`;
   $('#contadorProvas').textContent=`${res.length} contrato(s)`;
   _resCont=res;
   const cont=$('#listaContratos');
-  if(!res.length){ cont.innerHTML=`<div class="rn-vazio">Nenhum contrato para esta ênfase/polo. Isso também é informação: pode não haver terceirização registrada nesse recorte (ou o objeto não casou). A base cresce a cada atualização.</div>`; return; }
+  if(!res.length){
+    cont.innerHTML = provBusca
+      ? `<div class="rn-vazio">Nenhum contrato encontrado para "<b>${esc(provBusca)}</b>" neste recorte. Tente o nº sem pontos/traços, parte do nome da empresa, ou amplie a ênfase/polo.</div>`
+      : `<div class="rn-vazio">Nenhum contrato para esta ênfase/polo. Isso também é informação: pode não haver terceirização registrada nesse recorte (ou o objeto não casou). A base cresce a cada atualização.</div>`;
+    return;
+  }
   cont.innerHTML=''; _shownCont=0; maisProvas();
 }
 function maisProvas(){
@@ -466,6 +487,7 @@ document.addEventListener('click',e=>{
 $('#busca').addEventListener('input',renderLista);
 $('#selEnfase').addEventListener('change',e=>{ provEnfase=e.target.value; renderProvas(); });
 $('#selPolo').addEventListener('change',e=>{ provPolo=e.target.value; renderProvas(); });
+$('#buscaProvas').addEventListener('input',e=>{ provBusca=(e.target.value||'').trim(); renderProvas(); });
 $('#selListaEnfase').addEventListener('change',e=>{ listaEnf=e.target.value; if($('#buscaLista'))$('#buscaLista').value=''; renderListas(); });
 $('#selListaPolo').addEventListener('change',e=>{ listaPolo=e.target.value; if($('#buscaLista'))$('#buscaLista').value=''; renderListas(); });
 $('#buscaLista').addEventListener('input',renderListas);
