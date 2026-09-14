@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-14T00:18-03:00",
- "gerado_em_label": "14/09/2026 00:18",
+ "gerado_em": "2026-09-14T12:20-03:00",
+ "gerado_em_label": "14/09/2026 12:20",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 945,
- "novidades_qtd": 12,
- "rodada_anterior": "2026-09-13T12:15-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-14T00:18-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -549,16 +549,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://www2.tjal.jus.br/cdje",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "VALMIR MARTINS NETO",
-   "novos_ids": [
-    725390768
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "1002069-70.2026.8.26.0068",
@@ -645,16 +643,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://www.dje.tjsp.jus.br",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ANDRE FELIPE GIMENEZ DE OLIVEIRA",
-   "novos_ids": [
-    725749633
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0007275-04.2006.8.19.0028",
@@ -781,16 +777,14 @@
      "tipo": "Intimação",
      "doc": "Outros",
      "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_pauta&idSessao=191789136574564938865110859048&hash=8d2b2539b16d0707abe65c22b98c0cfe555b5b80d319aeb8789eac1610eecca2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "HELIO SIQUEIRA JUNIOR",
-   "novos_ids": [
-    724880872
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5026713-03.2023.8.13.0027",
@@ -933,16 +927,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26091313220303900010739541699",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ESIO COSTA JUNIOR",
-   "novos_ids": [
-    726160857
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8002093-31.2024.8.05.0036",
@@ -1013,16 +1005,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091115301610200000550849528",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "RAPHAEL DE SOUZA ALMEIDA SANTOS",
-   "novos_ids": [
-    725117399
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0217325-98.2020.8.19.0001",
@@ -1101,16 +1091,14 @@
      "tipo": "Intimação",
      "doc": "RECURSO ESPECIAL - CÍVEL",
      "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004B9D64612E664C873CD350281A2A13778C51B24392E29",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "THIAGO COSTA SERRA NUNES",
-   "novos_ids": [
-    724907943
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8121383-48.2024.8.05.0001",
@@ -1197,16 +1185,14 @@
      "tipo": "Edital",
      "doc": "Intimação de pauta",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091213244982800000163844978",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "FLAVIO ANDRE ALVES BRITTO",
-   "novos_ids": [
-    725695774
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0004003-80.2013.8.19.0052",
@@ -1413,16 +1399,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "SÉRGIO ALEXANDRE CUNHA CAMARGO",
-   "novos_ids": [
-    725613453
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0101036-32.2022.5.01.0044",
@@ -1597,16 +1581,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt1.jus.br/pjekz/validacao/26091115284859200000276442424?instancia=1",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "PAULA FERNANDES BRANCO",
-   "novos_ids": [
-    725506735
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0736135-58.2024.8.07.0001",
@@ -1821,16 +1803,14 @@
      "tipo": "Intimação",
      "doc": "VISTA à(s) parte(s) embargada(s) para impugnação dos Embargos de Declaração (EDcl)",
      "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk4NDYyODUyMjAyNjAwNzY5OTk2MTc4OTE1NjgxMzQxOQ==",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "BRUNA VASCONCELOS PEREIRA DIAS",
-   "novos_ids": [
-    725184655
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "7037132-43.2024.8.22.0001",
@@ -2013,16 +1993,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091106584464500000036231412",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ALINE COSTA MONTEIRO ORIGA",
-   "novos_ids": [
-    724596460
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0006856-62.2013.8.19.0052",
@@ -2077,16 +2055,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "JOSE CURCINO AGUIAR GOMES JUNIOR",
-   "novos_ids": [
-    725715721
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8152999-12.2022.8.05.0001",
