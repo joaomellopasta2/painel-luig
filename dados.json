@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-13T12:15-03:00",
- "gerado_em_label": "13/09/2026 12:15",
+ "gerado_em": "2026-09-14T00:18-03:00",
+ "gerado_em_label": "14/09/2026 00:18",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -9,11 +9,2085 @@
   "Petróleo Brasileiro",
   "Transpetro"
  ],
- "total": 943,
- "novidades_qtd": 0,
- "rodada_anterior": "2026-09-13T00:18-03:00",
+ "total": 945,
+ "novidades_qtd": 12,
+ "rodada_anterior": "2026-09-13T12:15-03:00",
  "primeira_rodada": false,
  "processos": [
+  {
+   "num": "8183709-73.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "CAROLINE NUNES CIPRIANO",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-14",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090417251176000000549231094",
+   "coms": [
+    {
+     "id": 725105287,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090417251176000000549231094",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8191156-15.2026.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "NIELBER ALVES DE LIMA SENA",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-14",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091017184973100000550662993",
+   "coms": [
+    {
+     "id": 725148145,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091017184973100000550662993",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "8068178-39.2026.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "AGRAVO DE INSTRUMENTO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "FLAVIO DA SILVA RODRIGUES",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2026-09-14",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 0,
+   "qtd_coms": 1,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091113351194600000163728474",
+   "coms": [
+    {
+     "id": 725480793,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091113351194600000163728474",
+     "novo": false
+    }
+   ],
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
+   "num": "0000707-30.2008.8.02.0042",
+   "trib": "TJAL",
+   "instancia": "1º grau",
+   "classe": "FALêNCIA DE EMPRESáRIOS, SOCIEDADES EMPRESáRIAIS, MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "Laginha Agro Industrial S",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "Extinto sem mérito",
+   "sinal": "extinto/desistência",
+   "resultado_evid": "Ante o exposto, com fundamento no art. 485, VI, do Código de Processo Civil, julgamos extinto o presente pedido de reserva de crédito trabalhista, sem resolução do mérito, uma vez que a pretensão deduzida já foi apreciada nos autos do processo falimentar nº 0000707-30.2008.8.02.0",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2024-12-20",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 633,
+   "qtd_coms": 50,
+   "link": "https://www2.tjal.jus.br/cdje",
+   "coms": [
+    {
+     "id": 209225744,
+     "data": "2024-12-20",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 209225886,
+     "data": "2024-12-20",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 210771042,
+     "data": "2025-01-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 211050812,
+     "data": "2025-01-08",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 214512355,
+     "data": "2025-01-22",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 220114519,
+     "data": "2025-02-03",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 222810605,
+     "data": "2025-02-06",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 222811634,
+     "data": "2025-02-06",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 234586041,
+     "data": "2025-03-06",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 236051323,
+     "data": "2025-03-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 242564169,
+     "data": "2025-03-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 242973145,
+     "data": "2025-03-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 244481690,
+     "data": "2025-03-21",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 247399042,
+     "data": "2025-03-27",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 274303112,
+     "data": "2025-05-20",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 275283938,
+     "data": "2025-05-21",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 275284226,
+     "data": "2025-05-21",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 283504002,
+     "data": "2025-05-29",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 345160246,
+     "data": "2025-08-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 345160683,
+     "data": "2025-08-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 346070036,
+     "data": "2025-08-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 350157378,
+     "data": "2025-08-13",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 403760918,
+     "data": "2025-09-22",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 404338069,
+     "data": "2025-09-22",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 427256767,
+     "data": "2025-10-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 436606793,
+     "data": "2025-10-15",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 452290535,
+     "data": "2025-11-04",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 466167342,
+     "data": "2025-11-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 483608872,
+     "data": "2025-12-10",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 490227021,
+     "data": "2025-12-17",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 497076165,
+     "data": "2026-01-05",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 505288969,
+     "data": "2026-01-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 530849613,
+     "data": "2026-02-12",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 533453903,
+     "data": "2026-02-16",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 544703190,
+     "data": "2026-03-02",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 551144153,
+     "data": "2026-03-06",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 590394669,
+     "data": "2026-04-22",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 594147157,
+     "data": "2026-04-27",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 600993356,
+     "data": "2026-05-05",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 623936634,
+     "data": "2026-05-28",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 625791951,
+     "data": "2026-06-01",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 640950333,
+     "data": "2026-06-16",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 648249577,
+     "data": "2026-06-22",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 648250844,
+     "data": "2026-06-22",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 667152690,
+     "data": "2026-07-14",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 701493496,
+     "data": "2026-08-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 703853038,
+     "data": "2026-08-21",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 717182518,
+     "data": "2026-09-03",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 721709388,
+     "data": "2026-09-09",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": false
+    },
+    {
+     "id": 725390768,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www2.tjal.jus.br/cdje",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "VALMIR MARTINS NETO",
+   "novos_ids": [
+    725390768
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "1002069-70.2026.8.26.0068",
+   "trib": "TJSP",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "—",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2026-04-10",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 157,
+   "qtd_coms": 8,
+   "link": "https://www.dje.tjsp.jus.br",
+   "coms": [
+    {
+     "id": 581913884,
+     "data": "2026-04-10",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www.dje.tjsp.jus.br",
+     "novo": false
+    },
+    {
+     "id": 584883431,
+     "data": "2026-04-14",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www.dje.tjsp.jus.br",
+     "novo": false
+    },
+    {
+     "id": 610400418,
+     "data": "2026-05-14",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www.dje.tjsp.jus.br",
+     "novo": false
+    },
+    {
+     "id": 614409302,
+     "data": "2026-05-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www.dje.tjsp.jus.br",
+     "novo": false
+    },
+    {
+     "id": 698437648,
+     "data": "2026-08-17",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www.dje.tjsp.jus.br",
+     "novo": false
+    },
+    {
+     "id": 714136783,
+     "data": "2026-09-01",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www.dje.tjsp.jus.br",
+     "novo": false
+    },
+    {
+     "id": 722549257,
+     "data": "2026-09-10",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www.dje.tjsp.jus.br",
+     "novo": false
+    },
+    {
+     "id": 725749633,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://www.dje.tjsp.jus.br",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "ANDRE FELIPE GIMENEZ DE OLIVEIRA",
+   "novos_ids": [
+    725749633
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0007275-04.2006.8.19.0028",
+   "trib": "TJRJ",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "APELAçãO CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "—",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "Perda",
+   "sinal": "sentença improcedente",
+   "resultado_evid": "DISPOSITIVO/r/nPelo exposto, em cognição exauriente, resolvo o mérito da demanda, nos termos do artigo 487, I do Código de Processo Civil e JULGO IMPROCEDENTES OS PEDIDOS. /r/nCondeno o autor nas custas processuais e taxa judiciária, bem como em honorários advocatícios sucumbenci",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2024-12-10",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 643,
+   "qtd_coms": 13,
+   "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_pauta&idSessao=191789136574564938865110859048&hash=8d2b2539b16d0707abe65c22b98c0cfe555b5b80d319aeb8789eac1610eecca2",
+   "coms": [
+    {
+     "id": 202995369,
+     "data": "2024-12-10",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 227877972,
+     "data": "2025-02-17",
+     "tipo": "Intimação",
+     "doc": "Ato Ordinatório Praticado",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 288270254,
+     "data": "2025-06-04",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 354303000,
+     "data": "2025-08-18",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 441697124,
+     "data": "2025-10-22",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 541950991,
+     "data": "2026-02-26",
+     "tipo": "Intimação",
+     "doc": "Ato Ordinatório Praticado",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 554537917,
+     "data": "2026-03-11",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://eproc1g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=00072750420068190028&idDocumento=191773103802128899764349188324&hash=b4cd56ca4092c5f2ecf16827766440d057de18b65986a631fd6aa55659c9a957",
+     "novo": false
+    },
+    {
+     "id": 559827880,
+     "data": "2026-03-16",
+     "tipo": "Intimação",
+     "doc": "Audiência",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 598582624,
+     "data": "2026-05-04",
+     "tipo": "Lista de distribuição",
+     "doc": "Outros",
+     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=processo_distribuicao_listar&sinPesquisar=S&numProcesso=00072750420068190028&hash=7e25f39cd0f0f2843115d553294b7f1c3f170bc187b11c967ee0dee1092500e6",
+     "novo": false
+    },
+    {
+     "id": 661404774,
+     "data": "2026-07-07",
+     "tipo": "Intimação",
+     "doc": "Outros",
+     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_pauta&idSessao=191783346460524071629207595222&hash=8d2b2539b16d0707abe65c22b98c0cfe555b5b80d319aeb8789eac1610eecca2",
+     "novo": false
+    },
+    {
+     "id": 680871331,
+     "data": "2026-07-28",
+     "tipo": "Intimação",
+     "doc": "Acórdão",
+     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=00072750420068190028&idDocumento=191785163240278051749351339329&hash=177238378f399d4df003c3bb124fbd39d8752299f584593980def3941343fc4e",
+     "novo": false
+    },
+    {
+     "id": 705535412,
+     "data": "2026-08-24",
+     "tipo": "Intimação",
+     "doc": "DESPACHO/DECISÃO",
+     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=00072750420068190028&idDocumento=191787344156978340176670830029&hash=4a7852e123bfd192c46af3abd0e83c80971f7c2907b47ebd8ac1f46798cc1d3e",
+     "novo": false
+    },
+    {
+     "id": 724880872,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Outros",
+     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_pauta&idSessao=191789136574564938865110859048&hash=8d2b2539b16d0707abe65c22b98c0cfe555b5b80d319aeb8789eac1610eecca2",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "HELIO SIQUEIRA JUNIOR",
+   "novos_ids": [
+    724880872
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "5026713-03.2023.8.13.0027",
+   "trib": "TJMG",
+   "instancia": "1º grau",
+   "classe": "CUMPRIMENTO DE SENTENçA",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "LUCIO PAULO BRAGA PINHEIRO CHAGAS CPF",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "Ganho",
+   "sinal": "sentença procedente",
+   "resultado_evid": "Ante o exposto, e por tudo mais que dos autos consta, JULGO PROCEDENTE O PEDIDO INICIAL, com resolução do mérito, nos termos do art. 487, I, do Código de Processo Civil, para: A) DECLARAR NULO o ato administrativo que excluiu a parte autora, LÚCIO PAULO BRAGA PINHEIRO CHAGAS, da",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2025-02-21",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 570,
+   "qtd_coms": 15,
+   "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26091313220303900010739541699",
+   "coms": [
+    {
+     "id": 230659376,
+     "data": "2025-02-21",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25022013503468900010392714005",
+     "novo": false
+    },
+    {
+     "id": 236266311,
+     "data": "2025-03-10",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25030709320274100010401680120",
+     "novo": false
+    },
+    {
+     "id": 322395936,
+     "data": "2025-07-11",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25071010572896100010486966057",
+     "novo": false
+    },
+    {
+     "id": 367037829,
+     "data": "2025-09-01",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25082922371699400010524551123",
+     "novo": false
+    },
+    {
+     "id": 398829205,
+     "data": "2025-09-18",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25091709423673500010536956979",
+     "novo": false
+    },
+    {
+     "id": 420322105,
+     "data": "2025-10-01",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25093017294661200010546802524",
+     "novo": false
+    },
+    {
+     "id": 458456716,
+     "data": "2025-11-11",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?tipoPesquisa2=1&txtProcesso=50267130320238130027&comrCodigo=0024&tipoPessoa=X&naturezaProcesso=0&situacaoParte=X&numero=20&select=1&tipoConsulta=1&natureza=0&ativoBaixado=X&listaProcessos=50267130320238130027",
+     "novo": false
+    },
+    {
+     "id": 476094301,
+     "data": "2025-12-04",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?tipoPesquisa2=1&txtProcesso=50267130320238130027&comrCodigo=0024&tipoPessoa=X&naturezaProcesso=0&situacaoParte=X&numero=20&select=1&tipoConsulta=1&natureza=0&ativoBaixado=X&listaProcessos=50267130320238130027",
+     "novo": false
+    },
+    {
+     "id": 492383577,
+     "data": "2025-12-18",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?tipoPesquisa2=1&txtProcesso=50267130320238130027&comrCodigo=0024&tipoPessoa=X&naturezaProcesso=0&situacaoParte=X&numero=20&select=1&tipoConsulta=1&natureza=0&ativoBaixado=X&listaProcessos=50267130320238130027",
+     "novo": false
+    },
+    {
+     "id": 492403198,
+     "data": "2025-12-18",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?tipoPesquisa2=1&txtProcesso=50267130320238130027&comrCodigo=0024&tipoPessoa=X&naturezaProcesso=0&situacaoParte=X&numero=20&select=1&tipoConsulta=1&natureza=0&ativoBaixado=X&listaProcessos=50267130320238130027",
+     "novo": false
+    },
+    {
+     "id": 534598918,
+     "data": "2026-02-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26021818010815700010625240096",
+     "novo": false
+    },
+    {
+     "id": 600479025,
+     "data": "2026-05-05",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26050409392085800010668433525",
+     "novo": false
+    },
+    {
+     "id": 635953979,
+     "data": "2026-06-10",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26060922095661800010689603696",
+     "novo": false
+    },
+    {
+     "id": 701806955,
+     "data": "2026-08-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26081823302445600010727356959",
+     "novo": false
+    },
+    {
+     "id": 726160857,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26091313220303900010739541699",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "ESIO COSTA JUNIOR",
+   "novos_ids": [
+    726160857
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8002093-31.2024.8.05.0036",
+   "trib": "TJBA",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "—",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "Ganho",
+   "sinal": "sentença procedente",
+   "resultado_evid": "Ante o exposto e considerando tudo mais que dos autos consta, JULGO PROCEDENTES os pedidos formulados pelo Autor, resolvendo definitivamente o mérito da demanda com fundamento no art. 487, inciso I, do Código de Processo Civil.DECLARO A NULIDADE ABSOLUTA do ato administrativo de",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2024-12-04",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 649,
+   "qtd_coms": 6,
+   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091115301610200000550849528",
+   "coms": [
+    {
+     "id": 200252058,
+     "data": "2024-12-04",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 223034009,
+     "data": "2025-02-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 477064621,
+     "data": "2025-12-03",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120213582135200000509255865",
+     "novo": false
+    },
+    {
+     "id": 477064962,
+     "data": "2025-12-03",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120213582135200000509255865",
+     "novo": false
+    },
+    {
+     "id": 699905913,
+     "data": "2026-08-18",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26081715504800200000546648667",
+     "novo": false
+    },
+    {
+     "id": 725117399,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091115301610200000550849528",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "RAPHAEL DE SOUZA ALMEIDA SANTOS",
+   "novos_ids": [
+    725117399
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0217325-98.2020.8.19.0001",
+   "trib": "TJRJ",
+   "instancia": "Superior (STJ)",
+   "classe": "RECURSO ESPECIAL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "PEDRO ESTEVAM SILVA THOMAZ",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2025-09-24",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 355,
+   "qtd_coms": 7,
+   "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004B9D64612E664C873CD350281A2A13778C51B24392E29",
+   "coms": [
+    {
+     "id": 411668248,
+     "data": "2025-09-24",
+     "tipo": "Lista de distribuição",
+     "doc": "Apelação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 577247919,
+     "data": "2026-04-07",
+     "tipo": "Pauta de julgamento",
+     "doc": "Apelação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 607359073,
+     "data": "2026-05-12",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004762BFA3ADC427096ED1E3ABB2FD053C7C51A50490D10",
+     "novo": false
+    },
+    {
+     "id": 612690498,
+     "data": "2026-05-18",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004E158DA57F4C7BEE26275548B71F17CEFC51A524C3F22",
+     "novo": false
+    },
+    {
+     "id": 673449371,
+     "data": "2026-07-21",
+     "tipo": "Pauta de julgamento",
+     "doc": "Apelação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 693657893,
+     "data": "2026-08-12",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=000410AC0AF3FE32A6E57252CE8108729021C51B154F2C20",
+     "novo": false
+    },
+    {
+     "id": 724907943,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "RECURSO ESPECIAL - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004B9D64612E664C873CD350281A2A13778C51B24392E29",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "THIAGO COSTA SERRA NUNES",
+   "novos_ids": [
+    724907943
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "8121383-48.2024.8.05.0001",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "APELAçãO CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "NAJIB RIBEIRO DA SILVA JUNIOR",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "Perda",
+   "sinal": "sentença improcedente",
+   "resultado_evid": "DISPOSITIVO Ex positis, julgo improcedente o pedido do autor, extinguindo o processo com exame do mérito, fulcrado no artigo 487, I do Código de Processo Civil. Condeno a autora em honorários sucumbenciais no valor de R$9.814,53 (nove mil, oitocentos e quatorze reais e cinquenta",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2024-12-05",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 648,
+   "qtd_coms": 8,
+   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091213244982800000163844978",
+   "coms": [
+    {
+     "id": 200780856,
+     "data": "2024-12-05",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 313498562,
+     "data": "2025-07-02",
+     "tipo": "Intimação",
+     "doc": "Ato ordinatório",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25070112482646100000485910121",
+     "novo": false
+    },
+    {
+     "id": 470815195,
+     "data": "2025-11-26",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25111111015464700000506075707",
+     "novo": false
+    },
+    {
+     "id": 495616959,
+     "data": "2025-12-22",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121610111332400000511306177",
+     "novo": false
+    },
+    {
+     "id": 560187317,
+     "data": "2026-03-17",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031119512320400000522264174",
+     "novo": false
+    },
+    {
+     "id": 664228755,
+     "data": "2026-07-09",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070818163926000000158538160",
+     "novo": false
+    },
+    {
+     "id": 723106637,
+     "data": "2026-09-10",
+     "tipo": "Edital",
+     "doc": "Outros Documentos",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090921090499900000163598021",
+     "novo": false
+    },
+    {
+     "id": 725695774,
+     "data": "2026-09-14",
+     "tipo": "Edital",
+     "doc": "Intimação de pauta",
+     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091213244982800000163844978",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "FLAVIO ANDRE ALVES BRITTO",
+   "novos_ids": [
+    725695774
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0004003-80.2013.8.19.0052",
+   "trib": "TJRJ",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO COMUM CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "RENATO NANCI DE ARAUJO SILVA",
+   "polo": "Petrobras/Transpetro no polo ativo",
+   "transito": false,
+   "resultado": "Ganho",
+   "sinal": "recurso da Petrobras desprovido",
+   "resultado_evid": "por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Teodoro",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2025-02-04",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 587,
+   "qtd_coms": 23,
+   "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=382096135&registro_numero=202503995953&peticao_numero=202600457034&publicacao_data=20260629&formato=PDF",
+   "coms": [
+    {
+     "id": 221322917,
+     "data": "2025-02-04",
+     "tipo": "Lista de distribuição",
+     "doc": "Apelação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 237240988,
+     "data": "2025-03-11",
+     "tipo": "Pauta de julgamento",
+     "doc": "Apelação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 249293305,
+     "data": "2025-04-01",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=000492C2D1AE6DCC29C4141C9391027790BFC5184B642325",
+     "novo": false
+    },
+    {
+     "id": 311752485,
+     "data": "2025-07-01",
+     "tipo": "Intimação",
+     "doc": "RECURSO ESPECIAL - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00041172A8DF34F1B274189296436E7C82B8C5191E412C49",
+     "novo": false
+    },
+    {
+     "id": 311752516,
+     "data": "2025-07-01",
+     "tipo": "Intimação",
+     "doc": "RECURSO EXTRAORDINÁRIO - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00042A28BEFB7E22C2E76620DD754A5B6760C5191E41392F",
+     "novo": false
+    },
+    {
+     "id": 357172144,
+     "data": "2025-08-21",
+     "tipo": "Intimação",
+     "doc": "RECURSO ESPECIAL - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00048DAC80800ABC922192A5F39F10F90FD9C5193C233F5A",
+     "novo": false
+    },
+    {
+     "id": 357172497,
+     "data": "2025-08-21",
+     "tipo": "Intimação",
+     "doc": "RECURSO EXTRAORDINÁRIO - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004FF25BDF263FB40D15D3B3043F0AF23BFC5193C233225",
+     "novo": false
+    },
+    {
+     "id": 379849646,
+     "data": "2025-09-09",
+     "tipo": "Intimação",
+     "doc": "RECURSO EXTRAORDINARIO COM AGRAVO - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004FE799792380AC9DA904F58518B997615C51947022E38",
+     "novo": false
+    },
+    {
+     "id": 379849648,
+     "data": "2025-09-09",
+     "tipo": "Intimação",
+     "doc": "AGRAVO EM RECURSO ESPECIAL - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004F9D996E1985064E915A3E67F3B45ACF30BC519470220",
+     "novo": false
+    },
+    {
+     "id": 408067582,
+     "data": "2025-09-23",
+     "tipo": "Intimação",
+     "doc": "AGRAVO EM RECURSO ESPECIAL - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=000436CCEA9EBEEAC4AA65D718A233CB5B7CC5194E0F300A",
+     "novo": false
+    },
+    {
+     "id": 408067585,
+     "data": "2025-09-23",
+     "tipo": "Intimação",
+     "doc": "RECURSO EXTRAORDINARIO COM AGRAVO - CÍVEL",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00044D294DE3D32E4F1BADA2F726E48540BEC5194E0F431E",
+     "novo": false
+    },
+    {
+     "id": 455125590,
+     "data": "2025-11-06",
+     "tipo": "Intimação",
+     "doc": "ATA DE DISTRIBUIÇÃO",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzQ1MjU5MjI3MjAyNTAzOTk1OTUzMTc2MjM3NDAwMDIyMA==",
+     "novo": false
+    },
+    {
+     "id": 503449964,
+     "data": "2026-01-15",
+     "tipo": "Intimação",
+     "doc": "DESPACHO / DECISÃO",
+     "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=53608265&data_pesquisa=16/01/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
+     "novo": false
+    },
+    {
+     "id": 523390557,
+     "data": "2026-02-05",
+     "tipo": "Intimação",
+     "doc": "Vista dos Autos às Partes pelo prazo legal",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzU3MDc3MDA4MjAyNTAzOTk1OTUzMTc3MDI0MjQ0MjE4NQ==",
+     "novo": false
+    },
+    {
+     "id": 523390730,
+     "data": "2026-02-05",
+     "tipo": "Intimação",
+     "doc": "VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Interno (AgInt)",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzU2ODgwMTUzMjAyNTAzOTk1OTUzMTc3MDI0MjQ0NDc2OQ==",
+     "novo": false
+    },
+    {
+     "id": 528112261,
+     "data": "2026-02-11",
+     "tipo": "Intimação",
+     "doc": "DESPACHO / DECISÃO",
+     "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=54004096&data_pesquisa=12/02/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
+     "novo": false
+    },
+    {
+     "id": 553415712,
+     "data": "2026-03-10",
+     "tipo": "Intimação",
+     "doc": "ATA DE DISTRIBUIÇÃO",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzYyNjYwMTYzMjAyNTAzOTk1OTUzMTc3MzA2MTIwODU2Mg==",
+     "novo": false
+    },
+    {
+     "id": 572491264,
+     "data": "2026-03-30",
+     "tipo": "Intimação",
+     "doc": "PAUTA DE JULGAMENTOS",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzY2NjQ3ODM0MjAyNTAzOTk1OTUzMTc3NDY0MzQ4Mzc4NQ==",
+     "novo": false
+    },
+    {
+     "id": 600421229,
+     "data": "2026-05-05",
+     "tipo": "Intimação",
+     "doc": "EMENTA / ACORDÃO",
+     "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=372267135&registro_numero=202503995953&peticao_numero=202600071986&publicacao_data=20260506&formato=PDF",
+     "novo": false
+    },
+    {
+     "id": 607772461,
+     "data": "2026-05-12",
+     "tipo": "Intimação",
+     "doc": "VISTA à(s) parte(s) embargada(s) para impugnação dos Embargos de Declaração (EDcl)",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzczODIxMDY3MjAyNTAzOTk1OTUzMTc3ODUyNzgxMzI5MQ==",
+     "novo": false
+    },
+    {
+     "id": 623694739,
+     "data": "2026-05-28",
+     "tipo": "Intimação",
+     "doc": "PAUTA DE JULGAMENTOS",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzc3MDc5ODU3MjAyNTAzOTk1OTUzMTc3OTkxMzg2Nzk5MQ==",
+     "novo": false
+    },
+    {
+     "id": 652428754,
+     "data": "2026-06-26",
+     "tipo": "Intimação",
+     "doc": "EMENTA / ACORDÃO",
+     "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=382096135&registro_numero=202503995953&peticao_numero=202600457034&publicacao_data=20260629&formato=PDF",
+     "novo": false
+    },
+    {
+     "id": 725613453,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "SÉRGIO ALEXANDRE CUNHA CAMARGO",
+   "novos_ids": [
+    725613453
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0101036-32.2022.5.01.0044",
+   "trib": "TRT1",
+   "instancia": "1º grau",
+   "classe": "AçãO TRABALHISTA - RITO ORDINáRIO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "—",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2024-09-11",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 733,
+   "qtd_coms": 19,
+   "link": "https://pje.trt1.jus.br/pjekz/validacao/26091115284859200000276442424?instancia=1",
+   "coms": [
+    {
+     "id": 148679972,
+     "data": "2024-09-11",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/24091007151934200000209828705?instancia=1",
+     "novo": false
+    },
+    {
+     "id": 148679980,
+     "data": "2024-09-11",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/24091007151934200000209828705?instancia=1",
+     "novo": false
+    },
+    {
+     "id": 199703735,
+     "data": "2024-12-02",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/24120110195681900000216405115?instancia=1",
+     "novo": false
+    },
+    {
+     "id": 199703739,
+     "data": "2024-12-02",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/24120110195681900000216405115?instancia=1",
+     "novo": false
+    },
+    {
+     "id": 224349478,
+     "data": "2025-02-11",
+     "tipo": "Lista de distribuição",
+     "doc": "Distribuição",
+     "link": "https://pje.trt1.jus.br/pjekz/visualizacao/25020800302025300000115387893?instancia=2",
+     "novo": false
+    },
+    {
+     "id": 244269108,
+     "data": "2025-03-21",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/25032015484726000000117848377?instancia=2",
+     "novo": false
+    },
+    {
+     "id": 244269134,
+     "data": "2025-03-21",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/25032015484759600000117848379?instancia=2",
+     "novo": false
+    },
+    {
+     "id": 256261874,
+     "data": "2025-04-14",
+     "tipo": "Edital",
+     "doc": "Edital",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/25041119010837100000119600474?instancia=2",
+     "novo": false
+    },
+    {
+     "id": 272940754,
+     "data": "2025-05-19",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/25051616521480300000121411306?instancia=2",
+     "novo": false
+    },
+    {
+     "id": 292120547,
+     "data": "2025-06-09",
+     "tipo": "Edital",
+     "doc": "Edital",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/25060608431811300000122739500?instancia=2",
+     "novo": false
+    },
+    {
+     "id": 292120508,
+     "data": "2025-06-09",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/25060608431784100000122739499?instancia=2",
+     "novo": false
+    },
+    {
+     "id": 309074275,
+     "data": "2025-06-27",
+     "tipo": "Lista de distribuição",
+     "doc": "Distribuição",
+     "link": "https://pje.tst.jus.br/pjekz/visualizacao/25062600302965200000100034746?instancia=3",
+     "novo": false
+    },
+    {
+     "id": 342344818,
+     "data": "2025-08-04",
+     "tipo": "Lista de distribuição",
+     "doc": "Distribuição",
+     "link": "https://pje.tst.jus.br/pjekz/visualizacao/25080200302907400000109138059?instancia=3",
+     "novo": false
+    },
+    {
+     "id": 510400855,
+     "data": "2026-01-23",
+     "tipo": "Intimação",
+     "doc": "Pauta de Julgamento",
+     "link": "https://sessao-integracao-backend.prd.rede.tst/documentos/PJe--2506/101036-32.2022.5.01.0044/certidao-inclusao-pauta/MjMvMDEvMjAyNiAwMDowMDowMCMxMzA4MjY5NzM3",
+     "novo": false
+    },
+    {
+     "id": 562338971,
+     "data": "2026-03-18",
+     "tipo": "Intimação",
+     "doc": "Pauta de Julgamento",
+     "link": "https://sessao-integracao-backend.prd.rede.tst/documentos/PJe--2615/101036-32.2022.5.01.0044/certidao-inclusao-pauta/MTgvMDMvMjAyNiAwMDowMDowMCMxMzA4MjY5NzM3",
+     "novo": false
+    },
+    {
+     "id": 589628638,
+     "data": "2026-04-22",
+     "tipo": "Intimação",
+     "doc": "Acórdão",
+     "link": "https://pje.tst.jus.br/pjekz/validacao/26041716504891700000172570786?instancia=3",
+     "novo": false
+    },
+    {
+     "id": 589628674,
+     "data": "2026-04-22",
+     "tipo": "Intimação",
+     "doc": "Acórdão",
+     "link": "https://pje.tst.jus.br/pjekz/validacao/26041716505006400000172570795?instancia=3",
+     "novo": false
+    },
+    {
+     "id": 660590190,
+     "data": "2026-07-06",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/26070510373813800000268673615?instancia=1",
+     "novo": false
+    },
+    {
+     "id": 725506735,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Notificação",
+     "link": "https://pje.trt1.jus.br/pjekz/validacao/26091115284859200000276442424?instancia=1",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "PAULA FERNANDES BRANCO",
+   "novos_ids": [
+    725506735
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0736135-58.2024.8.07.0001",
+   "trib": "STJ",
+   "instancia": "Superior (STJ)",
+   "classe": "RECURSO ESPECIAL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "EDILSON VIRGINIO DOS SANTOS",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": false,
+   "resultado": "Perda",
+   "sinal": "sentença improcedente",
+   "resultado_evid": "Ante o exposto, julgo improcedentes os pedidos iniciais, Declaro resolvido o mérito, com fulcro no artigo 487, inciso I, do CPC. Em face da sucumbência, condeno a parte autora ao pagamento das custas processuais e dos honorários advocatícios que fixo em R$ 600,00, nos termos do a",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2024-08-30",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 745,
+   "qtd_coms": 24,
+   "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk4NDYyODUyMjAyNjAwNzY5OTk2MTc4OTE1NjgxMzQxOQ==",
+   "coms": [
+    {
+     "id": 140722699,
+     "data": "2024-08-30",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24082815074133200000190716886",
+     "novo": false
+    },
+    {
+     "id": 160083741,
+     "data": "2024-10-01",
+     "tipo": "Intimação",
+     "doc": "Certidão",
+     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24093013572292800000194096813",
+     "novo": false
+    },
+    {
+     "id": 196962129,
+     "data": "2024-11-26",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24112218124234100000199122518",
+     "novo": false
+    },
+    {
+     "id": 207576844,
+     "data": "2024-12-18",
+     "tipo": "Intimação",
+     "doc": "Certidão",
+     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24121613091067400000201324623",
+     "novo": false
+    },
+    {
+     "id": 207576852,
+     "data": "2024-12-18",
+     "tipo": "Intimação",
+     "doc": "Certidão",
+     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24121613091067400000201324623",
+     "novo": false
+    },
+    {
+     "id": 227634499,
+     "data": "2025-02-17",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25021415395827500000066450836",
+     "novo": false
+    },
+    {
+     "id": 235700993,
+     "data": "2025-03-07",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25030510012655900000067023326",
+     "novo": false
+    },
+    {
+     "id": 235700995,
+     "data": "2025-03-07",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25030510012655900000067023326",
+     "novo": false
+    },
+    {
+     "id": 251821070,
+     "data": "2025-04-04",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25040316530819900000068121421",
+     "novo": false
+    },
+    {
+     "id": 251821074,
+     "data": "2025-04-04",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25040316530819900000068121421",
+     "novo": false
+    },
+    {
+     "id": 261191963,
+     "data": "2025-04-28",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25042513381438900000068703315",
+     "novo": false
+    },
+    {
+     "id": 261191969,
+     "data": "2025-04-28",
+     "tipo": "Intimação",
+     "doc": "Despacho",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25042513381438900000068703315",
+     "novo": false
+    },
+    {
+     "id": 438324798,
+     "data": "2025-10-17",
+     "tipo": "Edital",
+     "doc": "Pauta de Julgamento",
+     "link": "https://pje2i.tjdft.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/pautaSessaoSemLoginHTML.seam?ca=ce508fdf989702e8e417891268240c6d0a0a897686c75a8b",
+     "novo": false
+    },
+    {
+     "id": 469544166,
+     "data": "2025-11-25",
+     "tipo": "Intimação",
+     "doc": "Ementa",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25112414484669900000074700665",
+     "novo": false
+    },
+    {
+     "id": 494366829,
+     "data": "2025-12-19",
+     "tipo": "Edital",
+     "doc": "57",
+     "link": "https://pje2i.tjdft.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/pautaSessaoSemLoginHTML.seam?ca=a0dc9e721ecf972d9d6942e2e15634762cfc748d3d2ac4ea0a0a897686c75a8b",
+     "novo": false
+    },
+    {
+     "id": 496037697,
+     "data": "2025-12-23",
+     "tipo": "Intimação",
+     "doc": "Certidão",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25122200091377800000077096759",
+     "novo": false
+    },
+    {
+     "id": 532876060,
+     "data": "2026-02-16",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26021310471036100000078239545",
+     "novo": false
+    },
+    {
+     "id": 587789509,
+     "data": "2026-04-17",
+     "tipo": "Intimação",
+     "doc": "ATA DE DISTRIBUIÇÃO",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzcwMDI0OTgwMjAyNjAwNzY5OTk2MTc3NjM0OTgwOTIyNw==",
+     "novo": false
+    },
+    {
+     "id": 589393403,
+     "data": "2026-04-22",
+     "tipo": "Intimação",
+     "doc": "DESPACHO / DECISÃO",
+     "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=55992229&data_pesquisa=23/04/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
+     "novo": false
+    },
+    {
+     "id": 589421591,
+     "data": "2026-04-22",
+     "tipo": "Intimação",
+     "doc": "DESPACHO / DECISÃO",
+     "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=55992229&data_pesquisa=23/04/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
+     "novo": false
+    },
+    {
+     "id": 611819984,
+     "data": "2026-05-15",
+     "tipo": "Intimação",
+     "doc": "VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Interno (AgInt)",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzc0NjI0OTcyMjAyNjAwNzY5OTk2MTc3ODc5NDIxMzk5Nw==",
+     "novo": false
+    },
+    {
+     "id": 690019058,
+     "data": "2026-08-06",
+     "tipo": "Intimação",
+     "doc": "PAUTA DE JULGAMENTOS",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzkwOTUxODg1MjAyNjAwNzY5OTk2MTc4NTk2MzczMTQxNA==",
+     "novo": false
+    },
+    {
+     "id": 715935216,
+     "data": "2026-09-02",
+     "tipo": "Intimação",
+     "doc": "EMENTA / ACORDÃO",
+     "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=396426434&registro_numero=202600769996&peticao_numero=202600480080&publicacao_data=20260903&formato=PDF",
+     "novo": false
+    },
+    {
+     "id": 725184655,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "VISTA à(s) parte(s) embargada(s) para impugnação dos Embargos de Declaração (EDcl)",
+     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk4NDYyODUyMjAyNjAwNzY5OTk2MTc4OTE1NjgxMzQxOQ==",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "BRUNA VASCONCELOS PEREIRA DIAS",
+   "novos_ids": [
+    725184655
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "7037132-43.2024.8.22.0001",
+   "trib": "TJRO",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "APELAçãO CíVEL",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "ALINE COSTA MONTEIRO ORIGA",
+   "polo": "Petrobras/Transpetro no polo ativo",
+   "transito": true,
+   "resultado": "Ganho",
+   "sinal": "sentença procedente",
+   "resultado_evid": "Ante o exposto, com fulcro no art. 487, I do Código de Processo Civil, JULGO PROCEDENTE os pedidos narrados na inicial para: 1) ANULAR ao ato de desclassificação do autor como candidato portador de deficiência; 2) RECONHECER a condição do autor como portador de deficiência para f",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": true,
+   "data_inicio": "2024-07-16",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 790,
+   "qtd_coms": 20,
+   "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091106584464500000036231412",
+   "coms": [
+    {
+     "id": 105453585,
+     "data": "2024-07-16",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24071508274800000000104073771",
+     "novo": false
+    },
+    {
+     "id": 117158138,
+     "data": "2024-08-08",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24080709462898500000105047323",
+     "novo": false
+    },
+    {
+     "id": 134027619,
+     "data": "2024-08-23",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24082212294200000000105701819",
+     "novo": false
+    },
+    {
+     "id": 134027669,
+     "data": "2024-08-23",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24082212294600000000105701820",
+     "novo": false
+    },
+    {
+     "id": 137803022,
+     "data": "2024-08-27",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24082614233938100000105837394",
+     "novo": false
+    },
+    {
+     "id": 139496293,
+     "data": "2024-08-29",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24082812435147500000105945583",
+     "novo": false
+    },
+    {
+     "id": 223560422,
+     "data": "2025-02-10",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=25020707485100000000111864326",
+     "novo": false
+    },
+    {
+     "id": 252064998,
+     "data": "2025-04-07",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=25040407480896300000114226020",
+     "novo": false
+    },
+    {
+     "id": 307934284,
+     "data": "2025-06-26",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=25062509293594600000117433182",
+     "novo": false
+    },
+    {
+     "id": 459745724,
+     "data": "2025-11-12",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pjepg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25111112512000000000123430095",
+     "novo": false
+    },
+    {
+     "id": 468829836,
+     "data": "2025-11-25",
+     "tipo": "Intimação",
+     "doc": "Sentença",
+     "link": "https://pjepg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25112408160500000000123888058",
+     "novo": false
+    },
+    {
+     "id": 490356224,
+     "data": "2025-12-17",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjepg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121614230670100000124898007",
+     "novo": false
+    },
+    {
+     "id": 562847931,
+     "data": "2026-03-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031811304638200000030927367",
+     "novo": false
+    },
+    {
+     "id": 613998082,
+     "data": "2026-05-19",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26051812452971200000031554267",
+     "novo": false
+    },
+    {
+     "id": 624700462,
+     "data": "2026-05-29",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26052814122600000000031687224",
+     "novo": false
+    },
+    {
+     "id": 634946568,
+     "data": "2026-06-10",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060909341771800000031790312",
+     "novo": false
+    },
+    {
+     "id": 637408633,
+     "data": "2026-06-12",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061108153579700000031822682",
+     "novo": false
+    },
+    {
+     "id": 702561556,
+     "data": "2026-08-20",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26081913552000000000035996964",
+     "novo": false
+    },
+    {
+     "id": 703502204,
+     "data": "2026-08-21",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082009543820400000036006275",
+     "novo": false
+    },
+    {
+     "id": 724596460,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Intimação",
+     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091106584464500000036231412",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "ALINE COSTA MONTEIRO ORIGA",
+   "novos_ids": [
+    724596460
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
+  {
+   "num": "0006856-62.2013.8.19.0052",
+   "trib": "TJRJ",
+   "instancia": "1º grau",
+   "classe": "PROCEDIMENTO SUMáRIO",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "MARCO AURELIO BARBOSA SOARES",
+   "polo": "Petrobras/Transpetro no polo ativo",
+   "transito": false,
+   "resultado": "",
+   "sinal": "",
+   "resultado_evid": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2025-02-04",
+   "ultima_data": "2026-09-14",
+   "duracao_dias": 587,
+   "qtd_coms": 4,
+   "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00042EE9114736DBBF0E437370DDC27E0405C5184B642460",
+   "coms": [
+    {
+     "id": 221322916,
+     "data": "2025-02-04",
+     "tipo": "Lista de distribuição",
+     "doc": "Apelação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 232169037,
+     "data": "2025-02-26",
+     "tipo": "Pauta de julgamento",
+     "doc": "Apelação",
+     "link": "",
+     "novo": false
+    },
+    {
+     "id": 249293308,
+     "data": "2025-04-01",
+     "tipo": "Intimação",
+     "doc": "Apelação",
+     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00042EE9114736DBBF0E437370DDC27E0405C5184B642460",
+     "novo": false
+    },
+    {
+     "id": 725715721,
+     "data": "2026-09-14",
+     "tipo": "Intimação",
+     "doc": "Decisão",
+     "link": "",
+     "novo": true
+    }
+   ],
+   "de_terceiros": true,
+   "advogado": "JOSE CURCINO AGUIAR GOMES JUNIOR",
+   "novos_ids": [
+    725715721
+   ],
+   "novo": true,
+   "novos_qtd": 1
+  },
   {
    "num": "8152999-12.2022.8.05.0001",
    "trib": "TJBA",
@@ -1353,92 +3427,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "1002069-70.2026.8.26.0068",
-   "trib": "TJSP",
-   "instancia": "1º grau",
-   "classe": "PROCEDIMENTO COMUM CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "—",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2026-04-10",
-   "ultima_data": "2026-09-10",
-   "duracao_dias": 153,
-   "qtd_coms": 7,
-   "link": "https://www.dje.tjsp.jus.br",
-   "coms": [
-    {
-     "id": 581913884,
-     "data": "2026-04-10",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www.dje.tjsp.jus.br",
-     "novo": false
-    },
-    {
-     "id": 584883431,
-     "data": "2026-04-14",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www.dje.tjsp.jus.br",
-     "novo": false
-    },
-    {
-     "id": 610400418,
-     "data": "2026-05-14",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www.dje.tjsp.jus.br",
-     "novo": false
-    },
-    {
-     "id": 614409302,
-     "data": "2026-05-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www.dje.tjsp.jus.br",
-     "novo": false
-    },
-    {
-     "id": 698437648,
-     "data": "2026-08-17",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www.dje.tjsp.jus.br",
-     "novo": false
-    },
-    {
-     "id": 714136783,
-     "data": "2026-09-01",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www.dje.tjsp.jus.br",
-     "novo": false
-    },
-    {
-     "id": 722549257,
-     "data": "2026-09-10",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www.dje.tjsp.jus.br",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "ANDRE FELIPE GIMENEZ DE OLIVEIRA",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "0031658-32.2026.8.19.0000",
    "trib": "TJRJ",
    "instancia": "2º grau (Tribunal)",
@@ -2495,92 +4483,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "8121383-48.2024.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "NAJIB RIBEIRO DA SILVA JUNIOR",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "Perda",
-   "sinal": "sentença improcedente",
-   "resultado_evid": "DISPOSITIVO Ex positis, julgo improcedente o pedido do autor, extinguindo o processo com exame do mérito, fulcrado no artigo 487, I do Código de Processo Civil. Condeno a autora em honorários sucumbenciais no valor de R$9.814,53 (nove mil, oitocentos e quatorze reais e cinquenta",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2024-12-05",
-   "ultima_data": "2026-09-10",
-   "duracao_dias": 644,
-   "qtd_coms": 7,
-   "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090921090499900000163598021",
-   "coms": [
-    {
-     "id": 200780856,
-     "data": "2024-12-05",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 313498562,
-     "data": "2025-07-02",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25070112482646100000485910121",
-     "novo": false
-    },
-    {
-     "id": 470815195,
-     "data": "2025-11-26",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25111111015464700000506075707",
-     "novo": false
-    },
-    {
-     "id": 495616959,
-     "data": "2025-12-22",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121610111332400000511306177",
-     "novo": false
-    },
-    {
-     "id": 560187317,
-     "data": "2026-03-17",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031119512320400000522264174",
-     "novo": false
-    },
-    {
-     "id": 664228755,
-     "data": "2026-07-09",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26070818163926000000158538160",
-     "novo": false
-    },
-    {
-     "id": 723106637,
-     "data": "2026-09-10",
-     "tipo": "Edital",
-     "doc": "Outros Documentos",
-     "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090921090499900000163598021",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "FLAVIO ANDRE ALVES BRITTO",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "0726293-54.2024.8.07.0001",
    "trib": "TJDFT",
    "instancia": "1º grau",
@@ -2990,428 +4892,6 @@
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "0000707-30.2008.8.02.0042",
-   "trib": "TJAL",
-   "instancia": "1º grau",
-   "classe": "FALêNCIA DE EMPRESáRIOS, SOCIEDADES EMPRESáRIAIS, MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "Laginha Agro Industrial S",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": true,
-   "resultado": "Extinto sem mérito",
-   "sinal": "extinto/desistência",
-   "resultado_evid": "Ante o exposto, com fundamento no art. 485, VI, do Código de Processo Civil, julgamos extinto o presente pedido de reserva de crédito trabalhista, sem resolução do mérito, uma vez que a pretensão deduzida já foi apreciada nos autos do processo falimentar nº 0000707-30.2008.8.02.0",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2024-12-20",
-   "ultima_data": "2026-09-09",
-   "duracao_dias": 628,
-   "qtd_coms": 49,
-   "link": "https://www2.tjal.jus.br/cdje",
-   "coms": [
-    {
-     "id": 209225744,
-     "data": "2024-12-20",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 209225886,
-     "data": "2024-12-20",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 210771042,
-     "data": "2025-01-07",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 211050812,
-     "data": "2025-01-08",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 214512355,
-     "data": "2025-01-22",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 220114519,
-     "data": "2025-02-03",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 222810605,
-     "data": "2025-02-06",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 222811634,
-     "data": "2025-02-06",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 234586041,
-     "data": "2025-03-06",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 236051323,
-     "data": "2025-03-07",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 242564169,
-     "data": "2025-03-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 242973145,
-     "data": "2025-03-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 244481690,
-     "data": "2025-03-21",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 247399042,
-     "data": "2025-03-27",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 274303112,
-     "data": "2025-05-20",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 275283938,
-     "data": "2025-05-21",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 275284226,
-     "data": "2025-05-21",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 283504002,
-     "data": "2025-05-29",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 345160246,
-     "data": "2025-08-07",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 345160683,
-     "data": "2025-08-07",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 346070036,
-     "data": "2025-08-07",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 350157378,
-     "data": "2025-08-13",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 403760918,
-     "data": "2025-09-22",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 404338069,
-     "data": "2025-09-22",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 427256767,
-     "data": "2025-10-07",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 436606793,
-     "data": "2025-10-15",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 452290535,
-     "data": "2025-11-04",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 466167342,
-     "data": "2025-11-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 483608872,
-     "data": "2025-12-10",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 490227021,
-     "data": "2025-12-17",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 497076165,
-     "data": "2026-01-05",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 505288969,
-     "data": "2026-01-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 530849613,
-     "data": "2026-02-12",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 533453903,
-     "data": "2026-02-16",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 544703190,
-     "data": "2026-03-02",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 551144153,
-     "data": "2026-03-06",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 590394669,
-     "data": "2026-04-22",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 594147157,
-     "data": "2026-04-27",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 600993356,
-     "data": "2026-05-05",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 623936634,
-     "data": "2026-05-28",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 625791951,
-     "data": "2026-06-01",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 640950333,
-     "data": "2026-06-16",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 648249577,
-     "data": "2026-06-22",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 648250844,
-     "data": "2026-06-22",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 667152690,
-     "data": "2026-07-14",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 701493496,
-     "data": "2026-08-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 703853038,
-     "data": "2026-08-21",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 717182518,
-     "data": "2026-09-03",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    },
-    {
-     "id": 721709388,
-     "data": "2026-09-09",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://www2.tjal.jus.br/cdje",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "LEONARDO MENDES CRUZ",
    "novos_ids": [],
    "novo": false,
    "novos_qtd": 0
@@ -13074,220 +14554,6 @@
    ],
    "de_terceiros": true,
    "advogado": "MARIA EDUARDA QUAGLIO ANTUNES",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "0736135-58.2024.8.07.0001",
-   "trib": "STJ",
-   "instancia": "Superior (STJ)",
-   "classe": "RECURSO ESPECIAL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "EDILSON VIRGINIO DOS SANTOS",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "Perda",
-   "sinal": "sentença improcedente",
-   "resultado_evid": "Ante o exposto, julgo improcedentes os pedidos iniciais, Declaro resolvido o mérito, com fulcro no artigo 487, inciso I, do CPC. Em face da sucumbência, condeno a parte autora ao pagamento das custas processuais e dos honorários advocatícios que fixo em R$ 600,00, nos termos do a",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2024-08-30",
-   "ultima_data": "2026-09-02",
-   "duracao_dias": 733,
-   "qtd_coms": 23,
-   "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=396426434&registro_numero=202600769996&peticao_numero=202600480080&publicacao_data=20260903&formato=PDF",
-   "coms": [
-    {
-     "id": 140722699,
-     "data": "2024-08-30",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24082815074133200000190716886",
-     "novo": false
-    },
-    {
-     "id": 160083741,
-     "data": "2024-10-01",
-     "tipo": "Intimação",
-     "doc": "Certidão",
-     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24093013572292800000194096813",
-     "novo": false
-    },
-    {
-     "id": 196962129,
-     "data": "2024-11-26",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24112218124234100000199122518",
-     "novo": false
-    },
-    {
-     "id": 207576844,
-     "data": "2024-12-18",
-     "tipo": "Intimação",
-     "doc": "Certidão",
-     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24121613091067400000201324623",
-     "novo": false
-    },
-    {
-     "id": 207576852,
-     "data": "2024-12-18",
-     "tipo": "Intimação",
-     "doc": "Certidão",
-     "link": "https://pje.tjdft.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=24121613091067400000201324623",
-     "novo": false
-    },
-    {
-     "id": 227634499,
-     "data": "2025-02-17",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25021415395827500000066450836",
-     "novo": false
-    },
-    {
-     "id": 235700993,
-     "data": "2025-03-07",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25030510012655900000067023326",
-     "novo": false
-    },
-    {
-     "id": 235700995,
-     "data": "2025-03-07",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25030510012655900000067023326",
-     "novo": false
-    },
-    {
-     "id": 251821070,
-     "data": "2025-04-04",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25040316530819900000068121421",
-     "novo": false
-    },
-    {
-     "id": 251821074,
-     "data": "2025-04-04",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25040316530819900000068121421",
-     "novo": false
-    },
-    {
-     "id": 261191963,
-     "data": "2025-04-28",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25042513381438900000068703315",
-     "novo": false
-    },
-    {
-     "id": 261191969,
-     "data": "2025-04-28",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25042513381438900000068703315",
-     "novo": false
-    },
-    {
-     "id": 438324798,
-     "data": "2025-10-17",
-     "tipo": "Edital",
-     "doc": "Pauta de Julgamento",
-     "link": "https://pje2i.tjdft.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/pautaSessaoSemLoginHTML.seam?ca=ce508fdf989702e8e417891268240c6d0a0a897686c75a8b",
-     "novo": false
-    },
-    {
-     "id": 469544166,
-     "data": "2025-11-25",
-     "tipo": "Intimação",
-     "doc": "Ementa",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25112414484669900000074700665",
-     "novo": false
-    },
-    {
-     "id": 494366829,
-     "data": "2025-12-19",
-     "tipo": "Edital",
-     "doc": "57",
-     "link": "https://pje2i.tjdft.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/pautaSessaoSemLoginHTML.seam?ca=a0dc9e721ecf972d9d6942e2e15634762cfc748d3d2ac4ea0a0a897686c75a8b",
-     "novo": false
-    },
-    {
-     "id": 496037697,
-     "data": "2025-12-23",
-     "tipo": "Intimação",
-     "doc": "Certidão",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25122200091377800000077096759",
-     "novo": false
-    },
-    {
-     "id": 532876060,
-     "data": "2026-02-16",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pje2i.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26021310471036100000078239545",
-     "novo": false
-    },
-    {
-     "id": 587789509,
-     "data": "2026-04-17",
-     "tipo": "Intimação",
-     "doc": "ATA DE DISTRIBUIÇÃO",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzcwMDI0OTgwMjAyNjAwNzY5OTk2MTc3NjM0OTgwOTIyNw==",
-     "novo": false
-    },
-    {
-     "id": 589393403,
-     "data": "2026-04-22",
-     "tipo": "Intimação",
-     "doc": "DESPACHO / DECISÃO",
-     "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=55992229&data_pesquisa=23/04/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
-     "novo": false
-    },
-    {
-     "id": 589421591,
-     "data": "2026-04-22",
-     "tipo": "Intimação",
-     "doc": "DESPACHO / DECISÃO",
-     "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=55992229&data_pesquisa=23/04/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
-     "novo": false
-    },
-    {
-     "id": 611819984,
-     "data": "2026-05-15",
-     "tipo": "Intimação",
-     "doc": "VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Interno (AgInt)",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzc0NjI0OTcyMjAyNjAwNzY5OTk2MTc3ODc5NDIxMzk5Nw==",
-     "novo": false
-    },
-    {
-     "id": 690019058,
-     "data": "2026-08-06",
-     "tipo": "Intimação",
-     "doc": "PAUTA DE JULGAMENTOS",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzkwOTUxODg1MjAyNjAwNzY5OTk2MTc4NTk2MzczMTQxNA==",
-     "novo": false
-    },
-    {
-     "id": 715935216,
-     "data": "2026-09-02",
-     "tipo": "Intimação",
-     "doc": "EMENTA / ACORDÃO",
-     "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=396426434&registro_numero=202600769996&peticao_numero=202600480080&publicacao_data=20260903&formato=PDF",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "BRUNA VASCONCELOS PEREIRA DIAS",
    "novos_ids": [],
    "novo": false,
    "novos_qtd": 0
@@ -25645,132 +26911,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "0007275-04.2006.8.19.0028",
-   "trib": "TJRJ",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "—",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": true,
-   "resultado": "Perda",
-   "sinal": "sentença improcedente",
-   "resultado_evid": "DISPOSITIVO/r/nPelo exposto, em cognição exauriente, resolvo o mérito da demanda, nos termos do artigo 487, I do Código de Processo Civil e JULGO IMPROCEDENTES OS PEDIDOS. /r/nCondeno o autor nas custas processuais e taxa judiciária, bem como em honorários advocatícios sucumbenci",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2024-12-10",
-   "ultima_data": "2026-08-24",
-   "duracao_dias": 622,
-   "qtd_coms": 12,
-   "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=00072750420068190028&idDocumento=191787344156978340176670830029&hash=4a7852e123bfd192c46af3abd0e83c80971f7c2907b47ebd8ac1f46798cc1d3e",
-   "coms": [
-    {
-     "id": 202995369,
-     "data": "2024-12-10",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 227877972,
-     "data": "2025-02-17",
-     "tipo": "Intimação",
-     "doc": "Ato Ordinatório Praticado",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 288270254,
-     "data": "2025-06-04",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 354303000,
-     "data": "2025-08-18",
-     "tipo": "Intimação",
-     "doc": "Despacho",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 441697124,
-     "data": "2025-10-22",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 541950991,
-     "data": "2026-02-26",
-     "tipo": "Intimação",
-     "doc": "Ato Ordinatório Praticado",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 554537917,
-     "data": "2026-03-11",
-     "tipo": "Intimação",
-     "doc": "Ato ordinatório",
-     "link": "https://eproc1g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=00072750420068190028&idDocumento=191773103802128899764349188324&hash=b4cd56ca4092c5f2ecf16827766440d057de18b65986a631fd6aa55659c9a957",
-     "novo": false
-    },
-    {
-     "id": 559827880,
-     "data": "2026-03-16",
-     "tipo": "Intimação",
-     "doc": "Audiência",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 598582624,
-     "data": "2026-05-04",
-     "tipo": "Lista de distribuição",
-     "doc": "Outros",
-     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=processo_distribuicao_listar&sinPesquisar=S&numProcesso=00072750420068190028&hash=7e25f39cd0f0f2843115d553294b7f1c3f170bc187b11c967ee0dee1092500e6",
-     "novo": false
-    },
-    {
-     "id": 661404774,
-     "data": "2026-07-07",
-     "tipo": "Intimação",
-     "doc": "Outros",
-     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_pauta&idSessao=191783346460524071629207595222&hash=8d2b2539b16d0707abe65c22b98c0cfe555b5b80d319aeb8789eac1610eecca2",
-     "novo": false
-    },
-    {
-     "id": 680871331,
-     "data": "2026-07-28",
-     "tipo": "Intimação",
-     "doc": "Acórdão",
-     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=00072750420068190028&idDocumento=191785163240278051749351339329&hash=177238378f399d4df003c3bb124fbd39d8752299f584593980def3941343fc4e",
-     "novo": false
-    },
-    {
-     "id": 705535412,
-     "data": "2026-08-24",
-     "tipo": "Intimação",
-     "doc": "DESPACHO/DECISÃO",
-     "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=00072750420068190028&idDocumento=191787344156978340176670830029&hash=4a7852e123bfd192c46af3abd0e83c80971f7c2907b47ebd8ac1f46798cc1d3e",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "HELIO SIQUEIRA JUNIOR",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "0001335-43.2010.5.02.0254",
    "trib": "TRT2",
    "instancia": "1º grau",
@@ -27434,188 +28574,6 @@
    ],
    "de_terceiros": true,
    "advogado": "CID DE CAMARGO JUNIOR",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "7037132-43.2024.8.22.0001",
-   "trib": "TJRO",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "ALINE COSTA MONTEIRO ORIGA",
-   "polo": "Petrobras/Transpetro no polo ativo",
-   "transito": true,
-   "resultado": "Ganho",
-   "sinal": "sentença procedente",
-   "resultado_evid": "Ante o exposto, com fulcro no art. 487, I do Código de Processo Civil, JULGO PROCEDENTE os pedidos narrados na inicial para: 1) ANULAR ao ato de desclassificação do autor como candidato portador de deficiência; 2) RECONHECER a condição do autor como portador de deficiência para f",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2024-07-16",
-   "ultima_data": "2026-08-21",
-   "duracao_dias": 766,
-   "qtd_coms": 19,
-   "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082009543820400000036006275",
-   "coms": [
-    {
-     "id": 105453585,
-     "data": "2024-07-16",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24071508274800000000104073771",
-     "novo": false
-    },
-    {
-     "id": 117158138,
-     "data": "2024-08-08",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24080709462898500000105047323",
-     "novo": false
-    },
-    {
-     "id": 134027619,
-     "data": "2024-08-23",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24082212294200000000105701819",
-     "novo": false
-    },
-    {
-     "id": 134027669,
-     "data": "2024-08-23",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24082212294600000000105701820",
-     "novo": false
-    },
-    {
-     "id": 137803022,
-     "data": "2024-08-27",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24082614233938100000105837394",
-     "novo": false
-    },
-    {
-     "id": 139496293,
-     "data": "2024-08-29",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=24082812435147500000105945583",
-     "novo": false
-    },
-    {
-     "id": 223560422,
-     "data": "2025-02-10",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=25020707485100000000111864326",
-     "novo": false
-    },
-    {
-     "id": 252064998,
-     "data": "2025-04-07",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=25040407480896300000114226020",
-     "novo": false
-    },
-    {
-     "id": 307934284,
-     "data": "2025-06-26",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjepg.tjro.jus.br/Processo/ConsultaDocumento/listView.seam?x=25062509293594600000117433182",
-     "novo": false
-    },
-    {
-     "id": 459745724,
-     "data": "2025-11-12",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pjepg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25111112512000000000123430095",
-     "novo": false
-    },
-    {
-     "id": 468829836,
-     "data": "2025-11-25",
-     "tipo": "Intimação",
-     "doc": "Sentença",
-     "link": "https://pjepg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25112408160500000000123888058",
-     "novo": false
-    },
-    {
-     "id": 490356224,
-     "data": "2025-12-17",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjepg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25121614230670100000124898007",
-     "novo": false
-    },
-    {
-     "id": 562847931,
-     "data": "2026-03-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26031811304638200000030927367",
-     "novo": false
-    },
-    {
-     "id": 613998082,
-     "data": "2026-05-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26051812452971200000031554267",
-     "novo": false
-    },
-    {
-     "id": 624700462,
-     "data": "2026-05-29",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26052814122600000000031687224",
-     "novo": false
-    },
-    {
-     "id": 634946568,
-     "data": "2026-06-10",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060909341771800000031790312",
-     "novo": false
-    },
-    {
-     "id": 637408633,
-     "data": "2026-06-12",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26061108153579700000031822682",
-     "novo": false
-    },
-    {
-     "id": 702561556,
-     "data": "2026-08-20",
-     "tipo": "Intimação",
-     "doc": "Decisão",
-     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26081913552000000000035996964",
-     "novo": false
-    },
-    {
-     "id": 703502204,
-     "data": "2026-08-21",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26082009543820400000036006275",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "ALINE COSTA MONTEIRO ORIGA",
    "novos_ids": [],
    "novo": false,
    "novos_qtd": 0
@@ -30295,148 +31253,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "5026713-03.2023.8.13.0027",
-   "trib": "TJMG",
-   "instancia": "1º grau",
-   "classe": "CUMPRIMENTO DE SENTENçA",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "LUCIO PAULO BRAGA PINHEIRO CHAGAS CPF",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": true,
-   "resultado": "Ganho",
-   "sinal": "sentença procedente",
-   "resultado_evid": "Ante o exposto, e por tudo mais que dos autos consta, JULGO PROCEDENTE O PEDIDO INICIAL, com resolução do mérito, nos termos do art. 487, I, do Código de Processo Civil, para: A) DECLARAR NULO o ato administrativo que excluiu a parte autora, LÚCIO PAULO BRAGA PINHEIRO CHAGAS, da",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2025-02-21",
-   "ultima_data": "2026-08-19",
-   "duracao_dias": 544,
-   "qtd_coms": 14,
-   "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26081823302445600010727356959",
-   "coms": [
-    {
-     "id": 230659376,
-     "data": "2025-02-21",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25022013503468900010392714005",
-     "novo": false
-    },
-    {
-     "id": 236266311,
-     "data": "2025-03-10",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25030709320274100010401680120",
-     "novo": false
-    },
-    {
-     "id": 322395936,
-     "data": "2025-07-11",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25071010572896100010486966057",
-     "novo": false
-    },
-    {
-     "id": 367037829,
-     "data": "2025-09-01",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25082922371699400010524551123",
-     "novo": false
-    },
-    {
-     "id": 398829205,
-     "data": "2025-09-18",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25091709423673500010536956979",
-     "novo": false
-    },
-    {
-     "id": 420322105,
-     "data": "2025-10-01",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=25093017294661200010546802524",
-     "novo": false
-    },
-    {
-     "id": 458456716,
-     "data": "2025-11-11",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?tipoPesquisa2=1&txtProcesso=50267130320238130027&comrCodigo=0024&tipoPessoa=X&naturezaProcesso=0&situacaoParte=X&numero=20&select=1&tipoConsulta=1&natureza=0&ativoBaixado=X&listaProcessos=50267130320238130027",
-     "novo": false
-    },
-    {
-     "id": 476094301,
-     "data": "2025-12-04",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?tipoPesquisa2=1&txtProcesso=50267130320238130027&comrCodigo=0024&tipoPessoa=X&naturezaProcesso=0&situacaoParte=X&numero=20&select=1&tipoConsulta=1&natureza=0&ativoBaixado=X&listaProcessos=50267130320238130027",
-     "novo": false
-    },
-    {
-     "id": 492383577,
-     "data": "2025-12-18",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?tipoPesquisa2=1&txtProcesso=50267130320238130027&comrCodigo=0024&tipoPessoa=X&naturezaProcesso=0&situacaoParte=X&numero=20&select=1&tipoConsulta=1&natureza=0&ativoBaixado=X&listaProcessos=50267130320238130027",
-     "novo": false
-    },
-    {
-     "id": 492403198,
-     "data": "2025-12-18",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www4.tjmg.jus.br/juridico/sf/proc_resultado2.jsp?tipoPesquisa2=1&txtProcesso=50267130320238130027&comrCodigo=0024&tipoPessoa=X&naturezaProcesso=0&situacaoParte=X&numero=20&select=1&tipoConsulta=1&natureza=0&ativoBaixado=X&listaProcessos=50267130320238130027",
-     "novo": false
-    },
-    {
-     "id": 534598918,
-     "data": "2026-02-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26021818010815700010625240096",
-     "novo": false
-    },
-    {
-     "id": 600479025,
-     "data": "2026-05-05",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26050409392085800010668433525",
-     "novo": false
-    },
-    {
-     "id": 635953979,
-     "data": "2026-06-10",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26060922095661800010689603696",
-     "novo": false
-    },
-    {
-     "id": 701806955,
-     "data": "2026-08-19",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26081823302445600010727356959",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "ESIO COSTA JUNIOR",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "0379490-34.2016.8.19.0001",
    "trib": "TJRJ",
    "instancia": "1º grau",
@@ -31324,76 +32140,6 @@
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8002093-31.2024.8.05.0036",
-   "trib": "TJBA",
-   "instancia": "1º grau",
-   "classe": "PROCEDIMENTO COMUM CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "—",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": true,
-   "resultado": "Ganho",
-   "sinal": "sentença procedente",
-   "resultado_evid": "Ante o exposto e considerando tudo mais que dos autos consta, JULGO PROCEDENTES os pedidos formulados pelo Autor, resolvendo definitivamente o mérito da demanda com fundamento no art. 487, inciso I, do Código de Processo Civil.DECLARO A NULIDADE ABSOLUTA do ato administrativo de",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2024-12-04",
-   "ultima_data": "2026-08-18",
-   "duracao_dias": 622,
-   "qtd_coms": 5,
-   "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26081715504800200000546648667",
-   "coms": [
-    {
-     "id": 200252058,
-     "data": "2024-12-04",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 223034009,
-     "data": "2025-02-07",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 477064621,
-     "data": "2025-12-03",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120213582135200000509255865",
-     "novo": false
-    },
-    {
-     "id": 477064962,
-     "data": "2025-12-03",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=25120213582135200000509255865",
-     "novo": false
-    },
-    {
-     "id": 699905913,
-     "data": "2026-08-18",
-     "tipo": "Intimação",
-     "doc": "Intimação",
-     "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26081715504800200000546648667",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "RAPHAEL DE SOUZA ALMEIDA SANTOS",
    "novos_ids": [],
    "novo": false,
    "novos_qtd": 0
@@ -34392,84 +35138,6 @@
    ],
    "de_terceiros": true,
    "advogado": "JOSIANE ALEXSANDRA FERREIRA GASPARINI PALMEIRA",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "0217325-98.2020.8.19.0001",
-   "trib": "TJRJ",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "PEDRO ESTEVAM SILVA THOMAZ",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2025-09-24",
-   "ultima_data": "2026-08-12",
-   "duracao_dias": 322,
-   "qtd_coms": 6,
-   "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=000410AC0AF3FE32A6E57252CE8108729021C51B154F2C20",
-   "coms": [
-    {
-     "id": 411668248,
-     "data": "2025-09-24",
-     "tipo": "Lista de distribuição",
-     "doc": "Apelação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 577247919,
-     "data": "2026-04-07",
-     "tipo": "Pauta de julgamento",
-     "doc": "Apelação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 607359073,
-     "data": "2026-05-12",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004762BFA3ADC427096ED1E3ABB2FD053C7C51A50490D10",
-     "novo": false
-    },
-    {
-     "id": 612690498,
-     "data": "2026-05-18",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004E158DA57F4C7BEE26275548B71F17CEFC51A524C3F22",
-     "novo": false
-    },
-    {
-     "id": 673449371,
-     "data": "2026-07-21",
-     "tipo": "Pauta de julgamento",
-     "doc": "Apelação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 693657893,
-     "data": "2026-08-12",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=000410AC0AF3FE32A6E57252CE8108729021C51B154F2C20",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "ANDRE LUIZ TEIXEIRA PERDIZ PINHEIRO",
    "novos_ids": [],
    "novo": false,
    "novos_qtd": 0
@@ -49441,180 +50109,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "0101036-32.2022.5.01.0044",
-   "trib": "TRT1",
-   "instancia": "1º grau",
-   "classe": "AçãO TRABALHISTA - RITO ORDINáRIO",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "—",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": true,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2024-09-11",
-   "ultima_data": "2026-07-06",
-   "duracao_dias": 663,
-   "qtd_coms": 18,
-   "link": "https://pje.trt1.jus.br/pjekz/validacao/26070510373813800000268673615?instancia=1",
-   "coms": [
-    {
-     "id": 148679972,
-     "data": "2024-09-11",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/24091007151934200000209828705?instancia=1",
-     "novo": false
-    },
-    {
-     "id": 148679980,
-     "data": "2024-09-11",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/24091007151934200000209828705?instancia=1",
-     "novo": false
-    },
-    {
-     "id": 199703735,
-     "data": "2024-12-02",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/24120110195681900000216405115?instancia=1",
-     "novo": false
-    },
-    {
-     "id": 199703739,
-     "data": "2024-12-02",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/24120110195681900000216405115?instancia=1",
-     "novo": false
-    },
-    {
-     "id": 224349478,
-     "data": "2025-02-11",
-     "tipo": "Lista de distribuição",
-     "doc": "Distribuição",
-     "link": "https://pje.trt1.jus.br/pjekz/visualizacao/25020800302025300000115387893?instancia=2",
-     "novo": false
-    },
-    {
-     "id": 244269108,
-     "data": "2025-03-21",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/25032015484726000000117848377?instancia=2",
-     "novo": false
-    },
-    {
-     "id": 244269134,
-     "data": "2025-03-21",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/25032015484759600000117848379?instancia=2",
-     "novo": false
-    },
-    {
-     "id": 256261874,
-     "data": "2025-04-14",
-     "tipo": "Edital",
-     "doc": "Edital",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/25041119010837100000119600474?instancia=2",
-     "novo": false
-    },
-    {
-     "id": 272940754,
-     "data": "2025-05-19",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/25051616521480300000121411306?instancia=2",
-     "novo": false
-    },
-    {
-     "id": 292120547,
-     "data": "2025-06-09",
-     "tipo": "Edital",
-     "doc": "Edital",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/25060608431811300000122739500?instancia=2",
-     "novo": false
-    },
-    {
-     "id": 292120508,
-     "data": "2025-06-09",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/25060608431784100000122739499?instancia=2",
-     "novo": false
-    },
-    {
-     "id": 309074275,
-     "data": "2025-06-27",
-     "tipo": "Lista de distribuição",
-     "doc": "Distribuição",
-     "link": "https://pje.tst.jus.br/pjekz/visualizacao/25062600302965200000100034746?instancia=3",
-     "novo": false
-    },
-    {
-     "id": 342344818,
-     "data": "2025-08-04",
-     "tipo": "Lista de distribuição",
-     "doc": "Distribuição",
-     "link": "https://pje.tst.jus.br/pjekz/visualizacao/25080200302907400000109138059?instancia=3",
-     "novo": false
-    },
-    {
-     "id": 510400855,
-     "data": "2026-01-23",
-     "tipo": "Intimação",
-     "doc": "Pauta de Julgamento",
-     "link": "https://sessao-integracao-backend.prd.rede.tst/documentos/PJe--2506/101036-32.2022.5.01.0044/certidao-inclusao-pauta/MjMvMDEvMjAyNiAwMDowMDowMCMxMzA4MjY5NzM3",
-     "novo": false
-    },
-    {
-     "id": 562338971,
-     "data": "2026-03-18",
-     "tipo": "Intimação",
-     "doc": "Pauta de Julgamento",
-     "link": "https://sessao-integracao-backend.prd.rede.tst/documentos/PJe--2615/101036-32.2022.5.01.0044/certidao-inclusao-pauta/MTgvMDMvMjAyNiAwMDowMDowMCMxMzA4MjY5NzM3",
-     "novo": false
-    },
-    {
-     "id": 589628638,
-     "data": "2026-04-22",
-     "tipo": "Intimação",
-     "doc": "Acórdão",
-     "link": "https://pje.tst.jus.br/pjekz/validacao/26041716504891700000172570786?instancia=3",
-     "novo": false
-    },
-    {
-     "id": 589628674,
-     "data": "2026-04-22",
-     "tipo": "Intimação",
-     "doc": "Acórdão",
-     "link": "https://pje.tst.jus.br/pjekz/validacao/26041716505006400000172570795?instancia=3",
-     "novo": false
-    },
-    {
-     "id": 660590190,
-     "data": "2026-07-06",
-     "tipo": "Intimação",
-     "doc": "Notificação",
-     "link": "https://pje.trt1.jus.br/pjekz/validacao/26070510373813800000268673615?instancia=1",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "PAULA FERNANDES BRANCO",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "0806601-60.2024.8.19.0028",
    "trib": "TJRJ",
    "instancia": "1º grau",
@@ -51586,212 +52080,6 @@
    ],
    "de_terceiros": true,
    "advogado": "IVA MAGALI DA SILVA NETO",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "0004003-80.2013.8.19.0052",
-   "trib": "STJ",
-   "instancia": "Superior (STJ)",
-   "classe": "AGRAVO EM RECURSO ESPECIAL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "RENATO NANCI DE ARAUJO SILVA",
-   "polo": "Petrobras/Transpetro no polo ativo",
-   "transito": false,
-   "resultado": "Ganho",
-   "sinal": "recurso da Petrobras desprovido",
-   "resultado_evid": "por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Teodoro",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": true,
-   "data_inicio": "2025-02-04",
-   "ultima_data": "2026-06-26",
-   "duracao_dias": 507,
-   "qtd_coms": 22,
-   "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=382096135&registro_numero=202503995953&peticao_numero=202600457034&publicacao_data=20260629&formato=PDF",
-   "coms": [
-    {
-     "id": 221322917,
-     "data": "2025-02-04",
-     "tipo": "Lista de distribuição",
-     "doc": "Apelação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 237240988,
-     "data": "2025-03-11",
-     "tipo": "Pauta de julgamento",
-     "doc": "Apelação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 249293305,
-     "data": "2025-04-01",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=000492C2D1AE6DCC29C4141C9391027790BFC5184B642325",
-     "novo": false
-    },
-    {
-     "id": 311752485,
-     "data": "2025-07-01",
-     "tipo": "Intimação",
-     "doc": "RECURSO ESPECIAL - CÍVEL",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00041172A8DF34F1B274189296436E7C82B8C5191E412C49",
-     "novo": false
-    },
-    {
-     "id": 311752516,
-     "data": "2025-07-01",
-     "tipo": "Intimação",
-     "doc": "RECURSO EXTRAORDINÁRIO - CÍVEL",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00042A28BEFB7E22C2E76620DD754A5B6760C5191E41392F",
-     "novo": false
-    },
-    {
-     "id": 357172144,
-     "data": "2025-08-21",
-     "tipo": "Intimação",
-     "doc": "RECURSO ESPECIAL - CÍVEL",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00048DAC80800ABC922192A5F39F10F90FD9C5193C233F5A",
-     "novo": false
-    },
-    {
-     "id": 357172497,
-     "data": "2025-08-21",
-     "tipo": "Intimação",
-     "doc": "RECURSO EXTRAORDINÁRIO - CÍVEL",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004FF25BDF263FB40D15D3B3043F0AF23BFC5193C233225",
-     "novo": false
-    },
-    {
-     "id": 379849646,
-     "data": "2025-09-09",
-     "tipo": "Intimação",
-     "doc": "RECURSO EXTRAORDINARIO COM AGRAVO - CÍVEL",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004FE799792380AC9DA904F58518B997615C51947022E38",
-     "novo": false
-    },
-    {
-     "id": 379849648,
-     "data": "2025-09-09",
-     "tipo": "Intimação",
-     "doc": "AGRAVO EM RECURSO ESPECIAL - CÍVEL",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=0004F9D996E1985064E915A3E67F3B45ACF30BC519470220",
-     "novo": false
-    },
-    {
-     "id": 408067582,
-     "data": "2025-09-23",
-     "tipo": "Intimação",
-     "doc": "AGRAVO EM RECURSO ESPECIAL - CÍVEL",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=000436CCEA9EBEEAC4AA65D718A233CB5B7CC5194E0F300A",
-     "novo": false
-    },
-    {
-     "id": 408067585,
-     "data": "2025-09-23",
-     "tipo": "Intimação",
-     "doc": "RECURSO EXTRAORDINARIO COM AGRAVO - CÍVEL",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00044D294DE3D32E4F1BADA2F726E48540BEC5194E0F431E",
-     "novo": false
-    },
-    {
-     "id": 455125590,
-     "data": "2025-11-06",
-     "tipo": "Intimação",
-     "doc": "ATA DE DISTRIBUIÇÃO",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzQ1MjU5MjI3MjAyNTAzOTk1OTUzMTc2MjM3NDAwMDIyMA==",
-     "novo": false
-    },
-    {
-     "id": 503449964,
-     "data": "2026-01-15",
-     "tipo": "Intimação",
-     "doc": "DESPACHO / DECISÃO",
-     "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=53608265&data_pesquisa=16/01/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
-     "novo": false
-    },
-    {
-     "id": 523390557,
-     "data": "2026-02-05",
-     "tipo": "Intimação",
-     "doc": "Vista dos Autos às Partes pelo prazo legal",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzU3MDc3MDA4MjAyNTAzOTk1OTUzMTc3MDI0MjQ0MjE4NQ==",
-     "novo": false
-    },
-    {
-     "id": 523390730,
-     "data": "2026-02-05",
-     "tipo": "Intimação",
-     "doc": "VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Interno (AgInt)",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzU2ODgwMTUzMjAyNTAzOTk1OTUzMTc3MDI0MjQ0NDc2OQ==",
-     "novo": false
-    },
-    {
-     "id": 528112261,
-     "data": "2026-02-11",
-     "tipo": "Intimação",
-     "doc": "DESPACHO / DECISÃO",
-     "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=54004096&data_pesquisa=12/02/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
-     "novo": false
-    },
-    {
-     "id": 553415712,
-     "data": "2026-03-10",
-     "tipo": "Intimação",
-     "doc": "ATA DE DISTRIBUIÇÃO",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzYyNjYwMTYzMjAyNTAzOTk1OTUzMTc3MzA2MTIwODU2Mg==",
-     "novo": false
-    },
-    {
-     "id": 572491264,
-     "data": "2026-03-30",
-     "tipo": "Intimação",
-     "doc": "PAUTA DE JULGAMENTOS",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzY2NjQ3ODM0MjAyNTAzOTk1OTUzMTc3NDY0MzQ4Mzc4NQ==",
-     "novo": false
-    },
-    {
-     "id": 600421229,
-     "data": "2026-05-05",
-     "tipo": "Intimação",
-     "doc": "EMENTA / ACORDÃO",
-     "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=372267135&registro_numero=202503995953&peticao_numero=202600071986&publicacao_data=20260506&formato=PDF",
-     "novo": false
-    },
-    {
-     "id": 607772461,
-     "data": "2026-05-12",
-     "tipo": "Intimação",
-     "doc": "VISTA à(s) parte(s) embargada(s) para impugnação dos Embargos de Declaração (EDcl)",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/MzczODIxMDY3MjAyNTAzOTk1OTUzMTc3ODUyNzgxMzI5MQ==",
-     "novo": false
-    },
-    {
-     "id": 623694739,
-     "data": "2026-05-28",
-     "tipo": "Intimação",
-     "doc": "PAUTA DE JULGAMENTOS",
-     "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzc3MDc5ODU3MjAyNTAzOTk1OTUzMTc3OTkxMzg2Nzk5MQ==",
-     "novo": false
-    },
-    {
-     "id": 652428754,
-     "data": "2026-06-26",
-     "tipo": "Intimação",
-     "doc": "EMENTA / ACORDÃO",
-     "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=382096135&registro_numero=202503995953&peticao_numero=202600457034&publicacao_data=20260629&formato=PDF",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "SÉRGIO ALEXANDRE CUNHA CAMARGO",
    "novos_ids": [],
    "novo": false,
    "novos_qtd": 0
@@ -77727,60 +78015,6 @@
    "novos_qtd": 0
   },
   {
-   "num": "0006856-62.2013.8.19.0052",
-   "trib": "TJRJ",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "APELAçãO CíVEL",
-   "objeto": "Concurso/Seleção Petrobras (PSP)",
-   "cliente": "MARCO AURELIO BARBOSA SOARES",
-   "polo": "Petrobras/Transpetro no polo ativo",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "resultado_evid": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "2025-02-04",
-   "ultima_data": "2025-04-01",
-   "duracao_dias": 56,
-   "qtd_coms": 3,
-   "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00042EE9114736DBBF0E437370DDC27E0405C5184B642460",
-   "coms": [
-    {
-     "id": 221322916,
-     "data": "2025-02-04",
-     "tipo": "Lista de distribuição",
-     "doc": "Apelação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 232169037,
-     "data": "2025-02-26",
-     "tipo": "Pauta de julgamento",
-     "doc": "Apelação",
-     "link": "",
-     "novo": false
-    },
-    {
-     "id": 249293308,
-     "data": "2025-04-01",
-     "tipo": "Intimação",
-     "doc": "Apelação",
-     "link": "https://www3.tjrj.jus.br/gedcacheweb/default.aspx?UZIP=1&GEDID=00042EE9114736DBBF0E437370DDC27E0405C5184B642460",
-     "novo": false
-    }
-   ],
-   "de_terceiros": true,
-   "advogado": "JOSE CURCINO AGUIAR GOMES JUNIOR",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
    "num": "0732064-81.2022.8.07.0001",
    "trib": "TJDFT",
    "instancia": "1º grau",
@@ -85531,35 +85765,6 @@
    "duracao_dias": "",
    "qtd_coms": 0,
    "link": "https://www.jusbrasil.com.br/processos/nome/29769663/luig-almeida-mota",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8183709-73.2026.8.05.0001",
-   "trib": "TJBA",
-   "instancia": "1º grau",
-   "classe": "Origem · 1º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "Caroline Nunes Cipriano",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://consultapublicapje.tjba.jus.br/pje/ConsultaPublica/listView.seam",
    "coms": [],
    "fonte": "TJBA (fonte externa)",
    "de_terceiros": false,
