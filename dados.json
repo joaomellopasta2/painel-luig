@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-17T00:28-03:00",
- "gerado_em_label": "17/09/2026 00:28",
+ "gerado_em": "2026-09-17T12:17-03:00",
+ "gerado_em_label": "17/09/2026 12:17",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 957,
- "novidades_qtd": 24,
- "rodada_anterior": "2026-09-15T12:16-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-17T00:28-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -211,16 +211,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091619233529200000551664557",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    730049610
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0000904-53.2017.5.05.0036",
@@ -403,7 +401,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26091611240922600000066963215?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 729219397,
@@ -411,17 +409,14 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26091611240955700000066963216?instancia=2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LEON ANGELO MATTEI",
-   "novos_ids": [
-    729219347,
-    729219397
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0899253-80.2024.8.19.0001",
@@ -548,16 +543,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO/DECISÃO",
      "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=08992538020248190001&idDocumento=191789512523288158773992387574&hash=64107f8aa4de70145167d64a32a5ce655484187cbf45e509f4a73aa76e36b5ab",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "YASMIN PARENTE DE FIGUEIREDO E SILVA",
-   "novos_ids": [
-    729923704
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8002093-31.2024.8.05.0036",
@@ -636,16 +629,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091620460556500000551670270",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "RAPHAEL DE SOUZA ALMEIDA SANTOS",
-   "novos_ids": [
-    730110603
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "1019296-03.2026.8.13.0079",
@@ -700,16 +691,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://eproc1g.tjmg.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=10192960320268130079&idDocumento=11789606773024184113935713258&hash=54c109cd36da02750760ee8233188ea6d7e62d4e79b9983189d386361eebfac1",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "JULIANE VIEIRA DE SOUZA",
-   "novos_ids": [
-    730139998
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0722402-25.2024.8.07.0001",
@@ -1004,16 +993,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO / DECISÃO",
      "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=60055639&data_pesquisa=18/09/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "FRANCISCO SCIPIAO DA COSTA",
-   "novos_ids": [
-    729758434
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8036976-44.2026.8.05.0000",
@@ -1060,16 +1047,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090410465075500000159752301",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "VICTOR MAYK DA SILVA MOREIRA",
-   "novos_ids": [
-    729181606
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0741527-13.2023.8.07.0001",
@@ -1340,16 +1325,14 @@
      "tipo": "Intimação",
      "doc": "VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Interno (AgInt)",
      "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk5NDgzMDM0MjAyNjAwOTUwMzMxMTc4OTU4NzAwNzcxMQ==",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "CARINE PINHEIRO SILVA",
-   "novos_ids": [
-    729753143
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8067835-43.2026.8.05.0000",
@@ -1564,16 +1547,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090413242984800000549996469",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    728253526
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8039517-50.2026.8.05.0000",
@@ -1628,16 +1609,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091516465075400000164194398",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    728397863
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8083270-54.2026.8.05.0001",
@@ -1684,16 +1663,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091413385997200000551073754",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    728629104
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8108569-67.2025.8.05.0001",
@@ -1780,16 +1757,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091514334564600000164163552",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "CAIO FELIPE LIMA DA SILVA",
-   "novos_ids": [
-    728148127
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8038448-80.2026.8.05.0000",
@@ -1844,16 +1819,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091511160397500000164098974",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "JUVENAL SERGIO LIMA DE OLIVEIRA",
-   "novos_ids": [
-    728199170
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0846002-16.2025.8.19.0001",
@@ -1932,16 +1905,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=26091512425546700000291246432",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "CARLOS FERNANDO DE SIQUEIRA CASTRO",
-   "novos_ids": [
-    728022187
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8034912-61.2026.8.05.0000",
@@ -1996,16 +1967,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091513422395400000164154041",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "CAMILA BASTOS BACELAR COSTA",
-   "novos_ids": [
-    728047217
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0000647-09.2023.5.05.0039",
@@ -2324,16 +2293,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26091109320278400000125429965?instancia=1",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "NEY JOSE CAMPOS",
-   "novos_ids": [
-    728547639
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0269642-49.2015.8.19.0001",
@@ -2404,16 +2371,14 @@
      "tipo": "Pauta de julgamento",
      "doc": "Apelação",
      "link": "",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "RICARDO LOPES GODOY",
-   "novos_ids": [
-    728520117
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8240082-61.2025.8.05.0001",
@@ -2484,16 +2449,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091114502434400000160288402",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "RAFAEL GARRIDO FRANK",
-   "novos_ids": [
-    728213532
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5014246-51.2024.8.24.0091",
@@ -2572,16 +2535,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO/DECISÃO",
      "link": "https://eproc1g.tjsc.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=50142465120248240091&idDocumento=311789490393801680962406631290&hash=e3aaa4b09f5526f81deb6c192eeeb649583ba3dbef829670f8371daf23d5ce54",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "MANOELLA PEREIRA BOTELHO",
-   "novos_ids": [
-    728318114
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0050880-28.2012.8.17.0001",
@@ -2628,16 +2589,14 @@
      "tipo": "Intimação",
      "doc": "Intimação (Outros)",
      "link": "https://pje.cloud.tjpe.jus.br:443/2g/Processo/ConsultaDocumento/listView.seam?x=26090316245691800000064378190",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "PEDRO ABDON LEMOS PINHO",
-   "novos_ids": [
-    727896332
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0558158-46.2018.8.05.0001",
@@ -2740,16 +2699,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091511454884800000164129001",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "SHEILA SILVA DIAS ALVES",
-   "novos_ids": [
-    727848256
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0221240-63.2017.8.19.0001",
@@ -2828,16 +2785,14 @@
      "tipo": "Lista de distribuição",
      "doc": "Apelação",
      "link": "",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "THIAGO SOARES GARCIA",
-   "novos_ids": [
-    727826957
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0000691-38.2011.5.05.0010",
@@ -3140,7 +3095,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26091511485936100000125612755?instancia=1",
-     "novo": true
+     "novo": false
     },
     {
      "id": 728736448,
@@ -3148,17 +3103,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26091511485936100000125612755?instancia=1",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "RUBENS MARIO DE MACEDO FILHO",
-   "novos_ids": [
-    728736440,
-    728736448
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5023354-70.2025.4.03.0000",
@@ -3205,16 +3157,14 @@
      "tipo": "Intimação",
      "doc": "ATA DE DISTRIBUIÇÃO",
      "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk5MzY2OTkwMjAyNjAzNzc3MDQ2MTc4OTUwMDY2MTk2Mw==",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ESIO COSTA JUNIOR",
-   "novos_ids": [
-    728364410
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8068105-67.2026.8.05.0000",
