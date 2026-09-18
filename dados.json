@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-18T00:23-03:00",
- "gerado_em_label": "18/09/2026 00:23",
+ "gerado_em": "2026-09-18T12:20-03:00",
+ "gerado_em_label": "18/09/2026 12:20",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 959,
- "novidades_qtd": 17,
- "rodada_anterior": "2026-09-17T12:17-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-18T00:23-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -123,16 +123,14 @@
      "tipo": "Edital",
      "doc": "Outros Documentos",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091720560277700000164575126",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    731443882
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8021904-17.2026.8.05.0000",
@@ -203,7 +201,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091617512283800000164379727",
-     "novo": true
+     "novo": false
     },
     {
      "id": 730758224,
@@ -211,17 +209,14 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091617512283800000164379727",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    730758222,
-    730758224
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8071639-19.2026.8.05.0000",
@@ -368,16 +363,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091710463821200000551736792",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    731439687
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8024645-35.2023.8.05.0000",
@@ -536,16 +529,14 @@
      "tipo": "Intimação",
      "doc": "VISTA à(s) parte(s) agravada(s) para impugnação do Agravo Interno (AgInt)",
      "link": "https://justica.web.stj.jus.br/api/pcp/documentos/pdf/dinamico/Mzk5NzYxNzY3MjAyNjAxMzQ1NjM1MTc4OTY3NTIxMzQ0NQ==",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    731089635
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0730031-84.2023.8.07.0001",
@@ -712,16 +703,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091717132401000000263691315",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "MARCELO RODRIGUES XAVIER",
-   "novos_ids": [
-    731182146
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0700959-93.2026.8.07.0018",
@@ -824,16 +813,14 @@
      "tipo": "Edital",
      "doc": "Pauta de Julgamento",
      "link": "https://pje2i.tjdft.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/pautaSessaoSemLoginHTML.seam?ca=1fdd7a0dd33667413d7b9410d5418cef9f91eb540ed03c8d",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "CARLOS FERNANDO DE SIQUEIRA CASTRO",
-   "novos_ids": [
-    731006095
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0100193-71.2026.5.01.0062",
@@ -904,16 +891,14 @@
      "tipo": "Lista de distribuição",
      "doc": "Distribuição",
      "link": "https://pje.trt1.jus.br/pjekz/visualizacao/26091700301772000000151083927?instancia=2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "TAISA NASCIMENTO DA SILVA",
-   "novos_ids": [
-    730261927
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5130490-26.2024.8.21.0001",
@@ -1032,16 +1017,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://eproc2g.tjrs.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=51304902620248210001&idDocumento=11789636638724028967027301485&hash=d8c66f016a7b67253dd4d29af2fe522c9d3016335275367e504ddea642b567ad",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "JOÃO GONÇALVES FRANCO FILHO",
-   "novos_ids": [
-    730251712
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8004329-56.2025.8.05.0250",
@@ -1104,16 +1087,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091609482139600000160756222",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL ALVES DA SILVA ASSUNCAO",
-   "novos_ids": [
-    730338129
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8019115-81.2022.8.05.0001",
@@ -1176,7 +1157,7 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091608530890800000159856102",
-     "novo": true
+     "novo": false
     },
     {
      "id": 730469747,
@@ -1184,17 +1165,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091608530890800000159856102",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "MICHEL CAIQUE RUSCIOLELLI BARBOSA",
-   "novos_ids": [
-    730469746,
-    730469747
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0801095-14.2025.8.19.0014",
@@ -1265,16 +1243,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=26091716393771900000291912117",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "CARLOS FERNANDO DE SIQUEIRA CASTRO",
-   "novos_ids": [
-    731088868
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0802331-08.2024.8.19.0023",
@@ -1385,16 +1361,14 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=08023310820248190023&idDocumento=191789583503704894422433345953&hash=345ad51c8b2b05cad3277711c96160e3f40d0e45ecc8be8771424c5726b0b6d2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "GIOVANNI BRUNO DE ARAUJO SAVINI",
-   "novos_ids": [
-    730640794
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0954344-24.2025.8.19.0001",
@@ -1457,16 +1431,14 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=26091714284784200000290245332",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LEANDRO DIAS THOME",
-   "novos_ids": [
-    730920570
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5002783-36.2024.4.03.6104",
@@ -1545,16 +1517,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje1g.trf3.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26090913430804200000580283018",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL ALVARES CRUZ PEIXOTO FERREIRA",
-   "novos_ids": [
-    730491372
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0254506-62.2021.8.06.0001",
@@ -1665,16 +1635,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pje.tjce.jus.br:443/pje2grau/Processo/ConsultaDocumento/listView.seam?x=26091710155388000000042366491",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LEONARDO MENDES CRUZ",
-   "novos_ids": [
-    730624568
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0068200-26.2010.5.17.0191",
@@ -1817,7 +1785,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26091713403477600000047927319?instancia=1",
-     "novo": true
+     "novo": false
     },
     {
      "id": 730762592,
@@ -1825,17 +1793,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26091713403477600000047927319?instancia=1",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "AUGUSTO CARLOS LAMEGO JUNIOR",
-   "novos_ids": [
-    730762521,
-    730762592
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5000199-11.2026.4.03.6141",
@@ -1938,7 +1903,7 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje1g.trf3.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26091717284374900000581904688",
-     "novo": true
+     "novo": false
     },
     {
      "id": 731133634,
@@ -1946,17 +1911,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje1g.trf3.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26091717284374900000581904688",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "VIVIANE MASOTTI",
-   "novos_ids": [
-    731133627,
-    731133634
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8066602-11.2026.8.05.0000",
