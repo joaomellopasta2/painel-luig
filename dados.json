@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-22T00:17-03:00",
- "gerado_em_label": "22/09/2026 00:17",
+ "gerado_em": "2026-09-22T12:22-03:00",
+ "gerado_em_label": "22/09/2026 12:22",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 902,
- "novidades_qtd": 15,
- "rodada_anterior": "2026-09-21T12:22-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-22T00:17-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -89,16 +89,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091815434317500000551979396",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    733314097
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8103787-22.2022.8.05.0001",
@@ -153,16 +151,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26090811562604300000550123651",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    733655529
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8191689-71.2026.8.05.0001",
@@ -279,16 +275,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091718244370000000162065920",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    734033812
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8081271-69.2026.8.05.0000",
@@ -403,16 +397,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091819114746400000552093375",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    734177248
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0713867-10.2024.8.07.0001",
@@ -587,16 +579,14 @@
      "tipo": "Intimação",
      "doc": "Certidão",
      "link": "https://pje.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26092114493714000000264028096",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    733783966
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0000551-38.2020.5.05.0026",
@@ -747,7 +737,7 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26092110440709200000067084936?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 733374755,
@@ -755,17 +745,14 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://pje.trt5.jus.br/pjekz/validacao/26092110440747300000067084937?instancia=2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LEON ANGELO MATTEI",
-   "novos_ids": [
-    733374698,
-    733374755
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0827901-62.2024.8.19.0001",
@@ -972,16 +959,14 @@
      "tipo": "Intimação",
      "doc": "EMENTA / ACORDÃO",
      "link": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_tipo=integra&documento_sequencial=399776110&registro_numero=202601360122&peticao_numero=202600691497&publicacao_data=20260923&formato=PDF",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "FABIO GOMES DE FREITAS BASTOS",
-   "novos_ids": [
-    734264473
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0726293-54.2024.8.07.0001",
@@ -1204,16 +1189,14 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "https://pje.tjdft.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26092112340728100000263866517",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "HELENICE BATISTA COSTA",
-   "novos_ids": [
-    733566948
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0081386-93.2007.8.05.0001",
@@ -1372,16 +1355,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26092118222258700000552380514",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "EVERTON LUAN OLIVEIRA DE FIGUEIREDO",
-   "novos_ids": [
-    734206392
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8075356-75.2022.8.05.0001",
@@ -1452,16 +1433,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091615243298000000551517642",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    733564670
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0954344-24.2025.8.19.0001",
@@ -1532,16 +1511,14 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "https://tjrj.pje.jus.br/1g/Processo/ConsultaDocumento/listView.seam?x=26091714284784200000290245332",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LEANDRO DIAS THOME",
-   "novos_ids": [
-    733674401
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0887015-63.2023.8.19.0001",
@@ -1604,16 +1581,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://eproc1g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=08870156320238190001&idDocumento=191790012735814327046588033398&hash=14cc83f7cd74e56131be373da1656599ce130c0cb9a99edd54ed1a04316dd45d",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    733901709
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "7037132-43.2024.8.22.0001",
@@ -1804,16 +1779,14 @@
      "tipo": "Intimação",
      "doc": "Intimação",
      "link": "https://pjesg.tjro.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26092110573105800000036341268",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ALINE COSTA MONTEIRO ORIGA",
-   "novos_ids": [
-    733454233
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0221240-63.2017.8.19.0001",
@@ -1900,16 +1873,14 @@
      "tipo": "Pauta de julgamento",
      "doc": "Apelação",
      "link": "",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "THIAGO SOARES GARCIA",
-   "novos_ids": [
-    733485150
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0088902-50.2025.8.19.0000",
@@ -2052,16 +2023,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO / DECISÃO",
      "link": "https://processo.stj.jus.br/processo/dj/documento/?seq_documento=60151630&data_pesquisa=23/09/2026&versao=impressao&nu_seguimento=00001&tipo_documento=documento",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ELISA DO VALE LOBACK CORDEIRO",
-   "novos_ids": [
-    733327075
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8085842-22.2022.8.05.0001",
