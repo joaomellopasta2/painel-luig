@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-25T16:19-03:00",
- "gerado_em_label": "25/09/2026 16:19",
+ "gerado_em": "2026-09-26T00:18-03:00",
+ "gerado_em_label": "26/09/2026 00:18",
  "fonte": "DJEN/CNJ (comunica.pje.jus.br)",
  "advogado": "Luig Almeida Mota",
  "oab": "RJ 183486",
@@ -10,8 +10,8 @@
   "Transpetro"
  ],
  "total": 916,
- "novidades_qtd": 14,
- "rodada_anterior": "2026-09-24T00:20-03:00",
+ "novidades_qtd": 0,
+ "rodada_anterior": "2026-09-25T16:19-03:00",
  "primeira_rodada": false,
  "processos": [
   {
@@ -113,16 +113,14 @@
      "tipo": "Intimação",
      "doc": "Sentença",
      "link": "https://pje.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26092007121600600000551045013",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    737521388
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8127902-71.2026.8.05.0000",
@@ -215,16 +213,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26092416061099600000165625502",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    737926507
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8032928-42.2026.8.05.0000",
@@ -271,16 +267,14 @@
      "tipo": "Intimação",
      "doc": "Ementa",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26091611050126600000161715969",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
-   "novos_ids": [
-    738025195
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0959262-08.2024.8.19.0001",
@@ -375,7 +369,7 @@
      "tipo": "Ata de sessão",
      "doc": "Ata de sessão de julgamento",
      "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=09592620820248190001&idDocumento=191790257993267983034396775406&hash=4d7b6e2b9518ec757d0594ebf26a1375521897420c2c709e54ab2c3e81cacc44",
-     "novo": true
+     "novo": false
     },
     {
      "id": 738122606,
@@ -383,17 +377,14 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=09592620820248190001&idDocumento=191790277918843962634634294325&hash=037599d765dbbf1d05e4fb992722d25e5e3400e5728a90269573d9fae6ebe4cc",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "AGNALDO FELIPE DO NASCIMENTO BASTOS",
-   "novos_ids": [
-    738051223,
-    738122606
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0044024-40.2023.8.25.0001",
@@ -576,16 +567,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://www.tjse.jus.br/tjnet/consultas/internet/respnumprocesso.wsp?tmp.npro=202310701238",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "GLÓRIA ROBERTA MOURA MENEZES HERZFELD",
-   "novos_ids": [
-    737562852
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0889151-96.2024.8.19.0001",
@@ -760,16 +749,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO/DECISÃO",
      "link": "https://eproc1g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=08891519620248190001&idDocumento=191790263656299004152820189034&hash=6f6f753a2fdc09c129101eefcf43ac72d509eccd379555d3ba254ebca0838bc2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DANIEL BARBOSA SANTOS",
-   "novos_ids": [
-    737589286
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8042968-51.2024.8.05.0001",
@@ -848,16 +835,14 @@
      "tipo": "Intimação",
      "doc": "Decisão",
      "link": "https://pje2g.tjba.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26092117082770600000164556091",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LUCAS DE ALMEIDA SANTOS",
-   "novos_ids": [
-    737688708
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0000359-02.2011.5.02.0254",
@@ -920,16 +905,14 @@
      "tipo": "Intimação",
      "doc": "Despacho",
      "link": "https://consultaprocessual.tst.jus.br/consultaProcessual/resumoForm.do?consulta=1&numeroInt=147579&anoInt=2014",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "DR. ANDRÉ LUIZ TEIXEIRA PERDIZ PINHEIRO",
-   "novos_ids": [
-    738088898
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0818521-15.2024.8.19.0001",
@@ -1000,16 +983,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO/DECISÃO",
      "link": "https://eproc1g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=08185211520248190001&idDocumento=191790280295070256394495097105&hash=1a0998a993dbd93b0c007ca4123ef368482983cb7263adc50df5b9013042ebd1",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "NAYANA CRUZ RIBEIRO",
-   "novos_ids": [
-    738267803
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "3019432-72.2025.8.19.0001",
@@ -1088,16 +1069,14 @@
      "tipo": "Intimação",
      "doc": "DESPACHO/DECISÃO",
      "link": "https://eproc1g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=30194327220258190001&idDocumento=191790272341997412493889525240&hash=88b9837bdacfafbc04cebed320d4b712fb983494471dcb251c440ddb261220f6",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "VICTOR SARAIVA TORRES",
-   "novos_ids": [
-    737904785
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0068200-26.2010.5.17.0191",
@@ -1256,7 +1235,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26092413152064100000048101289?instancia=1",
-     "novo": true
+     "novo": false
     },
     {
      "id": 737644044,
@@ -1264,7 +1243,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26092413152064600000048101290?instancia=1",
-     "novo": true
+     "novo": false
     },
     {
      "id": 737644068,
@@ -1272,7 +1251,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26092413152064100000048101291?instancia=1",
-     "novo": true
+     "novo": false
     },
     {
      "id": 737644094,
@@ -1280,19 +1259,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt17.jus.br/pjekz/validacao/26092413152064600000048101292?instancia=1",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "SOFIA VAREJAO FILGUEIRAS",
-   "novos_ids": [
-    737644007,
-    737644044,
-    737644068,
-    737644094
-   ],
-   "novo": true,
-   "novos_qtd": 4
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "5141738-42.2025.4.02.5101",
@@ -1395,16 +1369,14 @@
      "tipo": "Intimação",
      "doc": "Ato ordinatório",
      "link": "https://eproc.trf2.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=51417384220254025101&idDocumento=21790268541566657293269471410&hash=30ddb109bd24a0fa7407d659dbcbc6ac6271593540b919c9a6f280c6b038b3a3",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ESIO COSTA JUNIOR",
-   "novos_ids": [
-    737677240
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0101618-50.2017.5.01.0030",
@@ -1539,7 +1511,7 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt1.jus.br/pjekz/validacao/26092414593015900000151716081?instancia=2",
-     "novo": true
+     "novo": false
     },
     {
      "id": 737863890,
@@ -1547,17 +1519,14 @@
      "tipo": "Intimação",
      "doc": "Notificação",
      "link": "https://pje.trt1.jus.br/pjekz/validacao/26092414593015900000151716081?instancia=2",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "ALESSANDRA ROLLER",
-   "novos_ids": [
-    737863808,
-    737863890
-   ],
-   "novo": true,
-   "novos_qtd": 2
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "0954743-24.2023.8.19.0001",
@@ -1692,16 +1661,14 @@
      "tipo": "Intimação",
      "doc": "Acórdão",
      "link": "https://eproc2g.tjrj.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=09547432420238190001&idDocumento=191790265315825083423313153814&hash=81b82aca26d5efafa4c5125a6c74454516203f7fe911a113769f5e0a03cdfb83",
-     "novo": true
+     "novo": false
     }
    ],
    "de_terceiros": true,
    "advogado": "LETICIA ARAUJO DOS SANTOS",
-   "novos_ids": [
-    737966493
-   ],
-   "novo": true,
-   "novos_qtd": 1
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
   },
   {
    "num": "8022193-47.2026.8.05.0000",
@@ -83818,6 +83785,244 @@
    "novos_qtd": 0
   },
   {
+   "num": "8005161-97.2024.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "Agravo de Instrumento",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "Rafael Veloso Louredo",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2024-02-06",
+   "ultima_data": "2024-04-23",
+   "duracao_dias": 77,
+   "qtd_coms": 26,
+   "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+   "coms": [
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-06-26",
+     "data": "2024-02-06",
+     "tipo": "Distribuição",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-06-85",
+     "data": "2024-02-06",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-06-85",
+     "data": "2024-02-06",
+     "tipo": "Petição",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-06-60",
+     "data": "2024-02-06",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-06-60",
+     "data": "2024-02-06",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-06-51",
+     "data": "2024-02-06",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-06-14736",
+     "data": "2024-02-06",
+     "tipo": "Inclusão no Juízo 100% Digital",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-18-941",
+     "data": "2024-02-18",
+     "tipo": "Incompetência",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-20-581",
+     "data": "2024-02-20",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-20-51",
+     "data": "2024-02-20",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-20-581",
+     "data": "2024-02-20",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-20-36",
+     "data": "2024-02-20",
+     "tipo": "Redistribuição",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-20-123",
+     "data": "2024-02-20",
+     "tipo": "Remessa",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-21-1061",
+     "data": "2024-02-21",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-21-92",
+     "data": "2024-02-21",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-22-235",
+     "data": "2024-02-22",
+     "tipo": "Não Conhecimento de recurso",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-23-581",
+     "data": "2024-02-23",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-24-1061",
+     "data": "2024-02-24",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-02-24-92",
+     "data": "2024-02-24",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-03-19-1051",
+     "data": "2024-03-19",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-03-19-1051",
+     "data": "2024-03-19",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-03-26-1051",
+     "data": "2024-03-26",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-03-26-1051",
+     "data": "2024-03-26",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-04-23-581",
+     "data": "2024-04-23",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-04-23-22",
+     "data": "2024-04-23",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    },
+    {
+     "id": "8005161-97.2024.8.05.0000-2024-04-23-246",
+     "data": "2024-04-23",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
+     "novo": false
+    }
+   ],
+   "fonte": "TJBA + DataJud",
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
    "num": "8001716-42.2022.8.05.0000",
    "trib": "TJBA",
    "instancia": "2º grau (Tribunal)",
@@ -85376,6 +85581,276 @@
    "novos_qtd": 0
   },
   {
+   "num": "8035514-91.2022.8.05.0000",
+   "trib": "TJBA",
+   "instancia": "2º grau (Tribunal)",
+   "classe": "Agravo de Instrumento",
+   "objeto": "Concurso/Seleção Petrobras (PSP)",
+   "cliente": "Marcel da Costa Fontes",
+   "polo": "Cliente de Luig × Petrobras/Transpetro",
+   "transito": true,
+   "resultado": "",
+   "sinal": "",
+   "sigiloso": false,
+   "posse": false,
+   "posse_tipo": "",
+   "posse_evid": "",
+   "preterição": false,
+   "data_inicio": "2023-05-21",
+   "ultima_data": "2023-09-12",
+   "duracao_dias": 114,
+   "qtd_coms": 30,
+   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+   "coms": [
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-05-21-1061",
+     "data": "2023-05-21",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-05-21-1061",
+     "data": "2023-05-21",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-05-24-581",
+     "data": "2023-05-24",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-05-26-1061",
+     "data": "2023-05-26",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-05-92",
+     "data": "2023-06-05",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-05-92",
+     "data": "2023-06-05",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-06-1051",
+     "data": "2023-06-06",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-06-1051",
+     "data": "2023-06-06",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-07-1051",
+     "data": "2023-06-07",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-08-1051",
+     "data": "2023-06-08",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-09-1051",
+     "data": "2023-06-09",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-09-1051",
+     "data": "2023-06-09",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-26-581",
+     "data": "2023-06-26",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-26-982",
+     "data": "2023-06-26",
+     "tipo": "Remessa",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-26-51",
+     "data": "2023-06-26",
+     "tipo": "Conclusão",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-06-26-849",
+     "data": "2023-06-26",
+     "tipo": "Reativação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-07-581",
+     "data": "2023-08-07",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-09-11010",
+     "data": "2023-08-09",
+     "tipo": "Mero expediente",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-10-1061",
+     "data": "2023-08-10",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-14-60",
+     "data": "2023-08-14",
+     "tipo": "Expedição de documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-14-581",
+     "data": "2023-08-14",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-15-92",
+     "data": "2023-08-15",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-15-1061",
+     "data": "2023-08-15",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-16-1061",
+     "data": "2023-08-16",
+     "tipo": "Disponibilização no Diário da Justiça Eletrônico",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-08-16-92",
+     "data": "2023-08-16",
+     "tipo": "Publicação",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-09-07-1051",
+     "data": "2023-09-07",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-09-07-1051",
+     "data": "2023-09-07",
+     "tipo": "Decurso de Prazo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-09-12-581",
+     "data": "2023-09-12",
+     "tipo": "Documento",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-09-12-246",
+     "data": "2023-09-12",
+     "tipo": "Definitivo",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    },
+    {
+     "id": "8035514-91.2022.8.05.0000-2023-09-12-22",
+     "data": "2023-09-12",
+     "tipo": "Baixa Definitiva",
+     "doc": "",
+     "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
+     "novo": false
+    }
+   ],
+   "fonte": "TJBA + DataJud",
+   "de_terceiros": false,
+   "advogado": "Luig Almeida Mota",
+   "novos_ids": [],
+   "novo": false,
+   "novos_qtd": 0
+  },
+  {
    "num": "8044078-59.2022.8.05.0000",
    "trib": "TJBA",
    "instancia": "2º grau (Tribunal)",
@@ -86805,64 +87280,6 @@
     }
    ],
    "fonte": "TJBA + DataJud",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8035514-91.2022.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "Recurso · 2º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "Marcel da Costa Fontes",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://www.tjba.jus.br/portal/wp-content/uploads/2023/04/Pauta-do-dia-plenario-virtual-24-04-a-02-05-2023.pdf",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
-   "de_terceiros": false,
-   "advogado": "Luig Almeida Mota",
-   "novos_ids": [],
-   "novo": false,
-   "novos_qtd": 0
-  },
-  {
-   "num": "8005161-97.2024.8.05.0000",
-   "trib": "TJBA",
-   "instancia": "2º grau (Tribunal)",
-   "classe": "Recurso · 2º grau",
-   "objeto": "Outro / não classificado",
-   "cliente": "Rafael Veloso Louredo",
-   "polo": "Cliente de Luig × Petrobras/Transpetro",
-   "transito": false,
-   "resultado": "",
-   "sinal": "",
-   "sigiloso": false,
-   "posse": false,
-   "posse_tipo": "",
-   "posse_evid": "",
-   "preterição": false,
-   "data_inicio": "",
-   "ultima_data": "",
-   "duracao_dias": "",
-   "qtd_coms": 0,
-   "link": "https://www.escavador.com/processos-judiciais/800xxxx-9720248050000-12467e1fbb",
-   "coms": [],
-   "fonte": "TJBA (fonte externa)",
    "de_terceiros": false,
    "advogado": "Luig Almeida Mota",
    "novos_ids": [],
